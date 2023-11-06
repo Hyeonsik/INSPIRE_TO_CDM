@@ -5,12 +5,15 @@ __pycache__/
 
 # Custom Data Files
 *.csv
+*.xlsx
 *.zip
 WhiteRabbit/
 vocab/
 sample/
 inspire/
-
+mover/
+icd10pcs_mapping/
+*.gz
 
 # C extensions
 *.so
