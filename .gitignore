@@ -11,7 +11,12 @@ WhiteRabbit/
 vocab/
 sample/
 inspire/
+*.parquet
 mover/
+inspire_v2/
+MOVER_ETL/
+INSPIRE_ETL/
+
 icd10pcs_mapping/
 *.gz
 
