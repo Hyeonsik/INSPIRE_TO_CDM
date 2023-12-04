@@ -1,0 +1,33 @@
+﻿MED_ROUTE_NM,concept_name,concept_id
+IntraVENOUS,Intravenous route,4171047
+Oral,Oral route,4132161
+Subcutaneous,Subcutaneous route,4142048
+NG Tube,Nasogastric route,4132711
+Topical,Topical route,4263689
+Nebulization,Inhalation,45956874
+Both Eyes,Ocular route,40549429
+Each Naris,Nasal route,4262914
+CRRT Circuit,,
+G Tube,Gastrostomy route,4132254
+Transdermal,Transdermal route,4262099
+Mouth/Throat,,
+Inhalation,Inhalation,45956874
+IntraMUSCULAR,Intramuscular route,4302612
+Rectal,Rectal route,4290759
+Right Eye,Ocular route,40549429
+Irrigation,,
+Left Eye,Ocular route,40549429
+IntraCATHETER,,
+Other,,
+J Tube,Jejunostomy route,4133177
+Urethral,Urethral route,4233974
+OG Tube,Orogastric route,4303795
+NERVE Catheter,,
+Ventricular Assist Device,,
+aerosolized,,
+IntraDERMAL,Intradermal route,4156706
+Epidural,Epidural route,4225555
+Injection,,
+Dialysis,,
+,,
+Infiltration,,

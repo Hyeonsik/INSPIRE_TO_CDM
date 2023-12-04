@@ -1,0 +1,49 @@
+,Table,Label,Description,concept_name,concept_id,vocab,Unit,unit_concept_id,Reference value,name,count
+0,labs,alb,Albumin,Albumin [Mass/volume] in Serum or Plasma,3024561,LOINC,g/dL,8713,3.3~5.2,alb,5278.0
+1,labs,alt,Alanine transferase,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,3006923,LOINC,IU/L,8923,1~40,alt,5279.0
+2,labs,ammo,Ammonia,Ammonia [Mass/volume] in Plasma,3036887,LOINC,mcg/dL,8837,27.2~102,ammo,102.0
+3,labs,aptt,Activated partial thromboplastin time,aPTT in Platelet poor plasma by Coagulation assay,3018677,LOINC,sec,8555,26.7~36.6,aptt,4437.0
+4,labs,ast,Asparate transferase,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,3013721,LOINC,IU/L,8923,1~40,ast,5279.0
+5,labs,be,Base excess,Base excess standard in Arterial blood by calculation,3021421,LOINC,mmol/L,8753,-2.0~3.0,be,897.0
+6,labs,bun,Blood urea nitrogen,Urea nitrogen [Mass/volume] in Serum or Plasma,3013682,LOINC,mg/dL,8840,10~26,bun,5170.0
+7,labs,ccr,Glomerular filtration rate,Creatinine renal clearance in 24 hour Urine and Serum or Plasma,3005770,LOINC,mL/min,8795,75~125,ccr,242.0
+8,labs,cl,Chloride,Chloride [Moles/volume] in Serum or Plasma,3014576,LOINC,mmol/L,8753,98~110,cl,5250.0
+9,labs,cr,Creatinine,Creatinine [Mass/volume] in Serum or Plasma,3016723,LOINC,mg/dL,8840,0.70~1.40,cr,5170.0
+10,labs,crp,C-reactive protein,C reactive protein [Mass/volume] in Serum or Plasma by High sensitivity method,3010156,LOINC,mg/dL,8840,0~0.5,crp,4669.0
+11,labs,esr,Erythrocyte sedimentation rate,Erythrocyte sedimentation rate,3015183,LOINC,mm/hr,8752,0~9,esr,663.0
+12,labs,fib,Fibrinogen,Fibrinogen [Mass/volume] in Platelet poor plasma by Coagulation assay,3016407,LOINC,mg/dL,8840,192~411,fib,4302.0
+13,labs,gfr,Glomerular filtration rate,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood",40771922,LOINC,mL/min/1.73 m2,720870,90~120,gfr,5144.0
+14,labs,gluc,Glucose,Glucose [Mass/volume] in Serum or Plasma,3004501,LOINC,mg/dL,8840,70~110,gluc,5091.0
+15,labs,hb,Hemoglobin,Hemoglobin [Mass/volume] in Blood,3000963,LOINC,g/dL,8713,13~17,hb,5371.0
+16,labs,hco3,Bicarbonate,Bicarbonate [Moles/volume] in Arterial blood,3008152,LOINC,mmol/L,8753,18~23.0,hco3,3483.0
+17,labs,hct,Hematocrit,Hematocrit [Volume Fraction] of Blood,3009542,LOINC,%,8554,39~52,hct,5457.0
+18,labs,ica,ionized Calcium,Calcium.ionized [Mass/volume] in Serum or Plasma,3027694,LOINC,mmol/L,8753,1.05~1.35,ica,3745.0
+19,information,intraop_ca,Calcium chloride,calcium chloride,19036781,RxNorm,mg,8576,,,
+20,information,intraop_colloid,Intraoperative colloid,,,,mL,,,,
+21,information,intraop_crystalloid,Intraoperative crystalloid,,,,mL,,,,
+22,information,intraop_ebl,Estimated blood loss,Blood loss.total intraoperative [Volume] Estimated,3021505,LOINC,mL,8587,,,
+23,information,intraop_eph,Ephedrine,ephedrine,1143374,RxNorm,mg,8576,,,
+24,information,intraop_epi,Epinephrine,epinephrine,1343916,RxNorm,ug,9655,,,
+25,information,intraop_ffp,Intraoperative FFP transfusion,Transfuse fresh frozen plasma units [#],3040962,LOINC,Unit,8510,,,
+26,information,intraop_ftn,Fentanyl,fentanyl,1154029,RxNorm,ug,9655,,,
+27,information,intraop_mdz,Midazolam,midazolam,708298,RxNorm,mg,8576,,,
+28,information,intraop_phe,Phenylephrine,phenylephrine,1135766,RxNorm,ug,9655,,,
+29,information,intraop_ppf,Propofol bolus,propofol,753626,RxNorm,mg,8576,,,
+30,information,intraop_rbc,Intraoperative RBC transfusion,Transfuse packed erythrocytes units [#],3040494,LOINC,Unit,8510,,,
+31,information,intraop_rocu,Rocuronium,rocuronium,19003953,RxNorm,mg,8576,,,
+32,information,intraop_uo,Intraoperative urine output,Urine output,3014315,LOINC,mL,8587,,,
+33,information,intraop_vecu,Vecuronium,vecuronium,19012598,RxNorm,mg,8576,,,
+34,labs,k,Potassium,Potassium [Moles/volume] in Serum or Plasma,3023103,LOINC,mmol/L,8753,3.5~5.5,k,5402.0
+35,labs,lac,Lactate,Lactate [Moles/volume] in Blood,3047181,LOINC,mmol/L,8753,0.5~2.2,lac,3473.0
+36,labs,na,Sodium,Sodium [Moles/volume] in Serum or Plasma,3019550,LOINC,mmol/L,8753,135~145,na,5402.0
+37,labs,pco2,partial pressure of CO2,Carbon dioxide [Partial pressure] in Arterial blood,3027946,LOINC,mmHg,8876,35~48,pco2,3483.0
+38,labs,ph,pH,pH of Arterial blood,3019977,LOINC,,0,7.35~7.45,ph,3483.0
+39,labs,plt,Platelet count,Platelets [#/volume] in Blood,3007461,LOINC,1000/mcL,8848,130~400,plt,5369.0
+40,labs,po2,partial pressure of O2,Oxygen [Partial pressure] in Arterial blood,3027801,LOINC,mmHg,8876,83~108,po2,3483.0
+41,labs,pt%,Prothrombin time (%),Prothrombin time (PT) actual/Normal,3033658,LOINC,%,8554,80~120,pt%,4446.0
+42,labs,ptinr,Prothrombin time (INR),INR in Platelet poor plasma by Coagulation assay,3022217,LOINC,INR,0,0.8~1.2,ptinr,4446.0
+43,labs,ptsec,Prothrombin time (sec),Prothrombin time (PT),3034426,LOINC,sec,8555,10.6~12.9,ptsec,4446.0
+44,labs,sao2,Arterial oxygen saturation,Oxygen saturation in Arterial blood,3016502,LOINC,%,8554,95~98,sao2,3483.0
+45,labs,tbil,Total bilirubin,Bilirubin.total [Mass/volume] in Serum or Plasma,3024128,LOINC,mg/dL,8840,0.2~1.2,tbil,5278.0
+46,labs,tprot,Total protein,Protein [Mass/volume] in Serum or Plasma,3020630,LOINC,g/dL,8713,6.0~8.0,tprot,5278.0
+47,labs,wbc,White blood cell count,Leukocytes [#/volume] in Blood,3010813,LOINC,1000/mcL,8848,4~10,wbc,5371.0

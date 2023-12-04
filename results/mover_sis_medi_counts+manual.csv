@@ -1,0 +1,166 @@
+ingredient,count,medication,perc,concept_name,concept_id,mismatch
+fentanyl,17688,Fentanyl,93.08983738,fentanyl,1154029,0
+propofol,16567,Propofol,87.19014789,propofol,753626,0
+midazolam,14307,Midazolam,75.29603705,midazolam,708298,0
+lidocaine,14143,Lidocaine,74.43292458,lidocaine,989878,0
+ondansetron,13788,Ondansetron,72.56460186,ondansetron,1000560,0
+dexamethasone,10611,Dexamethasone,55.84442924,dexamethasone,1518254,0
+glycopyrrolate,9394,Glycopyrrolate,49.43950318,glycopyrronium,45775571,1
+plasmalyte,9097,Plasmalyte,47.87642756,,,1
+cefazolin,8683,Cefazolin,45.69759486,cefazolin,1771162,0
+neostigmine,8501,Neostigmine,44.73975054,neostigmine,717136,0
+phenylephrine,7627,Phenylephrine,40.13999263,phenylephrine,1135766,0
+ephedrine,7279,Ephedrine,38.30851008,ephedrine,1143374,0
+lactated ringers,7093,Lactated ringers,37.32961423,calcium chloride 0.0014 MEQ/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,19135374,1
+succinylcholine,6747,Succinylcholine,35.50865744,succinylcholine,836208,0
+vecuronium,6089,Vecuronium,32.04568181,vecuronium,19012598,0
+propofol  drip,5221,Propofol  drip,27.47750118,propofol,753626,0
+rocuronium,5066,Rocuronium,26.66175464,rocuronium,19003953,0
+hydromorphone,3978,Hydromorphone,20.93574022,hydromorphone,1126658,0
+acetaminophen,3827,Acetaminophen,20.14104521,acetaminophen,1125315,0
+sodium chloride,3254,Sodium chloride 0.9%,17.12541445,sodium chloride,967823,0
+albumin human,1975,Albumin human 5%,10.39418978,"albumin human, USP",1344143,1
+remifentanyl,1810,Remifentanyl-d,9.525814431,remifentanil,19016749,1
+vancomycin,1736,Vancomycin,9.136361244,vancomycin,1707687,0
+calcium chloride,1578,Calcium chloride,8.304826062,calcium chloride,19036781,0
+ketorolac,1484,Ketorolac,7.810115257,ketorolac,1136980,0
+cefoxitin,1289,Cefoxitin,6.783853481,cefoxitin,1775741,0
+esmolol,1279,Esmolol,6.731224672,esmolol,19063575,0
+packed red blood cells,1260,Packed red blood cells,6.631229935,,,1
+cisatracurium,1190,Cisatracurium,6.262828272,cisatracurium,19015726,0
+ketamine,1093,Ketamine,5.752328825,ketamine,785649,0
+diphenhydramine,1054,Diphenhydramine,5.54707647,diphenhydramine,1129625,0
+clindamycin,1041,Clindamycin,5.478659018,clindamycin,997881,0
+heparin,993,Heparin,5.226040735,heparin,1367571,0
+ertapenem,970,Ertapenem,5.104994474,ertapenem,1717963,0
+labetalol,896,Labetalol,4.715541287,labetalol,1386957,0
+vasopressin,893,Vasopressin,4.699752645,vasopressin (USP),1507835,1
+cefepime,870,Cefepime,4.578706384,cefepime,1748975,0
+morphine,739,Morphine,3.889268986,morphine,1110410,0
+metoclopramide,616,Metoclopramide,3.241934635,metoclopramide,906780,0
+insulin regular,596,Insulin regular,3.136677017,"insulin, regular, human",1596977,1
+ciprofloxacin,577,Ciprofloxacin,3.03668228,ciprofloxacin,1797513,0
+famotidine,512,Famotidine,2.694595021,famotidine,953076,0
+ampicillin,488,Ampicillin-sulbactam,2.56828588,ampicillin,1717327,0
+fresh frozen plasma,485,Fresh frozen plasma,2.552497237,Fresh frozen plasma,4223728,1
+albuterol,436,Albuterol,2.294616073,albuterol,1154343,0
+mannitol,431,Mannitol 25%,2.268301668,mannitol,994058,0
+sulbactam,426,Ampicillin-sulbactam,2.241987264,sulbactam,1836241,0
+furosemide,414,Furosemide,2.178832693,furosemide,956874,0
+sugammadex,400,Sugammadex,2.10515236,sugammadex,35604506,0
+zosyn,376,Zosyn,1.978843219,,,1
+gentamicin,373,Gentamicin,1.963054576,gentamicin,45892419,0
+doxycycline,356,Doxycycline,1.873585601,doxycycline,1738521,0
+hydrocortisone,350,Hydrocortisone,1.842008315,hydrocortisone,975125,0
+platelets,343,Platelets,1.805168149,,,1
+metronidazole,341,Metronidazole,1.794642387,metronidazole,1707164,0
+tranexamic acid,337,Tranexamic acid,1.773590864,tranexamic acid,1303425,0
+norepinephrine,330,Norepinephrine,1.736750697,norepinephrine,1321341,0
+nitroglycerin,307,Nitroglycerin,1.615704437,nitroglycerin,1361711,0
+ceftriaxone,306,Ceftriaxone,1.610441556,ceftriaxone,1777806,0
+protamine,298,Protamine,1.568338508,,,1
+methylprednisolone,255,Methylprednisolone,1.34203463,methylprednisolone,1506270,0
+hydralazine,248,Hydralazine,1.305194463,hydralazine,1373928,0
+scopolamine,237,Scopolamine,1.247302774,scopolamine,965748,0
+epinephrine,232,Epinephrine,1.220988369,epinephrine,1343916,0
+levetiracetam,224,Levetiracetam,1.178885322,levetiracetam,711584,0
+dobutamine,223,Dobutamine,1.173622441,dobutamine,1337720,0
+cell saver blood,221,Cell saver blood,1.163096679,,,1
+potassium chloride,213,Potassium chloride,1.120993632,potassium chloride,19049105,0
+ceftazidime,204,Ceftazidime,1.073627704,ceftazidime,1776684,0
+amicar,191,Amicar,1.005210252,,,1
+magnesium sulfate,182,Magnesium sulfate,0.957844324,magnesium sulfate,19093848,0
+metoprolol,181,Metoprolol,0.952581443,metoprolol,1307046,0
+dexmedetomidine,178,Dexmedetomidine,0.9367928,dexmedetomidine,19061088,0
+meperidine,156,Meperidine,0.821009421,meperidine,1102527,0
+methylene blue,155,Methylene blue,0.81574654,methylene blue,905518,0
+sodium bicarbonate,147,Sodium bicarbonate,0.773643492,sodium bicarbonate,939506,0
+levofloxin,140,Levofloxin,0.736803326,,,1
+oxytocin,137,Oxytocin,0.721014683,oxytocin,1326115,0
+remifentanil,136,Remifentanil,0.715751803,remifentanil,19016749,0
+tobramycin,130,Tobramycin,0.684174517,tobramycin,902722,0
+nicardipine,122,Nicardipine,0.64207147,nicardipine,1318137,0
+dextrose,117,Dextrose 5% 0.9 ns,0.615757065,,,1
+indocyanine green,115,Indocyanine green,0.605231304,indocyanine green,19078612,0
+etomidate,112,Etomidate,0.589442661,etomidate,19050488,0
+methergine,101,Methergine,0.531550971,,,1
+cryoprecipitate,92,Cryoprecipitate,0.484185043,cryoprecipitate,36848862,0
+desmopressin,90,Desmopressin,0.473659281,desmopressin,1517070,0
+amiodarone,70,Amiodarone,0.368401663,amiodarone,1309944,0
+piperacillin,61,Piperacillin-tazobactam,0.321035735,piperacillin,1746114,0
+tazobactam,61,Piperacillin-tazobactam,0.321035735,tazobactam,1741122,0
+tpn,61,TPN,0.321035735,,,1
+octreotide,57,Octreotide - d,0.299984211,octreotide,1522957,0
+fluorescein,56,Fluorescein,0.29472133,fluorescein,996625,0
+glucagon,51,Glucagon,0.268406926,glucagon,1560278,0
+atropine,48,Atropine,0.252618283,atropine,914335,0
+acetazolamide,40,Acetazolamide,0.210515236,acetazolamide,929435,0
+dopamine,39,Dopamine,0.205252355,dopamine,1337860,0
+milrinone,36,Milrinone,0.189463712,milrinone,1368671,0
+ivig,35,IVIG,0.184200832,,,1
+potassium phosphate,30,Potassium phosphate,0.157886427,potassium phosphate,19027362,0
+fluconazole,25,Fluconazole,0.131572023,fluconazole,1754994,0
+naloxone,24,Naloxone,0.126309142,naloxone,1114220,0
+sufentanil,21,Sufentanil,0.110520499,sufentanil,19078219,0
+basiliximab,21,Basiliximab,0.110520499,basiliximab,19038440,0
+meropenem,19,Meropenem,0.099994737,meropenem,1709170,0
+fluorouracil,18,Fluorouracil - 5fu,0.094731856,fluorouracil,955632,0
+calcium gluconate,18,Calcium gluconate,0.094731856,calcium gluconate,19037038,0
+saline,18,Saline 3%,0.094731856,,,1
+carboprost,17,Carboprost,0.089468975,carboprost,19049150,0
+leucovorin calcium,17,Leucovorin calcium,0.089468975,leucovorin,1388796,0
+methylergonovine,15,Methylergonovine,0.078943214,methylergonovine,1305637,0
+aztreonam,15,Aztreonam,0.078943214,aztreonam,1715117,0
+coagulation factor viia,13,Coagulation factor viia,0.068417452,,,1
+penicillin g,13,Penicillin g,0.068417452,penicillin g,1728416,0
+nafcillin,11,Nafcillin,0.05789169,nafcillin,1713930,0
+methadone,11,Methadone,0.05789169,methadone,1103640,0
+oxymetazoline nasal,11,Oxymetazoline nasal,0.05789169,oxymetazoline,925636,0
+lorazepam,11,Lorazepam,0.05789169,lorazepam,791967,0
+sufentanil drip,11,Sufentanil drip,0.05789169,sufentanil,19078219,0
+methohexital,10,Methohexital,0.052628809,methohexital,19005015,0
+sodium phosphate,10,Sodium phosphate,0.052628809,sodium phosphate,939871,0
+dextran,10,Dextran 40,0.052628809,dextran,1352890,0
+diltiazem,10,Diltiazem,0.052628809,diltiazem,1328165,0
+pantoprazole,9,Pantoprazole,0.047365928,pantoprazole,948078,0
+linezolid,9,Linezolid,0.047365928,linezolid,1736887,0
+amiodarone drip ml,8,Amiodarone drip ml/hr,0.042103047,amiodarone,1309944,0
+phenylephrine nasal,8,Phenylephrine nasal,0.042103047,phenylephrine,1135766,0
+tromethamine,8,Tromethamine,0.042103047,tromethamine,19006047,0
+simulect,6,Simulect,0.031577285,,,1
+levothyroxine,6,Levothyroxine,0.031577285,levothyroxine,1501700,0
+argatroban,5,Argatroban,0.026314405,argatroban,1322207,0
+promethazine,5,Promethazine,0.026314405,promethazine,1153013,0
+amphotericin b,5,Amphotericin b,0.026314405,amphotericin b,1717240,0
+phenytoin,4,Phenytoin,0.021051524,phenytoin,740910,0
+hetastarch,4,Hetastarch,0.021051524,hetastarch,19077117,0
+bacitracin,4,Bacitracin,0.021051524,bacitracin,915175,0
+isoproterenol,4,Isoproterenol,0.021051524,isoproterenol,1183554,0
+ceftizoxime,4,Ceftizoxime,0.021051524,ceftizoxime,1777254,0
+indigo carmine,4,Indigo carmine,0.021051524,indigo,43532336,0
+cefotaxime,3,Cefotaxime,0.015788643,cefotaxime,1774470,0
+lacosamide,3,Lacosamide,0.015788643,lacosamide,19087394,0
+cilastatin,3,Imipenem-cilastatin,0.015788643,cilastatin,1797258,0
+phytonadione,3,Phytonadione,0.015788643,,,1
+aspirin,3,Aspirin,0.015788643,aspirin,1112807,0
+ocular lubricant,3,Ocular lubricant,0.015788643,,,1
+imipenem,3,Imipenem-cilastatin,0.015788643,imipenem,1778262,0
+prothrombin,3,Prothrombin,0.015788643,prothrombin,44507865,0
+propranolol,3,Propranolol,0.015788643,propranolol,1353766,0
+bupivacaine,2,Bupivacaine 0.75%,0.010525762,bupivacaine,732893,0
+ropivacaine,2,Ropivacaine 0.5%,0.010525762,ropivacaine,1136487,0
+daptomycin,2,Daptomycin,0.010525762,daptomycin,1786617,0
+tmp,2,SMO-TMP,0.010525762,,,1
+diazepam,2,Diazepam,0.010525762,diazepam,723013,0
+adenosine,2,Adenosine,0.010525762,adenosine,1309204,0
+smo,2,SMO-TMP,0.010525762,,,1
+perfusion pump blood,1,Perfusion pump blood,0.005262881,,,1
+nitroprusside,1,Nitroprusside,0.005262881,nitroprusside,19020994,0
+aminocaproic acid,1,Aminocaproic acid,0.005262881,,,1
+flumazenil,1,Flumazenil,0.005262881,flumazenil,19055153,0
+codeine,1,Acetaminophen-codeine,0.005262881,codeine,1201620,0
+voriconozole,1,Voriconozole,0.005262881,,,1
+cocaine,1,Cocaine,0.005262881,cocaine,1001419,0
+ipratropium,1,Ipratropium 0.02%,0.005262881,ipratropium,1112921,0
+cefotetan,1,Cefotetan,0.005262881,cefotetan,1774932,0
+physostigmine,1,Physostigmine,0.005262881,physostigmine,19044337,0

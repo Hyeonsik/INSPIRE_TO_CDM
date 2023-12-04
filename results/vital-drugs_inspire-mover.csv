@@ -1,0 +1,280 @@
+Table,Label_inspire,Unit,Description,concept_name,concept_id,vocab,unit_concept_id,MEDICATION_NM
+vitals,aft,ug,Infused dose of alfentanil,alfentanil,19059528,RxNorm,9655.0,
+vitals,alb20,mL,Infused volume of albumin 20%,"albumin human, USP 200 MG/ML Injection",35605716,RxNorm,8587.0,
+vitals,alb5,mL,Infused volume of albumin 5%,"albumin human, USP 50 MG/ML Injection",35605886,RxNorm,8587.0,
+vitals,d10w,mL,Infused volume of Dextrose 10% water,glucose 100 MG/ML Injection,36249710,RxNorm,8587.0,
+vitals,d50w,mL,Infused volume of Dextrose 50% water,glucose 500 MG/ML Injection,36249719,RxNorm,8587.0,
+vitals,d5w,mL,Infused volume of Dextrose 5% water,glucose 50 MG/ML Injection,36249735,RxNorm,8587.0,
+vitals,dobui,ug/kg/min,Rate of dobutamine continuous infusion,dobutamine,1337720,RxNorm,9688.0,DOBUTAMINE IN D5W 4-5 MG/ML-% IV SOLN
+vitals,dobui,ug/kg/min,Rate of dobutamine continuous infusion,dobutamine,1337720,RxNorm,9688.0,DOBUTAMINE IN D5W 1 MG/ML IV SOLN
+vitals,dobui,ug/kg/min,Rate of dobutamine continuous infusion,dobutamine,1337720,RxNorm,9688.0,DOBUTAMINE 500 MG/250 ML D5W PREMIX INFUSION (UCI)
+vitals,dobui,ug/kg/min,Rate of dobutamine continuous infusion,dobutamine,1337720,RxNorm,9688.0,DOBUTAMINE 500 MG/250 ML NS INFUSION (UCI)
+vitals,dobui,ug/kg/min,Rate of dobutamine continuous infusion,dobutamine,1337720,RxNorm,9688.0,DOBUTAMINE 1000 MG/250 ML VARIABLE BASE INFUSION (UCI)
+vitals,dobui,ug/kg/min,Rate of dobutamine continuous infusion,dobutamine,1337720,RxNorm,9688.0,DOBUTamine (DOBUTREX) 500 mg/250 mL (2 mg/mL) infusion  - ADS OVERRIDE
+vitals,dobui,ug/kg/min,Rate of dobutamine continuous infusion,dobutamine,1337720,RxNorm,9688.0,DOBUTamine 500 mg/250 mL infusion  - ADS OVERRIDE
+vitals,dobui,ug/kg/min,Rate of dobutamine continuous infusion,dobutamine,1337720,RxNorm,9688.0,DOBUTAMINE 5 MG/ML PEDS INFUSION >=45KG (UCI)
+vitals,dopai,ug/kg/min,Rate of dopamine continuous infusion,dopamine,1337860,RxNorm,9688.0,DOPAMINE IN NS INFUSION (VARIABLE CONCENTRATION) (UCI)
+vitals,dopai,ug/kg/min,Rate of dopamine continuous infusion,dopamine,1337860,RxNorm,9688.0,DOPAMINE 400 MG/250 ML D5W PREMIX INFUSION (UCI)
+vitals,dopai,ug/kg/min,Rate of dopamine continuous infusion,dopamine,1337860,RxNorm,9688.0,DOPAMINE IN D5W 3.2-5 MG/ML-% IV SOLN
+vitals,dopai,ug/kg/min,Rate of dopamine continuous infusion,dopamine,1337860,RxNorm,9688.0,DOPAMINE 800 MG/250 ML D5W PREMIX INFUSION (UCI)
+vitals,dopai,ug/kg/min,Rate of dopamine continuous infusion,dopamine,1337860,RxNorm,9688.0,DOPamine (INTROPIN) 400 mg/250 mL infusion  - ADS OVERRIDE
+vitals,eph,mg,Injected dose of Ephedrine,ephedrine,1143374,RxNorm,8576.0,EPHEDRINE SULFATE 50 MG/ML IJ SOLN
+vitals,eph,mg,Injected dose of Ephedrine,ephedrine,1143374,RxNorm,8576.0,EPHEDRINE SULFATE 50 MG/ML IV SOLN
+vitals,eph,mg,Injected dose of Ephedrine,ephedrine,1143374,RxNorm,8576.0,EPHEDRINE SULFATE-NACL 50-0.9 MG/10ML-% IV SOSY
+vitals,eph,mg,Injected dose of Ephedrine,ephedrine,1143374,RxNorm,8576.0,ePHEDrine-NaCl (PF) 50-0.9 MG/10ML-% injection  - ADS OVERRIDE
+vitals,eph,mg,Injected dose of Ephedrine,ephedrine,1143374,RxNorm,8576.0,EPHEDRINE SULFATE-NACL (PF) 50-0.9 MG/10ML-% IV SOSY
+vitals,eph,mg,Injected dose of Ephedrine,ephedrine,1143374,RxNorm,8576.0,EPHEDRINE-GUAIFENESIN 12.5-200 MG OR TABS
+vitals,eph,mg,Injected dose of Ephedrine,ephedrine,1143374,RxNorm,8576.0,EPHEDRINE SULFATE 5 MG/ML IV SOLN
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,LIDOCAINE-EPINEPHRINE 1 %-1:100000 IJ SOLN
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,BUPIVACAINE-EPINEPHRINE (PF) 0.5% -1:200000 IJ SOLN
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,EPINEPHRINE PF 1 MG/ML IJ SOLN
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,BUPIVACAINE-EPINEPHRINE (PF) 0.25% -1:200000 IJ SOLN
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,EPINEPHRINE 16 MG/250 ML INFUSION - CENTRAL LINE ONLY (UCI)
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,EPINEPHRINE HCL (NASAL) 0.1 % NA SOLN
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,EPINEPHRINE HCL 1 MG/ML IJ SOLN
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,LIDOCAINE-EPINEPHRINE 0.5 %-1:200000 IJ SOLN
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,BUPIVACAINE-EPINEPHRINE 0.5 % IJ SOLN
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,EPINEPHRINE 1 MG IN 1000 ML NS TOPICAL SOLUTION (OPTIME)
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,EPINEPHRINE 8 MG/250 ML INFUSION (UCI)
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,EPINEPHRINE 1 MG/10ML IJ SOSY
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,EPINEPHRINE INFUSION (ANESTHESIA)
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,EPINEPHRINE PF 1 MG/10ML IJ SOSY
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,LIDOCAINE-EPINEPHRINE 1.5 %-1:200000 IJ SOLN
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,EPINEPHRINE IRRIGATION FOR ARTHROSCOPY (OPTIME)
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,lidocaine-EPINEPHrine 1 %-1:100000 injection  - ADS OVERRIDE
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,EPINEPHRINE 1 MG IN 9 ML NS TOPICAL SOLUTION (OPTIME)
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,EPINEPHRINE IN BSS PLUS OPHTHAMIC SOLUTION (OPTIME)
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,EPINEPHRINE 16 MG/250 ML NS INFUSION - CENTRAL LINE ONLY (UCI)
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,EPINEPHRINE 1 MG IN 100 ML NS INJECTION (OPTIME)
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,EPINEPHRINE 1 MG IN 9 ML NS INJECTION (OPTIME)
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,LIDOCAINE-EPINEPHRINE 2 %-1:100000 IJ SOLN
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,EPINEPHrine (ADRENALIN) 0.1 mg/mL injection (1 mg/10mL)  - ADS OVERRIDE
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,LIDOCAINE-EPINEPHRINE 2 %-1:200000 IJ SOLN
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,LIDOCAINE-EPINEPHRINE-TETRACAINE TOPICAL SOLUTION 2.5 ML (COMPOUNDED)
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,"LIDOCAINE-EPINEPHRINE 0.5%-1:200,000 AND SODIUM BICARBONATE (UCI)(OPT)"
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,EPINEPHrine 1:1000 (1 mg/mL) injection (1 mg/mL)  - ADS OVERRIDE
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,EPINEPHRINE PF 1 MG IN 9 ML BSS OPHTHALMIC SOLUTION (OPTIME)
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,ROPIVACAINE 0.5% - EPINEPHRINE 1:1000 - WITH CLONIDINE AND KETOROLAC (OPTIME)
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,BUPIVACAINE-EPINEPHRINE 0.25% AND LIDOCAINE 1% AND SODIUM BICARBONATE(UCI)(OPTIME)
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,EPINEPHRINE 0.3 MG/0.3ML IJ SOAJ
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,"PROCEDURAL SEDATION LIDOCAINE-EPINEPHRINE 1% - 1:100,000 - 20 ML (UCI)"
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,EPINEPHRINE 1 MG/ML IJ SOLN
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,EPINEPHRINE 64 MCG/ML PEDS INFUSION > 45KG (UCI)
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,"lidocaine-EPINEPHrine 2%-1:100,000 injection  - ADS OVERRIDE"
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,"PROCEDURAL SEDATION LIDOCAINE-EPINEPHRINE 2% - 1:100,000 - 20 ML (UCI)"
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,EPINEPHRINE 1 MG/10ML IJ SOSY OPTIME (UCI)
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,EPINEPHrine (EPIPEN) 0.3 MG/0.3ML injection  - ADS OVERRIDE
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,1343916,RxNorm,9655.0,EPINEPHRINE PF 1 MG/ML IJ SOLN OPTIME (UCI)
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,LIDOCAINE-EPINEPHRINE 1 %-1:100000 IJ SOLN
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,BUPIVACAINE-EPINEPHRINE (PF) 0.5% -1:200000 IJ SOLN
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,EPINEPHRINE PF 1 MG/ML IJ SOLN
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,BUPIVACAINE-EPINEPHRINE (PF) 0.25% -1:200000 IJ SOLN
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,EPINEPHRINE 16 MG/250 ML INFUSION - CENTRAL LINE ONLY (UCI)
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,EPINEPHRINE HCL (NASAL) 0.1 % NA SOLN
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,EPINEPHRINE HCL 1 MG/ML IJ SOLN
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,LIDOCAINE-EPINEPHRINE 0.5 %-1:200000 IJ SOLN
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,BUPIVACAINE-EPINEPHRINE 0.5 % IJ SOLN
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,EPINEPHRINE 1 MG IN 1000 ML NS TOPICAL SOLUTION (OPTIME)
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,EPINEPHRINE 8 MG/250 ML INFUSION (UCI)
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,EPINEPHRINE 1 MG/10ML IJ SOSY
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,EPINEPHRINE INFUSION (ANESTHESIA)
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,EPINEPHRINE PF 1 MG/10ML IJ SOSY
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,LIDOCAINE-EPINEPHRINE 1.5 %-1:200000 IJ SOLN
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,EPINEPHRINE IRRIGATION FOR ARTHROSCOPY (OPTIME)
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,lidocaine-EPINEPHrine 1 %-1:100000 injection  - ADS OVERRIDE
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,EPINEPHRINE 1 MG IN 9 ML NS TOPICAL SOLUTION (OPTIME)
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,EPINEPHRINE IN BSS PLUS OPHTHAMIC SOLUTION (OPTIME)
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,EPINEPHRINE 16 MG/250 ML NS INFUSION - CENTRAL LINE ONLY (UCI)
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,EPINEPHRINE 1 MG IN 100 ML NS INJECTION (OPTIME)
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,EPINEPHRINE 1 MG IN 9 ML NS INJECTION (OPTIME)
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,LIDOCAINE-EPINEPHRINE 2 %-1:100000 IJ SOLN
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,EPINEPHrine (ADRENALIN) 0.1 mg/mL injection (1 mg/10mL)  - ADS OVERRIDE
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,LIDOCAINE-EPINEPHRINE 2 %-1:200000 IJ SOLN
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,LIDOCAINE-EPINEPHRINE-TETRACAINE TOPICAL SOLUTION 2.5 ML (COMPOUNDED)
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,"LIDOCAINE-EPINEPHRINE 0.5%-1:200,000 AND SODIUM BICARBONATE (UCI)(OPT)"
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,EPINEPHrine 1:1000 (1 mg/mL) injection (1 mg/mL)  - ADS OVERRIDE
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,EPINEPHRINE PF 1 MG IN 9 ML BSS OPHTHALMIC SOLUTION (OPTIME)
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,ROPIVACAINE 0.5% - EPINEPHRINE 1:1000 - WITH CLONIDINE AND KETOROLAC (OPTIME)
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,BUPIVACAINE-EPINEPHRINE 0.25% AND LIDOCAINE 1% AND SODIUM BICARBONATE(UCI)(OPTIME)
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,EPINEPHRINE 0.3 MG/0.3ML IJ SOAJ
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,"PROCEDURAL SEDATION LIDOCAINE-EPINEPHRINE 1% - 1:100,000 - 20 ML (UCI)"
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,EPINEPHRINE 1 MG/ML IJ SOLN
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,EPINEPHRINE 64 MCG/ML PEDS INFUSION > 45KG (UCI)
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,"lidocaine-EPINEPHrine 2%-1:100,000 injection  - ADS OVERRIDE"
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,"PROCEDURAL SEDATION LIDOCAINE-EPINEPHRINE 2% - 1:100,000 - 20 ML (UCI)"
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,EPINEPHRINE 1 MG/10ML IJ SOSY OPTIME (UCI)
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,EPINEPHrine (EPIPEN) 0.3 MG/0.3ML injection  - ADS OVERRIDE
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,1343916,RxNorm,9688.0,EPINEPHRINE PF 1 MG/ML IJ SOLN OPTIME (UCI)
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL CITRATE (PF) 100 MCG/2ML IJ SOLN
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL 50 MCG/ML PREMIX INFUSION (UCI)
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL DOSE FROM BAG (UCI)
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,fentaNYL 100 MCG/2ML injection  - ADS OVERRIDE
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL 50 MCG/HR TD PT72
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,fentaNYL (SUBLIMAZE) 50 MCG/ML infusion  - ADS OVERRIDE
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL 75 MCG/HR TD PT72
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL CITRATE (PF) 250 MCG/5ML IJ SOLN
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL 500 MCG/50 ML INFUSION (OPTIME) (UCI)
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL 50 MCG/ML PREMIX PCA INFUSION - TOLERANT (UCI)
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL 2 MCG/ML AND BUPIVACAINE 0.1 % ANESTHESIA EPIDURAL INJ (UCI)
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL-BUPIVACAINE-NACL 0.2-0.1-0.9 MG/100ML-% EP SOLN
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL 2 MCG/ML BUPIVACAINE 0.1% PAIN MANAGEMENT PCEA (UCI)
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL 2 MCG/ML WITH BUPIVACAINE 0.0625 % ANES EPIDURAL INFUSION (UCI)
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL 25 MCG/HR TD PT72
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL 2 MCG/ML BUPIVACAINE 0.0625% PAIN MANAGEMENT PCEA (UCI)
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL CITRATE (PF) 100 MCG/2ML IJ SOLN OPTIME (UCI)
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL 100 MCG/HR TD PT72
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL 50 MCG/ML PREMIX PCA INFUSION - NAIVE (UCI)
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL 2 MCG/ML BUPIVACAINE 0.1% LABOR PCEA (UCI)
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL 12 (12.5) MCG/HR TD PT72
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,fentaNYL 2500 MCG/50ML injection  - ADS OVERRIDE
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL 20 MCG/ML PEDIATRIC INFUSION (UCI)
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,fentaNYL 100 MCG/2ML procedural sedation injection  - ADS OVERRIDE
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL 4 MCG/ML BUPIVACAINE 0.1% PAIN MANAGEMENT PCEA (UCI)
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL 4 MCG/ML BUPIVACAINE 0.125% PAIN MANAGEMENT PCEA (UCI)
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL 2 MCG/ML BUPIVACAINE 0.0625% PAIN MANAGEMENT EPIDURAL (UCI)
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,fentaNYL 250 MCG/5ML injection  - ADS OVERRIDE
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL 50 MCG/ML PED INFUSION (UCI)
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL 50 MCG/ML PREMIX PCA INFUSION - HIGH DOSE (UCI)
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL 5000 MCG/100 ML PREMIX INFUSION (UCI)
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL 5000 MCG/100 ML PREMIX PCA INFUSION - TOLERANT (UCI)
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL 2500 MCG/50 ML PREMIX INFUSION (UCI)
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL 2 MCG/ML BUPIVACAINE 0.1% PAIN MANAGEMENT EPIDURAL (UCI)
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL CITRATE (PF) 1000 MCG/20ML IJ SOLN
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL INFUSION 50 MCG/ML
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL CITRATE 2500 MCG/50ML IV SOLN
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,1154029,RxNorm,9655.0,FENTANYL CITRATE (PF) 250 MCG/5ML IJ SOLN INTRANASAL (ANESTHESIA) (UCI)
+vitals,hes,mL,Infused volume of Hydroxyethyl-starch solution,hydroxyethyl starch 130-0.4 Injection,1718295,RxNorm,8587.0,
+vitals,hns,mL,Infused volume of half normal saline,sodium chloride 4.5 MG/ML Injection,40221364,RxNorm,8587.0,
+vitals,hs,mL,Infused volume of Hartmann solution,calcium chloride / lactate / potassium chloride / sodium chloride Injectable Solution,40166953,RxNorm,8587.0,
+vitals,mdz,mg,Injected dose of midazolam,midazolam,708298,RxNorm,8576.0,MIDAZOLAM HCL 2 MG/2ML IJ SOLN
+vitals,mdz,mg,Injected dose of midazolam,midazolam,708298,RxNorm,8576.0,MIDAZOLAM HCL (PF) 2 MG/2ML IJ SOLN
+vitals,mdz,mg,Injected dose of midazolam,midazolam,708298,RxNorm,8576.0,midazolam PF (VERSED) 2 MG/2ML injection  - ADS OVERRIDE
+vitals,mdz,mg,Injected dose of midazolam,midazolam,708298,RxNorm,8576.0,MIDAZOLAM 100 MG/100 ML PREMIX INFUSION (UCI)
+vitals,mdz,mg,Injected dose of midazolam,midazolam,708298,RxNorm,8576.0,MIDAZOLAM DOSE FROM BAG (UCI)
+vitals,mdz,mg,Injected dose of midazolam,midazolam,708298,RxNorm,8576.0,midazolam (VERSED) 100-0.9 MG/100ML-% PREMIX infusion  - ADS OVERRIDE
+vitals,mdz,mg,Injected dose of midazolam,midazolam,708298,RxNorm,8576.0,MIDAZOLAM HCL (PF) 5 MG/5ML IJ SOLN
+vitals,mdz,mg,Injected dose of midazolam,midazolam,708298,RxNorm,8576.0,midazolam PF (VERSED) 5 MG/5ML injection  - ADS OVERRIDE
+vitals,mdz,mg,Injected dose of midazolam,midazolam,708298,RxNorm,8576.0,MIDAZOLAM 250 MG/250 ML NS INFUSION (UCI)
+vitals,mdz,mg,Injected dose of midazolam,midazolam,708298,RxNorm,8576.0,midazolam (VERSED) 2 MG/2ML injection  - ADS OVERRIDE
+vitals,mdz,mg,Injected dose of midazolam,midazolam,708298,RxNorm,8576.0,MIDAZOLAM HCL 5 MG/5ML IJ SOLN
+vitals,mdz,mg,Injected dose of midazolam,midazolam,708298,RxNorm,8576.0,midazolam (VERSED) 5 MG/5ML injection  - ADS OVERRIDE
+vitals,mdz,mg,Injected dose of midazolam,midazolam,708298,RxNorm,8576.0,midazolam (VERSED) 5 MG/ML injection  - ADS OVERRIDE
+vitals,mdz,mg,Injected dose of midazolam,midazolam,708298,RxNorm,8576.0,MIDAZOLAM HCL 5 MG/ML IJ SOLN
+vitals,mdz,mg,Injected dose of midazolam,midazolam,708298,RxNorm,8576.0,midazolam (VERSED) 100 MG/100ML PREMIX infusion  - ADS OVERRIDE
+vitals,mdz,mg,Injected dose of midazolam,midazolam,708298,RxNorm,8576.0,MIDAZOLAM HCL 2 MG/ML OR SYRP
+vitals,mdz,mg,Injected dose of midazolam,midazolam,708298,RxNorm,8576.0,Midazolam HCl-Sodium Chloride 100-0.9 MG/100ML-% SOLN  - ADS OVERRIDE
+vitals,mdz,mg,Injected dose of midazolam,midazolam,708298,RxNorm,8576.0,MIDAZOLAM HCL (PF) 5 MG/ML IJ SOLN
+vitals,mdz,mg,Injected dose of midazolam,midazolam,708298,RxNorm,8576.0,midazolam PF (VERSED) 5 MG/ML injection  - ADS OVERRIDE
+vitals,mlni,ug/kg/min,Rate of milrinone continuous infusion,milrinone,1368671,RxNorm,9688.0,MILRINONE 50 MG/250 ML NS INFUSION (UCI)
+vitals,mlni,ug/kg/min,Rate of milrinone continuous infusion,milrinone,1368671,RxNorm,9688.0,MILRINONE LACTATE IN DEXTROSE 40-5 MG/200ML-% IV SOLN
+vitals,mlni,ug/kg/min,Rate of milrinone continuous infusion,milrinone,1368671,RxNorm,9688.0,MILRINONE PED 0.2 MG/ML INFUSION (UCI)
+vitals,mlni,ug/kg/min,Rate of milrinone continuous infusion,milrinone,1368671,RxNorm,9688.0,MILRINONE LOADING DOSE FROM BAG (UCI)
+vitals,mlni,ug/kg/min,Rate of milrinone continuous infusion,milrinone,1368671,RxNorm,9688.0,MILRINONE LACTATE 20 MG/20ML IV SOLN
+vitals,nepi,ug/kg/min,Rate of norepinephrine continuous infusion,norepinephrine,1321341,RxNorm,9688.0,NOREPINEPHRINE-SODIUM CHLORIDE 8-0.9 MG/250ML-% IV SOLN
+vitals,nepi,ug/kg/min,Rate of norepinephrine continuous infusion,norepinephrine,1321341,RxNorm,9688.0,NOREPINEPHRINE 4 MG/250 ML NS INFUSION (UCI)
+vitals,nepi,ug/kg/min,Rate of norepinephrine continuous infusion,norepinephrine,1321341,RxNorm,9688.0,norepinephrine (LEVOPHED) 4 mg in 250 mL NS 0.016 MG/ML EMERGENCY infusion  - ADS OVERRIDE
+vitals,nepi,ug/kg/min,Rate of norepinephrine continuous infusion,norepinephrine,1321341,RxNorm,9688.0,NOREPINEPHRINE 16 MG/250 ML NS INFUSION (NEURO/NON-STANDARD) (FOR CENTRAL LINE ONLY) (UCI)
+vitals,nepi,ug/kg/min,Rate of norepinephrine continuous infusion,norepinephrine,1321341,RxNorm,9688.0,NOREPINEPHRINE INFUSION (ANESTHESIA)
+vitals,nepi,ug/kg/min,Rate of norepinephrine continuous infusion,norepinephrine,1321341,RxNorm,9688.0,NOREPINEPHRINE BITARTRATE 1 MG/ML IJ SOLN
+vitals,nepi,ug/kg/min,Rate of norepinephrine continuous infusion,norepinephrine,1321341,RxNorm,9688.0,NOREPINEPHRINE 8 MG/250 ML NS INFUSION (NON-STANDARD) (UCI)
+vitals,nepi,ug/kg/min,Rate of norepinephrine continuous infusion,norepinephrine,1321341,RxNorm,9688.0,norepinephrine (LEVOPHED) 4 mg in 250 mL NS (LEVOPHED) 0.016 MG/ML infusion  - ADS OVERRIDE
+vitals,nepi,ug/kg/min,Rate of norepinephrine continuous infusion,norepinephrine,1321341,RxNorm,9688.0,NOREPINEPHRINE 4 MG/250 ML D5W INFUSION (UCI)
+vitals,nepi,ug/kg/min,Rate of norepinephrine continuous infusion,norepinephrine,1321341,RxNorm,9688.0,NOREPINEPHRINE-DEXTROSE 16-5 MG/250ML-% IV SOLN
+vitals,nepi,ug/kg/min,Rate of norepinephrine continuous infusion,norepinephrine,1321341,RxNorm,9688.0,NOREPINEPHRINE 8 MG/250 ML D5W INFUSION (NON-STANDARD CONC) (UCI)
+vitals,nepi,ug/kg/min,Rate of norepinephrine continuous infusion,norepinephrine,1321341,RxNorm,9688.0,NOREPINEPHRINE 4 MG/250 ML NS INFUSION (NEURO) (UCI)
+vitals,nepi,ug/kg/min,Rate of norepinephrine continuous infusion,norepinephrine,1321341,RxNorm,9688.0,NOREPINEPHRINE 8 MG/250 ML NS INFUSION (NEURO/NON-STANDARD) (UCI)
+vitals,nepi,ug/kg/min,Rate of norepinephrine continuous infusion,norepinephrine,1321341,RxNorm,9688.0,norepinephrine (LEVOPHED) 1 MG/ML injection  - ADS OVERRIDE
+vitals,nepi,ug/kg/min,Rate of norepinephrine continuous infusion,norepinephrine,1321341,RxNorm,9688.0,NOREPINEPHRINE 4 MG/250 ML NS PREMIX INFUSION (UCI)
+vitals,nepi,ug/kg/min,Rate of norepinephrine continuous infusion,norepinephrine,1321341,RxNorm,9688.0,norepinephrine (LEVOPHED) 4 mg in 250 mL NS EMERGENCY infusion  - ADS OVERRIDE
+vitals,nepi,ug/kg/min,Rate of norepinephrine continuous infusion,norepinephrine,1321341,RxNorm,9688.0,norepinephrine (LEVOPHED) 4 mg in 250 mL D5W EMERGENCY infusion  - ADS OVERRIDE
+vitals,nepi,ug/kg/min,Rate of norepinephrine continuous infusion,norepinephrine,1321341,RxNorm,9688.0,NOREPINEPHRINE 4 MG IN NS 250 ML EMERGENCY ADS PREMIX (UCI)
+vitals,nepi,ug/kg/min,Rate of norepinephrine continuous infusion,norepinephrine,1321341,RxNorm,9688.0,NOREPINEPHRINE-SODIUM CHLORIDE 4-0.9 MG/250ML-% IV SOLN
+vitals,nepi,ug/kg/min,Rate of norepinephrine continuous infusion,norepinephrine,1321341,RxNorm,9688.0,NOREPINEPHRINE 4 MCG/ML IN SODIUM CHLORIDE INJECTION (UCI)
+vitals,ns,mL,Infused volume of normal saline,sodium chloride 9 MG/ML Injection,40221382,RxNorm,8587.0,
+vitals,ntgi,ug/kg/min,Rate of nitroglycerin continuous infusion,nitroglycerin,1361711,RxNorm,9688.0,NITROGLYCERIN 50 MG/250 ML D5W PREMIX INFUSION (UCI)
+vitals,ntgi,ug/kg/min,Rate of nitroglycerin continuous infusion,nitroglycerin,1361711,RxNorm,9688.0,NITROGLYCERIN 2 % TD OINT
+vitals,ntgi,ug/kg/min,Rate of nitroglycerin continuous infusion,nitroglycerin,1361711,RxNorm,9688.0,NITROGLYCERIN 0.4 MG SL SUBL
+vitals,ntgi,ug/kg/min,Rate of nitroglycerin continuous infusion,nitroglycerin,1361711,RxNorm,9688.0,NITROGLYCERIN 5 MG/ML IV SOLN
+vitals,ntgi,ug/kg/min,Rate of nitroglycerin continuous infusion,nitroglycerin,1361711,RxNorm,9688.0,NITROGLYCERIN 0.4 MG/SPRAY TL SOLN
+vitals,ntgi,ug/kg/min,Rate of nitroglycerin continuous infusion,nitroglycerin,1361711,RxNorm,9688.0,nitroGLYcerin (NITROLINGUAL) 0.4 MG/SPRAY spray  - ADS OVERRIDE
+vitals,ntgi,ug/kg/min,Rate of nitroglycerin continuous infusion,nitroglycerin,1361711,RxNorm,9688.0,NITROGLYCERIN 0.1 MG/HR TD PT24
+vitals,ntgi,ug/kg/min,Rate of nitroglycerin continuous infusion,nitroglycerin,1361711,RxNorm,9688.0,NITROGLYCERIN 0.4 MG/HR TD PT24
+vitals,ntgi,ug/kg/min,Rate of nitroglycerin continuous infusion,nitroglycerin,1361711,RxNorm,9688.0,nitroGLYcerin 50 mg/250 mL infusion  - ADS OVERRIDE
+vitals,ntgi,ug/kg/min,Rate of nitroglycerin continuous infusion,nitroglycerin,1361711,RxNorm,9688.0,nitroGLYcerin (NITROSTAT) 0.4 MG SL tablet  - ADS OVERRIDE
+vitals,ntgi,ug/kg/min,Rate of nitroglycerin continuous infusion,nitroglycerin,1361711,RxNorm,9688.0,NITROGLYCERIN IN D5W 200-5 MCG/ML-% IV SOLN
+vitals,ntgi,ug/kg/min,Rate of nitroglycerin continuous infusion,nitroglycerin,1361711,RxNorm,9688.0,NITROGLYCERIN 0.3 MG/HR TD PT24
+vitals,ntgi,ug/kg/min,Rate of nitroglycerin continuous infusion,nitroglycerin,1361711,RxNorm,9688.0,NITROGLYCERIN DILUTED 0.2% TD OINT (COMPOUNDED)
+vitals,ntgi,ug/kg/min,Rate of nitroglycerin continuous infusion,nitroglycerin,1361711,RxNorm,9688.0,NITROGLYCERIN CR 2.5 MG OR CPCR
+vitals,ntgi,ug/kg/min,Rate of nitroglycerin continuous infusion,nitroglycerin,1361711,RxNorm,9688.0,nitroGLYCERIN (NITRO-BID) 2 % ointment  - ADS OVERRIDE
+vitals,ntgi,ug/kg/min,Rate of nitroglycerin continuous infusion,nitroglycerin,1361711,RxNorm,9688.0,NITROGLYCERIN 0.3 MG SL SUBL
+vitals,ntgi,ug/kg/min,Rate of nitroglycerin continuous infusion,nitroglycerin,1361711,RxNorm,9688.0,NITROGLYCERIN 100 MCG/ML IV 10 ML (UCI)
+vitals,pepi,ug/kg/min,Rate of phenylephrine continuous infusion,phenylephrine,1135766,RxNorm,9688.0,PHENYLEPHRINE INFUSION (ANESTHESIA) (UCI)
+vitals,pepi,ug/kg/min,Rate of phenylephrine continuous infusion,phenylephrine,1135766,RxNorm,9688.0,PHENYLEPHRINE 250 ML ADULT INFUSION (VARIABLE CONCENTRATION) (UCI)
+vitals,pepi,ug/kg/min,Rate of phenylephrine continuous infusion,phenylephrine,1135766,RxNorm,9688.0,PHENYLEPHRINE DILUTION 10 MG IN 1000 ML NS (OPTIME)(UCI)
+vitals,pepi,ug/kg/min,Rate of phenylephrine continuous infusion,phenylephrine,1135766,RxNorm,9688.0,PHENYLEPHRINE HCL 2.5 % OP SOLN
+vitals,pepi,ug/kg/min,Rate of phenylephrine continuous infusion,phenylephrine,1135766,RxNorm,9688.0,phenylephrine (PF) (NEO-SYNEPHRINE) 1-0.9 MG/10ML-% syringe  - ADS OVERRIDE
+vitals,pepi,ug/kg/min,Rate of phenylephrine continuous infusion,phenylephrine,1135766,RxNorm,9688.0,PHENYLEPHRINE HCL-NACL 1-0.9 MG/10ML-% IV SOSY
+vitals,pepi,ug/kg/min,Rate of phenylephrine continuous infusion,phenylephrine,1135766,RxNorm,9688.0,PHENYLEPHRINE DILUTION 100 MCG/ML IJ SOLN
+vitals,pepi,ug/kg/min,Rate of phenylephrine continuous infusion,phenylephrine,1135766,RxNorm,9688.0,PHENYLEPHRINE HCL 1 % NA SOLN
+vitals,pepi,ug/kg/min,Rate of phenylephrine continuous infusion,phenylephrine,1135766,RxNorm,9688.0,PHENYLEPHRINE HCL 0.25 % NA SOLN
+vitals,pepi,ug/kg/min,Rate of phenylephrine continuous infusion,phenylephrine,1135766,RxNorm,9688.0,PHENYLEPHRINE HCL 10 % OP SOLN
+vitals,pepi,ug/kg/min,Rate of phenylephrine continuous infusion,phenylephrine,1135766,RxNorm,9688.0,phenylephrine (NEO-SYNEPHRINE) 2.5 % ophthalmic solution  - ADS OVERRIDE
+vitals,pepi,ug/kg/min,Rate of phenylephrine continuous infusion,phenylephrine,1135766,RxNorm,9688.0,CYCLOPENTOLATE-PHENYLEPHRINE 0.2-1 % OP SOLN
+vitals,pepi,ug/kg/min,Rate of phenylephrine continuous infusion,phenylephrine,1135766,RxNorm,9688.0,PHENYLEPHRINE DILUTION 20 MG IN 2000 ML NS (OPTIME)(UCI)
+vitals,pepi,ug/kg/min,Rate of phenylephrine continuous infusion,phenylephrine,1135766,RxNorm,9688.0,PHENYLEPHRINE HCL 10 MG/ML INJECTION WRAPPED RECORD
+vitals,pepi,ug/kg/min,Rate of phenylephrine continuous infusion,phenylephrine,1135766,RxNorm,9688.0,PHENYLEPHRINE DILUTION 30 MG IN 3000 ML NS (OPTIME)(UCI)
+vitals,pepi,ug/kg/min,Rate of phenylephrine continuous infusion,phenylephrine,1135766,RxNorm,9688.0,PHENYLEPHRINE HCL-NACL (PF) 1-0.9 MG/10ML-% IV SOSY
+vitals,pepi,ug/kg/min,Rate of phenylephrine continuous infusion,phenylephrine,1135766,RxNorm,9688.0,PHENYLEPHRINE HCL 0.125 % NA SOLN
+vitals,pepi,ug/kg/min,Rate of phenylephrine continuous infusion,phenylephrine,1135766,RxNorm,9688.0,PHENYLEPHRINE INFUSION (ANESTHESIA)
+vitals,pepi,ug/kg/min,Rate of phenylephrine continuous infusion,phenylephrine,1135766,RxNorm,9688.0,phenylephrine (NEO-SYNEPHRINE) 10 MG/ML injection  - ADS OVERRIDE
+vitals,pepi,ug/kg/min,Rate of phenylephrine continuous infusion,phenylephrine,1135766,RxNorm,9688.0,PHENYLEPHRINE HCL 10 MG/ML IV SOLN
+vitals,phe,ug,Injected dose of phenyephrine,phenylephrine,1135766,RxNorm,9655.0,PHENYLEPHRINE INFUSION (ANESTHESIA) (UCI)
+vitals,phe,ug,Injected dose of phenyephrine,phenylephrine,1135766,RxNorm,9655.0,PHENYLEPHRINE 250 ML ADULT INFUSION (VARIABLE CONCENTRATION) (UCI)
+vitals,phe,ug,Injected dose of phenyephrine,phenylephrine,1135766,RxNorm,9655.0,PHENYLEPHRINE DILUTION 10 MG IN 1000 ML NS (OPTIME)(UCI)
+vitals,phe,ug,Injected dose of phenyephrine,phenylephrine,1135766,RxNorm,9655.0,PHENYLEPHRINE HCL 2.5 % OP SOLN
+vitals,phe,ug,Injected dose of phenyephrine,phenylephrine,1135766,RxNorm,9655.0,phenylephrine (PF) (NEO-SYNEPHRINE) 1-0.9 MG/10ML-% syringe  - ADS OVERRIDE
+vitals,phe,ug,Injected dose of phenyephrine,phenylephrine,1135766,RxNorm,9655.0,PHENYLEPHRINE HCL-NACL 1-0.9 MG/10ML-% IV SOSY
+vitals,phe,ug,Injected dose of phenyephrine,phenylephrine,1135766,RxNorm,9655.0,PHENYLEPHRINE DILUTION 100 MCG/ML IJ SOLN
+vitals,phe,ug,Injected dose of phenyephrine,phenylephrine,1135766,RxNorm,9655.0,PHENYLEPHRINE HCL 1 % NA SOLN
+vitals,phe,ug,Injected dose of phenyephrine,phenylephrine,1135766,RxNorm,9655.0,PHENYLEPHRINE HCL 0.25 % NA SOLN
+vitals,phe,ug,Injected dose of phenyephrine,phenylephrine,1135766,RxNorm,9655.0,PHENYLEPHRINE HCL 10 % OP SOLN
+vitals,phe,ug,Injected dose of phenyephrine,phenylephrine,1135766,RxNorm,9655.0,phenylephrine (NEO-SYNEPHRINE) 2.5 % ophthalmic solution  - ADS OVERRIDE
+vitals,phe,ug,Injected dose of phenyephrine,phenylephrine,1135766,RxNorm,9655.0,CYCLOPENTOLATE-PHENYLEPHRINE 0.2-1 % OP SOLN
+vitals,phe,ug,Injected dose of phenyephrine,phenylephrine,1135766,RxNorm,9655.0,PHENYLEPHRINE DILUTION 20 MG IN 2000 ML NS (OPTIME)(UCI)
+vitals,phe,ug,Injected dose of phenyephrine,phenylephrine,1135766,RxNorm,9655.0,PHENYLEPHRINE HCL 10 MG/ML INJECTION WRAPPED RECORD
+vitals,phe,ug,Injected dose of phenyephrine,phenylephrine,1135766,RxNorm,9655.0,PHENYLEPHRINE DILUTION 30 MG IN 3000 ML NS (OPTIME)(UCI)
+vitals,phe,ug,Injected dose of phenyephrine,phenylephrine,1135766,RxNorm,9655.0,PHENYLEPHRINE HCL-NACL (PF) 1-0.9 MG/10ML-% IV SOSY
+vitals,phe,ug,Injected dose of phenyephrine,phenylephrine,1135766,RxNorm,9655.0,PHENYLEPHRINE HCL 0.125 % NA SOLN
+vitals,phe,ug,Injected dose of phenyephrine,phenylephrine,1135766,RxNorm,9655.0,PHENYLEPHRINE INFUSION (ANESTHESIA)
+vitals,phe,ug,Injected dose of phenyephrine,phenylephrine,1135766,RxNorm,9655.0,phenylephrine (NEO-SYNEPHRINE) 10 MG/ML injection  - ADS OVERRIDE
+vitals,phe,ug,Injected dose of phenyephrine,phenylephrine,1135766,RxNorm,9655.0,PHENYLEPHRINE HCL 10 MG/ML IV SOLN
+vitals,ppf,mg,Injected dose of propofol,propofol,753626,RxNorm,8576.0,PROPOFOL 1000 MG/100 ML INFUSION (UCI)
+vitals,ppf,mg,Injected dose of propofol,propofol,753626,RxNorm,8576.0,PROPOFOL 10 MG/ML BOLUS FROM BAG (UCI)
+vitals,ppf,mg,Injected dose of propofol,propofol,753626,RxNorm,8576.0,propofol (DIPRIVAN) 1000 MG/100ML infusion  - ADS OVERRIDE
+vitals,ppf,mg,Injected dose of propofol,propofol,753626,RxNorm,8576.0,PROPOFOL IV BOLUS 10 MG/ML
+vitals,ppf,mg,Injected dose of propofol,propofol,753626,RxNorm,8576.0,propofol (DIPRIVAN) 200 MG/20ML injection  - ADS OVERRIDE
+vitals,ppf,mg,Injected dose of propofol,propofol,753626,RxNorm,8576.0,PROPOFOL 200 MG/20ML IV EMUL
+vitals,ppf,mg,Injected dose of propofol,propofol,753626,RxNorm,8576.0,PROPOFOL 1000 MG/100ML IV EMUL
+vitals,ppf,mg,Injected dose of propofol,propofol,753626,RxNorm,8576.0,PROPOFOL 500 MG/50 ML INFUSION (UCI)
+vitals,ppf,mg,Injected dose of propofol,propofol,753626,RxNorm,8576.0,PROPOFOL 500 MG/50ML IV EMUL
+vitals,ppf,mg,Injected dose of propofol,propofol,753626,RxNorm,8576.0,PROPOFOL 200 MG/20ML IV EMUL OPTIME (UCI)
+vitals,ppf,mg,Injected dose of propofol,propofol,753626,RxNorm,8576.0,PROPOFOL 1000 MG/100ML IV EMUL OPTIME (UCI)
+vitals,ppfi,ug/mL,Target concentration of propofol,propofol,753626,RxNorm,8859.0,PROPOFOL 1000 MG/100 ML INFUSION (UCI)
+vitals,ppfi,ug/mL,Target concentration of propofol,propofol,753626,RxNorm,8859.0,PROPOFOL 10 MG/ML BOLUS FROM BAG (UCI)
+vitals,ppfi,ug/mL,Target concentration of propofol,propofol,753626,RxNorm,8859.0,propofol (DIPRIVAN) 1000 MG/100ML infusion  - ADS OVERRIDE
+vitals,ppfi,ug/mL,Target concentration of propofol,propofol,753626,RxNorm,8859.0,PROPOFOL IV BOLUS 10 MG/ML
+vitals,ppfi,ug/mL,Target concentration of propofol,propofol,753626,RxNorm,8859.0,propofol (DIPRIVAN) 200 MG/20ML injection  - ADS OVERRIDE
+vitals,ppfi,ug/mL,Target concentration of propofol,propofol,753626,RxNorm,8859.0,PROPOFOL 200 MG/20ML IV EMUL
+vitals,ppfi,ug/mL,Target concentration of propofol,propofol,753626,RxNorm,8859.0,PROPOFOL 1000 MG/100ML IV EMUL
+vitals,ppfi,ug/mL,Target concentration of propofol,propofol,753626,RxNorm,8859.0,PROPOFOL 500 MG/50 ML INFUSION (UCI)
+vitals,ppfi,ug/mL,Target concentration of propofol,propofol,753626,RxNorm,8859.0,PROPOFOL 500 MG/50ML IV EMUL
+vitals,ppfi,ug/mL,Target concentration of propofol,propofol,753626,RxNorm,8859.0,PROPOFOL 200 MG/20ML IV EMUL OPTIME (UCI)
+vitals,ppfi,ug/mL,Target concentration of propofol,propofol,753626,RxNorm,8859.0,PROPOFOL 1000 MG/100ML IV EMUL OPTIME (UCI)
+vitals,rfti,ng/mL,Target concentration of remifentanil,remifentanil,19016749,RxNorm,8842.0,REMIFENTANIL INFUSION IN 100ML (ANESTHESIA) (UCI)
+vitals,rfti,ng/mL,Target concentration of remifentanil,remifentanil,19016749,RxNorm,8842.0,REMIFENTANIL IV BOLUS FROM BAG
+vitals,rfti,ng/mL,Target concentration of remifentanil,remifentanil,19016749,RxNorm,8842.0,REMIFENTANIL INFUSION IN 50ML (ANESTHESIA) (UCI)
+vitals,rfti,ng/mL,Target concentration of remifentanil,remifentanil,19016749,RxNorm,8842.0,REMIFENTANIL HCL 1 MG IV SOLR
+vitals,rfti,ng/mL,Target concentration of remifentanil,remifentanil,19016749,RxNorm,8842.0,REMIFENTANIL HCL 2 MG IV SOLR
+vitals,sft,ug,Injected dose of sufentanil,sufentanil,19078219,RxNorm,9655.0,SUFENTANIL INFUSION (ANESTHESIA) (UCI)
+vitals,sft,ug,Injected dose of sufentanil,sufentanil,19078219,RxNorm,9655.0,SUFENTANIL CITRATE 50 MCG/ML IV SOLN
+vitals,vaso,Unit,Injected dose of vasopressin,vasopressin (USP),1507835,RxNorm,8510.0,

@@ -1,0 +1,36 @@
+Table,Label_inspire,Unit,Description,concept_name,concept_id,vocab,unit_concept_id,concept_code,Label_mover
+labs,albumin,g/dL,Albumin,Albumin [Mass/volume] in Serum or Plasma,3024561,LOINC,8713.0,1751-7,Albumin
+labs,alp,IU/L,Alkaline phosphatase,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,3035995,LOINC,8923.0,6768-6,Alkaline phosphatase
+labs,alt,IU/L,Alanine transaminase,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,3006923,LOINC,8923.0,1742-6,Alanine aminotransferase
+labs,aptt,sec,Activated partial thromboplastin time,aPTT in Platelet poor plasma by Coagulation assay,3018677,LOINC,8555.0,14979-9,Coagulation surface induced
+labs,ast,IU/L,Aspartate transaminase,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,3013721,LOINC,8923.0,1920-8,Aspartate aminotransferase
+labs,be,mmol/L,Base excess in arterial blood gas analysis,Base excess standard in Arterial blood by calculation,3021421,LOINC,8753.0,19235-1,Base excess^^standard
+labs,bun,mg/dL,Blood urea nitrogen,Urea nitrogen [Mass/volume] in Serum or Plasma,3013682,LOINC,8840.0,3094-0,Urea nitrogen
+labs,calcium,mg/dL,Calcium,Calcium [Mass/volume] in Serum or Plasma,3006906,LOINC,8840.0,17861-6,Calcium
+labs,chloride,mmol/L,Chloride,Chloride [Moles/volume] in Serum or Plasma,3014576,LOINC,8753.0,2075-0,Chloride
+labs,ck,IU/L,Creatine kinase,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,3007220,LOINC,8923.0,2157-6,Creatine kinase
+labs,ckmb,ug/L,Creatine kinase-MB,Creatine kinase.MB [Mass/volume] in Serum or Plasma,3005785,LOINC,8748.0,13969-1,Creatine kinase.MB
+labs,creatinine,mg/dL,Creatinine,Creatinine [Mass/volume] in Serum or Plasma,3016723,LOINC,8840.0,2160-0,Creatinine
+labs,crp,mg/dL,High-sensitive CRP,C reactive protein [Mass/volume] in Serum or Plasma,3020460,LOINC,8840.0,1988-5,C reactive protein
+labs,d_dimer,mg/L(FEU),D-dimer,Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma,3051714,LOINC,8751.0,48065-7,Fibrin D-dimer FEU
+labs,fibrinogen,mg/dL,Fibrinogen,Fibrinogen [Mass/volume] in Platelet poor plasma by Coagulation assay,3016407,LOINC,8840.0,3255-7,Fibrinogen
+labs,glucose,mg/dL,Glucose,Glucose [Mass/volume] in Serum or Plasma,3004501,LOINC,8840.0,2345-7,Glucose
+labs,hb,g/dL,Hemoglobin,Hemoglobin [Mass/volume] in Blood,3000963,LOINC,8713.0,718-7,Hemoglobin
+labs,hba1c,%,Hemoglobin A1c,Hemoglobin A1c/Hemoglobin.total in Blood,3004410,LOINC,8554.0,4548-4,Hemoglobin A1c/Hemoglobin.total
+labs,hco3,mmol/L,HCO3 in arterial blood gas analysis,Bicarbonate [Moles/volume] in Arterial blood,3008152,LOINC,8753.0,1960-4,Bicarbonate
+labs,hct,%,Hematocrit,Hematocrit [Volume Fraction] of Blood,3009542,LOINC,8554.0,20570-8,Hematocrit
+labs,lymphocyte,%,Lymphocyte percentage,Lymphocytes/100 leukocytes in Blood,3002030,LOINC,8554.0,26478-8,Lymphocytes/100 leukocytes
+labs,paco2,mmHg,Partial pressure of carbon dioxide in arterial blood gas analysis,Carbon dioxide [Partial pressure] in Arterial blood,3027946,LOINC,8876.0,2019-8,Carbon dioxide
+labs,pao2,mmHg,Partial pressure of oxygen in arterial blood gas analysis,Oxygen [Partial pressure] in Arterial blood,3027801,LOINC,8876.0,2703-7,Oxygen
+labs,ph,,pH in arterial blood gas analysis,pH of Arterial blood,3019977,LOINC,,2744-1,pH
+labs,phosphorus,mg/dL,Phosphorus,Phosphate [Mass/volume] in Serum or Plasma,3011904,LOINC,8840.0,2777-1,Phosphate
+labs,platelet,/nL,Platelet count,Platelets [#/volume] in Blood,3007461,LOINC,0.0,26515-7,Platelets
+labs,potassium,mmol/L,Potassium,Potassium [Moles/volume] in Serum or Plasma,3023103,LOINC,8753.0,2823-3,Potassium
+labs,ptinr,INR,Prothrombin time,Prothrombin time (PT),3034426,LOINC,44818586.0,5902-2,Coagulation tissue factor induced
+labs,sao2,%,Oxygen saturation in arterial blood gas analysis,Oxygen saturation in Arterial blood,3016502,LOINC,8554.0,2708-6,Oxygen saturation
+labs,sodium,mmol/L,Sodium,Sodium [Moles/volume] in Serum or Plasma,3019550,LOINC,8753.0,2951-2,Sodium
+labs,total_bilirubin,mg/dL,Total bilirubin,Bilirubin.total [Mass/volume] in Serum or Plasma,3024128,LOINC,8840.0,1975-2,Bilirubin
+labs,total_protein,g/dL,Total protein,Protein [Mass/volume] in Serum or Plasma,3020630,LOINC,8713.0,2885-2,Protein
+labs,troponin_i,ug/L,Troponin-I,Troponin I.cardiac [Mass/volume] in Serum or Plasma,3021337,LOINC,8748.0,10839-9,Troponin I.cardiac
+labs,troponin_t,ug/L,Troponin-T,Troponin T.cardiac [Mass/volume] in Serum or Plasma,3019800,LOINC,8748.0,6598-7,Troponin T.cardiac
+labs,wbc,/nL,White blood cell count,Leukocytes [#/volume] in Blood,3010813,LOINC,0.0,26464-8,Leukocytes

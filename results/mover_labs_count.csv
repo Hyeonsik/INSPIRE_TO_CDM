@@ -1,0 +1,1534 @@
+Table,Label,Unit,concept_name,vocab,concept_id,Lab Code,perc
+labs,Hematocrit,%,Hematocrit [Volume Fraction] of Blood,LOINC,3009542,20570-8,69.46705304
+labs,Hemoglobin,G/DL,Hemoglobin [Mass/volume] in Venous blood,LOINC,3004119,30350-3,69.45949351
+labs,Platelets,THOUS/MCL,Platelets [#/volume] in Blood,LOINC,3007461,26515-7,69.38641804
+labs,Leukocytes^^corrected for nucleated erythrocytes,THOUS/MCL,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood by Automated count,LOINC,3046900,33256-9,69.3838982
+labs,Erythrocyte mean corpuscular hemoglobin,PG,MCH [Entitic mass] by Automated count,LOINC,3012030,785-6,69.38137835
+labs,Erythrocyte distribution width,%,Erythrocyte distribution width [Ratio] by Automated count,LOINC,3019897,788-0,69.38137835
+labs,Erythrocyte mean corpuscular hemoglobin concentration,G/DL,MCHC [Mass/volume] by Automated count,LOINC,3009744,786-4,69.38137835
+labs,Erythrocyte mean corpuscular volume,FL,MCV [Entitic volume],LOINC,3024731,30428-7,69.38137835
+labs,Erythrocytes,MILL/MCL,Erythrocytes [#/volume] in Blood by Automated count,LOINC,3020416,789-8,69.38137835
+labs,Platelet mean volume,FL,Platelet mean volume [Entitic volume] in Blood by Automated count,LOINC,3043111,32623-1,69.38137835
+labs,Calcium,mg/dL,Calcium [Mass/volume] in Serum or Plasma,LOINC,3006906,17861-6,68.84213179
+labs,Potassium,mmol/L,Potassium [Moles/volume] in Serum or Plasma,LOINC,3023103,23-Mar,68.55990929
+labs,Glucose,mg/dL,Glucose [Mass/volume] in Serum or Plasma,LOINC,3004501,Jul-45,68.49943304
+labs,Glomerular filtration rate/1.73 sq M.predicted.black,Unknown,"Glomerular filtration rate/1.73 sq M.predicted among blacks [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (MDRD)",LOINC,3053283,48643-1,68.49439335
+labs,Glomerular filtration rate/1.73 sq M.predicted.non black,Unknown,"Glomerular filtration rate/1.73 sq M.predicted among non-blacks [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (MDRD)",LOINC,3049187,48642-3,68.49439335
+labs,Creatinine,mg/dL,Creatinine [Mass/volume] in Serum or Plasma,LOINC,3016723,2160-0,68.49439335
+labs,Urea nitrogen,mg/dL,Urea nitrogen [Mass/volume] in Serum or Plasma,LOINC,3013682,3094-0,68.48935366
+labs,Sodium,mmol/L,Sodium [Moles/volume] in Serum or Plasma,LOINC,3019550,Feb-51,68.48683382
+labs,Anion gap,mmol/L,Anion gap in Serum or Plasma,LOINC,3045716,33037-3,68.48683382
+labs,Chloride,mmol/L,Chloride [Moles/volume] in Serum or Plasma,LOINC,3014576,2075-0,68.48683382
+labs,Carbon dioxide,mmol/L,"Carbon dioxide, total [Moles/volume] in Serum or Plasma",LOINC,3015632,28-Sep,68.48683382
+labs,Microorganism identified,Unknown,Microorganism identified in Specimen by Culture,LOINC,3024461,11475-1,61.08101298
+labs,Differential cell count method,Unknown,Differential cell count method - Blood,LOINC,3053331,49024-3,49.7064382
+labs,Monocytes/100 leukocytes,%,Monocytes/100 leukocytes in Blood,LOINC,3019069,26485-3,49.69383898
+labs,Monocytes,THOUS/MCL,Monocytes [#/volume] in Blood,LOINC,3001604,26484-6,49.68627945
+labs,Eosinophils/100 leukocytes,%,Eosinophils/100 leukocytes in Blood,LOINC,3006504,26450-7,49.65604133
+labs,Magnesium,mg/dL,Magnesium [Mass/volume] in Serum or Plasma,LOINC,3001420,19123-9,48.73881819
+labs,ABO & Rh group,Unknown,ABO and Rh group [Type] in Blood,LOINC,3003694,882-1,47.77119819
+labs,Phosphate,MG/DL,Phosphate [Mass/volume] in Serum or Plasma,LOINC,3011904,Jan-77,46.19377599
+labs,Neutrophils/100 leukocytes,%,Neutrophils/100 leukocytes in Blood by Automated count,LOINC,3008342,770-8,46.12826005
+labs,Lymphocytes/100 leukocytes,%,Lymphocytes/100 leukocytes in Blood by Automated count,LOINC,3037511,736-9,46.12070052
+labs,Lymphocytes,THOUS/MCL,Lymphocytes [#/volume] in Blood by Automated count,LOINC,3004327,731-0,46.11818067
+labs,Neutrophils,THOUS/MCL,Neutrophils [#/volume] in Blood,LOINC,3017732,26499-4,46.11818067
+labs,Eosinophils,THOUS/MCL,Eosinophils [#/volume] in Blood by Automated count,LOINC,3028615,711-2,46.10054177
+labs,Basophils/100 leukocytes,%,Basophils/100 leukocytes in Blood,LOINC,3022096,30180-4,46.10054177
+labs,Basophils,THOUS/MCL,Basophils [#/volume] in Blood by Automated count,LOINC,3013429,704-7,46.09298224
+labs,Indirect antiglobulin test.IgG specific reagent,Unknown,Indirect antiglobulin test.IgG specific reagent [Presence] in Serum or Plasma,LOINC,3016255,1005-8,45.71752551
+labs,Coagulation tissue factor induced,SEC,Prothrombin time (PT),LOINC,3034426,02-Feb,42.71891143
+labs,Coagulation tissue factor induced.INR,Unknown,INR in Platelet poor plasma by Coagulation assay,LOINC,3022217,01-Jun,42.69623283
+labs,Coagulation surface induced,SEC,aPTT in Platelet poor plasma by Coagulation assay,LOINC,3018677,14979-9,41.53458486
+labs,Albumin,G/DL,Albumin [Mass/volume] in Serum or Plasma,LOINC,3024561,1751-7,36.55285372
+labs,Protein,G/DL,Protein [Mass/volume] in Serum or Plasma,LOINC,3020630,Feb-85,35.71878544
+labs,Bilirubin,mg/dL,Bilirubin.total [Mass/volume] in Serum or Plasma,LOINC,3024128,Feb-75,35.693587
+labs,Alanine aminotransferase,U/L,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,LOINC,3006923,1742-6,35.68854731
+labs,Alkaline phosphatase,U/L,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,LOINC,3035995,Jun-68,35.68602747
+labs,Aspartate aminotransferase,U/L,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,LOINC,3013721,20-Aug,35.68602747
+labs,Major crossmatch,Unknown,Major crossmatch [Interpretation] by Immediate spin,LOINC,3003488,1251-8,32.80080635
+labs,Specific gravity,Unknown,Specific gravity of Urine by Refractometry automated,LOINC,3029991,50562-8,27.30754693
+labs,pH,Unknown,pH of Urine by Automated test strip,LOINC,3029305,50560-2,26.93461005
+labs,Urinalysis specimen collection method,Unknown,Urinalysis specimen collection method,LOINC,3025954,19159-3,26.93209021
+labs,Leukocyte clumps,#/HPF,Leukocyte clumps [#/area] in Urine sediment by Automated count,LOINC,3030114,50233-6,26.92705052
+labs,Bacteria,Unknown,Bacteria [#/area] in Urine sediment by Automated count,LOINC,3028923,33218-9,26.92705052
+labs,Leukocytes,#/HPF,Leukocytes [#/area] in Urine sediment by Automated count,LOINC,3051014,46702-7,26.92705052
+labs,Erythrocytes,#/HPF,Erythrocytes [#/area] in Urine sediment by Automated count,LOINC,3048402,46419-8,26.92705052
+labs,Epithelial cells.non-squamous,/HPF,Epithelial cells.non-squamous [Presence] in Urine by Automated,LOINC,3032238,50225-2,26.92453068
+labs,Mucus,/LPF,Mucus [#/area] in Urine sediment by Automated count,LOINC,3033262,50235-1,26.92453068
+labs,Glucose,MG/DL,Glucose [Mass/volume] in Urine by Automated test strip,LOINC,3039896,53328-1,26.92201084
+labs,Protein,MG/DL,Protein [Mass/volume] in Urine by Automated test strip,LOINC,3029872,50561-0,26.92201084
+labs,Leukocyte esterase,Unknown,Leukocyte esterase [Presence] in Urine by Automated test strip,LOINC,40763086,60026-2,26.92201084
+labs,Ketones,MG/DL,Ketones [Mass/volume] in Urine by Automated test strip,LOINC,3030173,50557-8,26.92201084
+labs,Nitrite,Unknown,Nitrite [Presence] in Urine by Automated test strip,LOINC,3030758,50558-6,26.92201084
+labs,Clarity,Unknown,Clarity in Urine by Refractometry automated,LOINC,3029709,50552-9,26.90437193
+labs,Color,Unknown,Color of Urine by Auto,LOINC,3029925,50553-7,26.90437193
+labs,Urobilinogen,MG/DL,Urobilinogen [Mass/volume] in Urine by Automated test strip,LOINC,3029870,50563-6,26.89933224
+labs,Hemoglobin,Unknown,Hemoglobin [Presence] in Urine by Automated test strip,LOINC,40760861,57751-0,26.89933224
+labs,Bilirubin,Unknown,Bilirubin.total [Presence] in Urine by Automated test strip,LOINC,3030477,50551-1,26.89933224
+labs,Hemoglobin,G/DL,Hemoglobin [Mass/volume] in Blood,LOINC,3000963,718-7,26.38024442
+labs,Calcium.ionized,mmol/L,Calcium.ionized [Moles/volume] in Blood,LOINC,3021119,Mar-94,26.31472849
+labs,SARS coronavirus 2 RNA,Unknown,SARS-CoV-2 (COVID-19) RNA [Presence] in Respiratory system specimen by NAA with probe detection,LOINC,706163,94500-6,25.61673176
+labs,Carbon dioxide,Unknown,Carbon dioxide [Partial pressure] in Blood,LOINC,3013290,11557-6,25.24127504
+labs,Potassium,MMOL/L,Potassium [Moles/volume] in Blood,LOINC,3005456,Apr-98,24.51807988
+labs,Carbon dioxide,MMOL/L,"Carbon dioxide, total [Moles/volume] in Blood",LOINC,3014094,20565-8,24.47524253
+labs,Sodium,MMOL/L,Sodium [Moles/volume] in Blood,LOINC,3000285,2947-0,24.42232582
+labs,Glucose,MG/DL,Glucose [Mass/volume] in Blood,LOINC,3000483,2339-0,24.41980597
+labs,D-lactate,mmol/L,D-Lactate [Moles/volume] in Serum or Plasma,LOINC,3020156,14045-9,23.97379362
+labs,Oxygen saturation,%,Oxygen saturation Calculated from oxygen partial pressure in Blood,LOINC,3011367,13-Jun,21.74121204
+labs,Bicarbonate,MMOL/L,Bicarbonate [Moles/volume] in Blood,LOINC,3006576,Jun-59,21.74121204
+labs,Oxygen,MMHG,Oxygen [Partial pressure] in Blood,LOINC,3027315,11556-8,21.74121204
+labs,pH,Unknown,pH of Blood,LOINC,3010421,11558-4,21.68577548
+labs,Base excess^^standard,MMOL/L,Base excess standard in Arterial blood by calculation,LOINC,3021421,19235-1,21.68577548
+labs,Platelet morphology finding,Unknown,Platelet morphology finding [Identifier] in Blood,LOINC,3003214,11125-2,20.39309563
+labs,Erythrocyte morphology finding,Unknown,Erythrocyte morphology finding [Identifier] in Blood,LOINC,3012764,Jan-42,20.39057578
+labs,Neutrophils/100 leukocytes,%,Neutrophils/100 leukocytes in Blood by Manual count,LOINC,3027368,23761-0,19.15333249
+labs,Lymphocytes/100 leukocytes,%,Lymphocytes/100 leukocytes in Blood by Manual count,LOINC,3038058,737-7,19.15081265
+labs,Neutrophils,THOUS/MCL,Neutrophils [#/volume] in Blood by Manual count,LOINC,3017501,753-4,19.14325312
+labs,Lymphocytes,THOUS/MCL,Lymphocytes [#/volume] in Blood by Manual count,LOINC,3003215,732-8,19.14073327
+labs,Eosinophils,THOUS/MCL,Eosinophils [#/volume] in Blood by Manual count,LOINC,3009932,712-0,19.00466171
+labs,Basophils,THOUS/MCL,Basophils [#/volume] in Blood by Manual count,LOINC,3027651,705-4,18.96434421
+labs,Basophils/100 leukocytes,%,Basophils/100 leukocytes in Blood by Manual count,LOINC,3009797,707-0,18.96182437
+labs,Urinalysis complete W Reflex Culture panel,Unknown,Urinalysis complete W Reflex Culture panel - Urine,LOINC,40761178,58077-9,18.13279577
+labs,Influenza virus A RNA,Unknown,Influenza virus A RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,46235757,76078-5,17.90097014
+labs,Influenza virus B RNA,Unknown,Influenza virus B RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,46235759,76080-1,17.90097014
+labs,Microscopic observation,Unknown,Microscopic observation [Identifier] in Specimen by Gram stain,LOINC,3037167,664-3,16.60073075
+labs,Anisocytosis,Unknown,Anisocytosis [Presence] in Blood by Light microscopy,LOINC,3026314,702-1,13.64243417
+labs,Choriogonadotropin.beta subunit,mIU/mL,Choriogonadotropin.beta subunit [Units/volume] in Serum or Plasma,LOINC,3038136,21198-7,12.63197682
+labs,Polychromasia,Unknown,Polychromasia [Presence] in Blood by Light microscopy,LOINC,3011987,10378-8,12.08265088
+labs,Base excess,mmol/L,Base excess in Arterial cord blood by calculation,LOINC,3004959,28638-5,11.97177775
+labs,Neutrophils.band form/100 leukocytes,%,Band form neutrophils/100 leukocytes in Blood by Manual count,LOINC,3007591,764-1,11.90374197
+labs,Neutrophils.band form,THOUS/MCL,Band form neutrophils [#/volume] in Blood by Manual count,LOINC,3008939,763-3,11.89114275
+labs,Bicarbonate,mmol/L,Bicarbonate [Moles/volume] in Arterial blood,LOINC,3008152,Apr-60,11.86090462
+labs,Bilirubin.glucuronidated+Bilirubin.albumin bound,mg/dL,Bilirubin.direct [Mass/volume] in Serum or Plasma,LOINC,3027597,Jul-68,11.51820587
+labs,Hemoglobin A1c/Hemoglobin.total,%,Hemoglobin A1c/Hemoglobin.total in Blood by HPLC,LOINC,3005673,17856-6,11.17298727
+labs,Ovalocytes,Unknown,Ovalocytes [Presence] in Blood by Light microscopy,LOINC,3027920,774-0,10.96384024
+labs,Oxygen saturation,%,Oxygen saturation in Arterial blood,LOINC,3016502,08-Jun,10.92856243
+labs,Carbon dioxide,MMHG,Carbon dioxide [Partial pressure] in Arterial blood,LOINC,3027946,19-Aug,10.48758977
+labs,Oxygen,MMHG,Oxygen [Partial pressure] in Arterial blood,LOINC,3027801,03-Jul,10.48758977
+labs,pH,Unknown,pH of Arterial blood,LOINC,3019977,Jan-44,10.48758977
+labs,Methadone,Unknown,Methadone [Presence] in Urine by Screen method,LOINC,3028707,19550-3,10.30112133
+labs,Tetrahydrocannabinol,Unknown,Tetrahydrocannabinol [Presence] in Urine by Screen method,LOINC,3000201,19415-9,10.30112133
+labs,Phencyclidine,Unknown,Phencyclidine [Presence] in Urine by Screen method,LOINC,3013184,19659-2,10.30112133
+labs,Benzoylecgonine,Unknown,Benzoylecgonine [Presence] in Urine by Screen method,LOINC,3014798,14314-9,10.30112133
+labs,Amphetamine,Unknown,Amphetamine [Presence] in Urine by Screen method,LOINC,3000144,19343-3,10.30112133
+labs,Barbiturates,Unknown,Barbiturates [Presence] in Urine by Screen method,LOINC,3005058,19270-8,10.30112133
+labs,Opiates,Unknown,Opiates [Presence] in Urine by Screen method,LOINC,3015208,19295-5,10.30112133
+labs,Propoxyphene,Unknown,Propoxyphene [Presence] in Urine by Screen method,LOINC,3009956,19429-0,10.30112133
+labs,Methylenedioxymethamphetamine,Unknown,Methylenedioxymethamphetamine [Presence] in Urine by Screen method,LOINC,3002148,19568-5,10.29860149
+labs,Benzodiazepines,Unknown,Benzodiazepines [Presence] in Urine by Screen method,LOINC,3007682,14316-4,10.25072446
+labs,Troponin I.cardiac,ng/L,Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method,LOINC,36306105,89579-7,10.22048633
+labs,Fungus identified,Unknown,Fungus identified in Specimen by Fungus stain,LOINC,3008193,21003-9,9.436814917
+labs,Ethanol,mg/dL,Ethanol [Mass/volume] in Serum or Plasma,LOINC,3012920,Feb-43,9.225148041
+labs,Triacylglycerol lipase,U/L,Lipase [Enzymatic activity/volume] in Serum or Plasma,LOINC,3004905,Mar-40,9.000881945
+labs,C reactive protein,MG/DL,C reactive protein [Mass/volume] in Serum or Plasma,LOINC,3020460,May-88,8.869850069
+labs,Thyrotropin,uIU/mL,Thyrotropin [Units/volume] in Serum or Plasma by Detection limit <= 0.005 mIU/L,LOINC,3019170,11580-8,8.66322288
+labs,Metamyelocytes/100 leukocytes,%,Metamyelocytes/100 leukocytes in Blood by Manual count,LOINC,3000666,740-1,8.320524128
+labs,Metamyelocytes,THOUS/MCL,Metamyelocytes [#/volume] in Blood by Manual count,LOINC,3012392,739-3,8.318004284
+labs,Myelocytes/100 leukocytes,%,Myelocytes/100 leukocytes in Blood by Manual count,LOINC,3018229,749-2,8.262567721
+labs,Myelocytes,THOUS/MCL,Myelocytes [#/volume] in Blood by Manual count,LOINC,3017680,748-4,8.257528033
+labs,Microscopic observation,Unknown,Microscopic observation [Identifier] in Specimen by Acid fast stain,LOINC,3027744,11545-1,7.771198186
+labs,Creatine kinase,U/L,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,LOINC,3007220,Jun-57,7.400781152
+labs,Ferritin,NG/ML,Ferritin [Mass/volume] in Serum or Plasma,LOINC,3001122,Apr-76,7.35290412
+labs,Iron,MCG/DL,Iron [Mass/volume] in Serum or Plasma,LOINC,3002400,Apr-98,6.841375835
+labs,Respiratory syncytial virus RNA,Unknown,Respiratory syncytial virus RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,46235794,76089-2,6.828776616
+labs,Iron/Transferrin,MG/DL,Iron/Transferrin [Mass Ratio] in Serum or Plasma,LOINC,3023017,13452-8,6.821217085
+labs,Iron binding capacity,MCG/DL,Iron binding capacity [Mass/volume] in Serum or Plasma,LOINC,3021044,Jul-00,6.816177397
+labs,Iron saturation,%,Iron saturation [Mass Fraction] in Serum or Plasma,LOINC,3000185,02-Mar,6.664986771
+labs,Erythrocyte sedimentation rate,MM/HR,Erythrocyte sedimentation rate,LOINC,3015183,30341-2,6.266851455
+labs,Triglyceride,MG/DL,Triglyceride [Mass/volume] in Serum or Plasma,LOINC,3022192,Aug-71,6.259291924
+labs,Natriuretic peptide.B,pg/mL,Natriuretic peptide B [Mass/volume] in Serum or Plasma,LOINC,3011960,30934-4,6.095502079
+labs,Sodium,mmol/L,Sodium [Moles/volume] in Urine collected for unspecified duration,LOINC,3034249,35678-2,6.045105203
+labs,Hypochromia,Unknown,Hypochromia [Presence] in Blood by Light microscopy,LOINC,3021303,728-6,5.88887489
+labs,Thyroxine.free,ng/dL,Thyroxine (T4) free [Mass/volume] in Serum or Plasma,LOINC,3008598,24-Jul,5.828398639
+labs,Vancomycin^trough,MCG/ML,Vancomycin [Mass/volume] in Serum or Plasma --trough,LOINC,3018920,Mar-92,5.780521608
+labs,Hepatitis B virus surface Ag,Unknown,Hepatitis B virus surface Ag [Presence] in Serum or Plasma by Immunoassay,LOINC,3019510,Jan-96,5.742723951
+labs,Erythrocytes.nucleated/100 leukocytes,/100 WBC,Nucleated erythrocytes/100 leukocytes [Ratio] in Blood by Manual count,LOINC,3003311,18309-5,5.649489732
+labs,Activated clotting time,SEC.,Activated clotting time (ACT) of Blood by Coagulation assay,LOINC,3016948,Sep-84,5.533576918
+labs,Fibrinogen,MG/DL,Fibrinogen [Mass/volume] in Platelet poor plasma by Coagulation assay,LOINC,3016407,Jul-55,5.498299105
+labs,Schistocytes,Unknown,Schistocytes [Presence] in Blood by Light microscopy,LOINC,3019880,800-3,5.410104574
+labs,Creatinine,MG/DL,Creatinine [Mass/volume] in Urine,LOINC,3017250,Aug-61,5.208517072
+labs,Carboxyhemoglobin/Hemoglobin.total,%,Carboxyhemoglobin/Hemoglobin.total in Blood,LOINC,3023081,20563-3,5.188358322
+labs,Cholesterol,MG/DL,Cholesterol [Mass/volume] in Serum or Plasma,LOINC,3027114,Mar-93,5.158120197
+labs,Methemoglobin,%,Methemoglobin [Mass/volume] in Blood,LOINC,3005147,15082-1,5.054806602
+labs,Hematocrit,%,Hematocrit [Volume Fraction] of Blood by Automated count,LOINC,3023314,Mar-44,5.054806602
+labs,Calcidiol,ng/mL,25-hydroxyvitamin D3 [Mass/volume] in Serum or Plasma,LOINC,3020149,Mar-89,4.800302381
+labs,Procalcitonin,ng/mL,Procalcitonin [Mass/volume] in Serum or Plasma,LOINC,3046279,33959-8,4.666750661
+labs,Platelets.large,Unknown,Platelets Large [Presence] in Blood by Light microscopy,LOINC,3034118,32146-3,4.608794255
+labs,Platelet function.collagen+EPINEPHrine induced,SEC,Platelet function (closure time) collagen+EPINEPHrine induced [Time] in Blood,LOINC,3005807,24471-5,4.570996598
+labs,Cobalamins,PG/ML,Cobalamin (Vitamin B12) [Mass/volume] in Serum or Plasma,LOINC,3000593,Sep-32,4.558397379
+labs,Cholesterol.in LDL,MG/DL,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,3053341,49132-4,4.555877536
+labs,Platelet function.collagen+Adenosine diphosphate induced,SEC,Platelet function (closure time) collagen+ADP induced [Time] in Blood,LOINC,3027391,24472-3,4.555877536
+labs,Cholesterol.non HDL,MG/DL,Cholesterol non HDL [Mass/volume] in Serum or Plasma,LOINC,3044491,43396-1,4.555877536
+labs,Cholesterol.in VLDL,MG/DL,Cholesterol in VLDL [Mass/volume] in Serum or Plasma,LOINC,3007352,Jul-91,4.555877536
+labs,Lactate dehydrogenase,U/L,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction,LOINC,3022250,14804-9,4.540758473
+labs,Lymphocytes.variant/100 leukocytes,%,Variant lymphocytes/100 leukocytes in Blood by Manual count,LOINC,3037234,735-1,4.530679098
+labs,Troponin I.cardiac,ng/mL,Troponin I.cardiac [Mass/volume] in Serum or Plasma,LOINC,3021337,10839-9,4.523119567
+labs,Lymphocytes.abnormal,THOUS/MCL,Abnormal lymphocytes [Presence] in Blood by Manual count,LOINC,21492392,78355-5,4.477762379
+labs,Prealbumin,MG/DL,Prealbumin [Mass/volume] in Serum or Plasma by Nephelometry,LOINC,3044974,46130-1,4.452563941
+labs,Cholesterol.in HDL,MG/DL,Cholesterol in HDL [Mass/volume] in Serum or Plasma,LOINC,3007070,Sep-85,4.397127378
+labs,Creatinine,MG/DL,Creatinine [Mass/volume] in Blood,LOINC,3051825,38483-4,4.359329722
+labs,Urea nitrogen,MG/DL,Urea nitrogen [Mass/volume] in Venous blood,LOINC,3027219,12962-7,4.359329722
+labs,Chloride,MMOL/L,Chloride [Moles/volume] in Arterial blood,LOINC,3031248,41650-3,4.359329722
+labs,Hepatitis C virus Ab,Unknown,Hepatitis C virus Ab [Presence] in Serum or Plasma by Immunoassay,LOINC,3013801,13955-0,4.228297846
+labs,Heparin.low molecular weight,IU/ML,LMW Heparin [Units/volume] in Platelet poor plasma by Chromogenic method,LOINC,3006792,Apr-71,4.145143001
+labs,Chloride,mmol/L,Chloride [Moles/volume] in Blood,LOINC,3018572,Mar-69,4.082146907
+labs,Osmolality,MOSM/KG,Osmolality of Urine,LOINC,3026782,May-95,3.966234093
+labs,Folate,NG/ML,Folate [Mass/volume] in Serum or Plasma,LOINC,3036987,Aug-84,3.96371425
+labs,HIV 1+2 Ab+HIV1 p24 Ag,Unknown,HIV 1+2 Ab+HIV1 p24 Ag [Presence] in Serum or Plasma by Immunoassay,LOINC,40760007,56888-1,3.935995968
+labs,Burr cells,Unknown,Burr cells [Presence] in Blood by Light microscopy,LOINC,3005854,Sep-90,3.678971904
+labs,Dacryocytes,Unknown,Dacrocytes [Presence] in Blood by Light microscopy,LOINC,3000456,Jul-91,3.570618622
+labs,Parathyrin.intact,PG/ML,Parathyrin.intact [Mass/volume] in Serum or Plasma,LOINC,3000067,31-Aug,3.30855487
+labs,Microcytes,Unknown,Microcytes [Presence] in Blood by Light microscopy,LOINC,3037885,741-9,3.285876276
+labs,Osmolality,MOSM/KG,Osmolality of Serum or Plasma,LOINC,3008295,Feb-92,3.21532065
+labs,Vancomycin,MCG/ML,Vancomycin [Mass/volume] in Serum or Plasma,LOINC,3005715,20578-1,3.094368149
+labs,Fibrin D-dimer FEU,ng/mL FEU,Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma,LOINC,3051714,48065-7,3.071689555
+labs,Heparin.unfractionated,IU/ML,Heparin unfractionated [Units/volume] in Platelet poor plasma by Chromogenic method,LOINC,3025684,Aug-74,3.051530805
+labs,Hepatitis B virus surface Ab,mIU/mL,Hepatitis B virus surface Ab [Units/volume] in Serum or Plasma by Immunoassay,LOINC,3013731,Aug-93,3.046491118
+labs,Neutrophils.vacuolated,Unknown,Neutrophils.vacuolated [Presence] in Blood by Light microscopy,LOINC,3033907,18319-4,3.028852211
+labs,Clotting time.extrinsic coagulation system activated,SEC,Clotting time.extrinsic coagulation system activated of Blood by Rotational TEG,LOINC,3041111,52773-9,2.892780648
+labs,Maximum clot firmness.extrinsic coagulation system activated,mm,Maximum clot firmness.extrinsic coagulation system activated [Length] in Blood by Rotational TEG,LOINC,3039607,52783-8,2.88774096
+labs,Clot angle,Degree,Clot angle in Blood by Thromboelastography,LOINC,40769408,66748-5,2.88774096
+labs,Maximum lysis.extrinsic coagulation system activated,%,Maximum lysis.extrinsic coagulation system activated [Length fraction] in Blood by Rotational TEG,LOINC,3041105,52786-1,2.88774096
+labs,Maximum clot firmness.extrinsic coagulation system activated.platelets inhibited,mm,Maximum clot firmness.extrinsic coagulation system activated.platelets inhibited [Length] in Blood by Rotational TEG,LOINC,3040782,52780-4,2.88774096
+labs,Clot formation.extrinsic coagulation system activated,SEC,Clot formation.extrinsic coagulation system activated [Time] in Blood by Rotational TEG,LOINC,3040555,52770-5,2.880181429
+labs,Hepatitis B virus surface Ab,Unknown,Hepatitis B virus surface Ab [Presence] in Serum by Immunoassay,LOINC,3006453,10900-9,2.797026584
+labs,Urea nitrogen,MG/DL,Urea nitrogen [Mass/volume] in Urine,LOINC,3011965,Jul-95,2.789467053
+labs,Stomatocytes,Unknown,Stomatocytes [Presence] in Blood by Light microscopy,LOINC,3024783,10380-4,2.761748772
+labs,Hyaline casts,/LPF,Hyaline casts [#/area] in Urine sediment by Automated count,LOINC,3043722,33223-9,2.761748772
+labs,Hepatitis B virus core Ab,Unknown,Hepatitis B virus core Ab [Presence] in Serum or Plasma by Immunoassay,LOINC,3036282,13952-7,2.739070178
+labs,Oxygen content,ML/DL,Oxygen content in Blood by calculation,LOINC,40760909,57800-5,2.698752677
+labs,Toxic granules,Unknown,Toxic granules [Presence] in Blood by Light microscopy,LOINC,3004381,803-7,2.67355424
+labs,Oxygen saturation,%,Oxygen saturation in Blood,LOINC,3013502,20564-1,2.668514552
+labs,Choriogonadotropin (pregnancy test),Unknown,Choriogonadotropin (pregnancy test) [Presence] in Urine,LOINC,3018954,06-Mar,2.575280333
+labs,C reactive protein,MG/DL,C reactive protein [Mass/volume] in Serum or Plasma by High sensitivity method,LOINC,3010156,30522-7,2.537482676
+labs,Carbon dioxide,MMHG,Carbon dioxide [Partial pressure] in Venous blood,LOINC,3021447,21-Apr,2.524883457
+labs,pH,Unknown,pH of Venous blood,LOINC,3012544,Jun-46,2.524883457
+labs,Oxygen,MMHG,Oxygen [Partial pressure] in Venous blood,LOINC,3024354,05-Feb,2.524883457
+labs,Target cells,Unknown,Target cells [Presence] in Blood by Light microscopy,LOINC,3025616,10381-2,2.504724707
+labs,Fluid,Unknown,[Type] of Body fluid,LOINC,3020845,14725-6,2.456847675
+labs,Color,Unknown,Color of Body fluid,LOINC,3015579,24-Jul,2.451807988
+labs,XXX microorganism DNA,Unknown,XXX microorganism DNA [Presence] in Specimen by NAA with probe detection,LOINC,3035833,35691-5,2.449288144
+labs,Erythrocytes.nucleated,/CUMM,Nucleated erythrocytes [#/volume] in Body fluid by Manual count,LOINC,3006032,13530-1,2.441728613
+labs,Erythrocytes.nucleated,/CUMM,Nucleated erythrocytes [#/volume] in Body fluid,LOINC,3028129,26460-6,2.441728613
+labs,Bicarbonate,mmol/L,Bicarbonate [Moles/volume] in Mixed venous blood,LOINC,3025817,19229-4,2.42660955
+labs,Clostridioides difficile toxin genes,Unknown,Clostridioides difficile toxin genes [Presence] in Stool by NAA with probe detection,LOINC,3051552,54067-4,2.373692831
+labs,Neutrophils.band form/100 leukocytes,%,Band form neutrophils/100 leukocytes in Body fluid,LOINC,3017161,26510-8,2.356053925
+labs,Carbon dioxide,MMHG,Carbon dioxide [Partial pressure] in Mixed venous blood,LOINC,3021513,19212-0,2.328335643
+labs,Oxygen,MMHG,Oxygen [Partial pressure] in Mixed venous blood,LOINC,3038071,19211-2,2.328335643
+labs,pH,Unknown,pH of Mixed venous blood,LOINC,3012388,19213-8,2.328335643
+labs,Crystals.amorphous,/HPF,Crystals.amorphous [Presence] in Urine by Computer assisted method,LOINC,3039587,53329-9,2.255260174
+labs,Lymphocytes/100 leukocytes,%,Lymphocytes/100 leukocytes in Body fluid by Manual count,LOINC,3003540,13941-0,2.225022049
+labs,Ammonia,MCMOL/L,Ammonia [Moles/volume] in Plasma,LOINC,3011958,16362-6,2.219982361
+labs,Creatine kinase.MB,ng/mL,Creatine kinase.MB [Mass/volume] in Serum or Plasma,LOINC,3005785,13969-1,2.21242283
+labs,Platelets.giant,Unknown,Giant platelets [Presence] in Blood by Light microscopy,LOINC,3018528,08-Sep,2.202343455
+labs,Hemoglobin,G/DL,Hemoglobin [Mass/volume] in Arterial blood by Oximetry,LOINC,3006239,14775-1,2.159506111
+labs,Haptoglobin,MG/DL,Haptoglobin [Mass/volume] in Serum or Plasma,LOINC,3012336,Jul-42,2.149426736
+labs,Hepatitis B virus core Ab.IgM,Unknown,Hepatitis B virus core IgM Ab [Presence] in Serum or Plasma by Immunoassay,LOINC,3022560,24113-3,2.134307673
+labs,Specimen weight,mg,Weight of Specimen,LOINC,3001795,Feb-54,2.053672672
+labs,Composition,Unknown,Composition in Stone,LOINC,3014880,Jun-95,2.053672672
+labs,Macrocytes,Unknown,Macrocytes [Presence] in Blood by Light microscopy,LOINC,3021502,738-5,2.053672672
+labs,Appearance,Unknown,Appearance of Stone,LOINC,3006545,14618-3,2.053672672
+labs,Reticulocytes/100 erythrocytes,%,Reticulocytes/100 erythrocytes in Blood by Automated count,LOINC,3007124,17849-1,2.005795641
+labs,Cortisol,MCG/DL,Cortisol [Mass/volume] in Serum or Plasma,LOINC,3009682,Jun-43,1.970517828
+labs,Treponema pallidum Ab.IgG+IgM,Index,Treponema pallidum IgG+IgM Ab [Presence] in Serum by Immunoassay,LOINC,3048453,47236-5,1.897442359
+labs,Hepatitis A virus Ab.IgM,Unknown,Hepatitis A virus IgM Ab [Presence] in Serum or Plasma by Immunoassay,LOINC,3020316,13950-1,1.879803452
+labs,Mitogen stimulated gamma interferon^^corrected for background,IU/mL,Mitogen stimulated gamma interferon [Units/volume] corrected for background in Blood,LOINC,42869529,71774-4,1.867204233
+labs,Mycobacterium tuberculosis stimulated gamma interferon release by CD4+ T-cells^^corrected for background,IU/mL,Mycobacterium tuberculosis stimulated gamma interferon release by CD4+ T-cells [Units/volume] corrected for background in Blood,LOINC,40766800,64084-7,1.748771576
+labs,Monocytes/100 leukocytes,%,Monocytes/100 leukocytes in Body fluid,LOINC,3038104,26487-9,1.743731889
+labs,Number,Unknown,Number of Stones,LOINC,3018031,Apr-00,1.695854857
+labs,Size,mm,Size [Entitic volume] of Stone,LOINC,3014188,9802-0,1.695854857
+labs,Urate,MG/DL,Urate [Mass/volume] in Serum or Plasma,LOINC,3037556,Jan-84,1.612700013
+labs,Macrophages/100 leukocytes,%,Macrophages/100 leukocytes in Body fluid,LOINC,3024126,30427-9,1.610180169
+labs,Mycobacterium tuberculosis tuberculin stimulated gamma interferon,Unknown,Mycobacterium tuberculosis tuberculin stimulated gamma interferon [Presence] in Blood,LOINC,3046425,45323-3,1.600100794
+labs,Mycobacterium tuberculosis tuberculin stimulated gamma interferon/Mitogen stimulated gamma interferon,IU/mL,Mycobacterium tuberculosis tuberculin stimulated gamma interferon/Mitogen stimulated gamma interferon [Units/volume] in Control Blood,LOINC,3048446,46216-8,1.592541262
+labs,Tacrolimus,NG/ML,Tacrolimus [Mass/volume] in Blood,LOINC,3026250,11253-2,1.559783293
+labs,Coccidioides immitis Ab.IgM,Unknown,Coccidioides immitis IgM Ab [Presence] in Serum by Immunoassay,LOINC,3009394,13948-5,1.544664231
+labs,Yeast.budding,/HPF,Yeast.budding [#/area] in Urine by Computer assisted method,LOINC,3039917,53269-7,1.544664231
+labs,Coccidioides immitis Ab.IgG,Unknown,Coccidioides immitis IgG Ab [Presence] in Serum by Immunoassay,LOINC,3035855,13947-7,1.544664231
+labs,Promyelocytes/100 leukocytes,%,Promyelocytes/100 leukocytes in Blood by Manual count,LOINC,3011587,783-1,1.494267355
+labs,Promyelocytes,THOUS/MCL,Promyelocytes [#/volume] in Blood by Manual count,LOINC,3024153,781-5,1.479148293
+labs,Nucleated cells,/CUMM,Nucleated cells [#/volume] in Cerebral spinal fluid,LOINC,40761570,58470-6,1.448910168
+labs,Appearance,Unknown,Appearance of Cerebral spinal fluid,LOINC,3023410,10333-3,1.448910168
+labs,Erythrocytes,/CUMM,Erythrocytes [#/volume] in Cerebral spinal fluid,LOINC,3027475,26454-9,1.448910168
+labs,Tube number,Unknown,Tube number of Cerebral spinal fluid,LOINC,3024898,19157-7,1.448910168
+labs,Beta hydroxybutyrate,mmol/L,Beta hydroxybutyrate [Moles/volume] in Serum or Plasma,LOINC,3003985,Apr-73,1.438830792
+labs,Lymphocytes/100 leukocytes,%,Lymphocytes/100 leukocytes in Cerebral spinal fluid by Manual count,LOINC,3036663,10328-3,1.408592667
+labs,Protein,MG/DL,Protein [Mass/volume] in Cerebral spinal fluid,LOINC,3019473,Mar-80,1.380874386
+labs,Glucose,MG/DL,Glucose [Mass/volume] in Cerebral spinal fluid,LOINC,3022548,Apr-42,1.370795011
+labs,Nuclear Ab,Unknown,Nuclear Ab [Presence] in Serum by Immunofluorescence,LOINC,3029103,42254-3,1.29016001
+labs,Amylase,U/L,Amylase [Enzymatic activity/volume] in Body fluid,LOINC,3012133,1795-4,1.287640166
+labs,Specimen source,Unknown,Specimen source identified,LOINC,3015746,31208-2,1.275040947
+labs,Monocytes/100 leukocytes,%,Monocytes/100 leukocytes in Cerebral spinal fluid by Manual count,LOINC,3037194,10329-1,1.275040947
+labs,Protein.monoclonal,MG/DL,Protein.monoclonal [Mass/volume] in Urine,LOINC,3036416,35560-2,1.254882197
+labs,Major crossmatch,Unknown,Major crossmatch [Interpretation] by Polyethylene glycol (PEG) method,LOINC,3036733,38167-3,1.252362354
+labs,Cystatin C,mg/L,Cystatin C [Mass/volume] in Serum or Plasma,LOINC,3030366,33863-2,1.247322666
+labs,Glomerular filtration rate/1.73 sq M.predicted,mL/min/sq m BSA,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Cystatin C-based formula",LOINC,3029859,50210-4,1.247322666
+labs,Specimen source,Unknown,Specimen source [Identifier] of Body fluid,LOINC,3053213,47938-6,1.214564697
+labs,Body temperature,DEG,Body temperature,LOINC,3020891,10-May,1.212044853
+labs,Cytomegalovirus Ab.IgG,U/mL,Cytomegalovirus IgG Ab [Presence] in Serum or Plasma by Immunoassay,LOINC,3012887,13949-3,1.179286884
+labs,Blood group antibody investigation,Unknown,Blood group antibody investigation [Interpretation] in Plasma or RBC,LOINC,3019601,14575-5,1.179286884
+labs,Leukocytes other/100 leukocytes,%,Leukocytes other/100 leukocytes in Body fluid,LOINC,3023547,26473-9,1.166687665
+labs,Cytomegalovirus Ab.IgM,AU/mL,Cytomegalovirus IgM Ab [Presence] in Serum or Plasma by Immunoassay,LOINC,3001145,24119-0,1.151568603
+labs,Varicella zoster virus Ab.IgG,Index,Varicella zoster virus IgG Ab [Presence] in Serum by Immunoassay,LOINC,3009678,15410-4,1.146528915
+labs,Neutrophils.band form/100 leukocytes,%,Band form neutrophils/100 leukocytes in Cerebral spinal fluid,LOINC,3007905,26509-0,1.138969384
+labs,Amylase,U/L,Amylase [Enzymatic activity/volume] in Serum or Plasma,LOINC,3016771,1798-8,1.128890009
+labs,Epstein Barr virus capsid Ab.IgG,U/mL,Epstein Barr virus capsid IgG Ab [Presence] in Serum by Immunoassay,LOINC,3019231,24114-1,1.093612196
+labs,Epstein Barr virus nuclear Ab.IgG,U/mL,Epstein Barr virus nuclear IgG Ab [Presence] in Serum by Immunoassay,LOINC,3017612,May-56,1.093612196
+labs,West Nile virus Ab.IgG,IV,West Nile virus IgG Ab [Units/volume] in Serum,LOINC,3025618,29535-2,1.093612196
+labs,West Nile virus Ab.IgM,IV,West Nile virus IgM Ab [Units/volume] in Serum,LOINC,3012151,29536-0,1.093612196
+labs,Epstein Barr virus early Ab.IgG,U/mL,Epstein Barr virus early IgG Ab [Presence] in Serum by Immunoassay,LOINC,3040849,40752-8,1.093612196
+labs,Epstein Barr virus capsid Ab.IgM,U/mL,Epstein Barr virus capsid IgM Ab [Presence] in Serum by Immunoassay,LOINC,3019209,24115-8,1.093612196
+labs,Strongyloides stercoralis Ab.IgG,Unknown,Strongyloides stercoralis IgG Ab [Presence] in Serum by Immunoassay,LOINC,3013929,Apr-32,1.065893915
+labs,Varicella zoster virus Ab.IgM,TITER,Varicella zoster virus IgM Ab [Titer] in Serum by Immunofluorescence,LOINC,3014278,Jun-70,1.050774852
+labs,Trypanosoma cruzi Ab.IgG,IV,Trypanosoma cruzi IgG Ab [Units/volume] in Serum,LOINC,3017003,13291-0,1.030616102
+labs,Elliptocytes,Unknown,Elliptocytes [Presence] in Blood by Light microscopy,LOINC,3000493,11274-8,1.010457352
+labs,Carcinoembryonic Ag,NG/ML,Carcinoembryonic Ag [Mass/volume] in Serum or Plasma,LOINC,3003785,Jun-39,1.005417664
+labs,pH^^adjusted to patient's actual temperature,Unknown,pH of Arterial blood adjusted to patient's actual temperature,LOINC,3029473,33254-4,0.987778758
+labs,Carbon dioxide^^adjusted to patient's actual temperature,MMHG,Carbon dioxide [Partial pressure] adjusted to patient's actual temperature in Arterial blood,LOINC,3045156,32771-8,0.985258914
+labs,Oxygen^^adjusted to patient's actual temperature,MMHG,Oxygen [Partial pressure] adjusted to patient's actual temperature in Arterial blood,LOINC,3022803,19255-9,0.985258914
+labs,Herpes simplex virus 1 Ab.IgG,Index,Herpes simplex virus 1 IgG Ab [Presence] in Serum or Plasma by Immunoassay,LOINC,3039971,51916-5,0.977699383
+labs,Herpes simplex virus 2 Ab.IgG,Index,Herpes simplex virus 2 IgG Ab [Presence] in Serum or Plasma by Immunoassay,LOINC,3045041,43180-9,0.970139851
+labs,Creatinine,MG/DL,Creatinine [Mass/volume] in Body fluid,LOINC,3016662,12190-5,0.96258032
+labs,Acanthocytes,Unknown,Acanthocytes [Presence] in Blood by Light microscopy,LOINC,3019416,Jan-89,0.955020789
+labs,Hepatitis C virus RNA,IU/ML,Hepatitis C virus RNA [Units/volume] (viral load) in Serum or Plasma by NAA with probe detection,LOINC,3018447,11011-4,0.949981101
+labs,Galactomannan Ag,Unknown,Galactomannan Ag [Units/volume] in Serum or Plasma,LOINC,3035826,35383-9,0.939901726
+labs,Potassium,mmol/L,Potassium [Moles/time] in 24 hour Urine,LOINC,3016330,2829-0,0.937381882
+labs,Dohle body,Unknown,Dohle body [Presence] in Blood by Light microscopy,LOINC,3003715,May-92,0.934862039
+labs,Lactate dehydrogenase,U/L,Lactate dehydrogenase [Enzymatic activity/volume] in Body fluid by Lactate to pyruvate reaction,LOINC,3018994,14803-1,0.909663601
+labs,Blood smear finding,Unknown,Blood smear finding [Identifier] in Blood by Light microscopy,LOINC,3018760,09-Jul,0.844147663
+labs,Oxygen content,ML/DL,Oxygen content in Blood,LOINC,3044904,34163-6,0.831548444
+labs,Protein,G/DL,Protein [Mass/volume] in Body fluid,LOINC,3005029,Jan-81,0.813909538
+labs,Gamma glutamyl transferase,U/L,Gamma glutamyl transferase [Enzymatic activity/volume] in Serum or Plasma,LOINC,3026910,24-Feb,0.803830163
+labs,Specimen-related information panel,Unknown,Specimen-related information panel,LOINC,40771517,68992-7,0.803830163
+labs,Eosinophils/100 leukocytes,%,Eosinophils/100 leukocytes in Body fluid by Manual count,LOINC,3022231,12209-3,0.798790475
+labs,Direct antiglobulin test.poly specific reagent,Unknown,Direct antiglobulin test.polyspecific reagent [Presence] on Red Blood Cells,LOINC,3022907,1007-4,0.783671412
+labs,Cancer Ag 19-9,U/ML,Cancer Ag 19-9 [Units/volume] in Serum or Plasma,LOINC,3022914,24108-3,0.766032506
+labs,Trypanosoma cruzi Ab.IgM,Unknown,Trypanosoma cruzi IgM Ab [Units/volume] in Serum,LOINC,3016466,13290-2,0.763512662
+labs,Cortisol^baseline,MCG/DL,Cortisol [Mass/volume] in Saliva (oral fluid) --baseline,LOINC,3040232,51495-0,0.738314225
+labs,fentaNYL,Unknown,fentaNYL [Presence] in Urine,LOINC,3004176,11235-9,0.715635631
+labs,Legionella pneumophila 1 Ag,Unknown,Legionella pneumophila 1 Ag [Presence] in Urine by Immunoassay,LOINC,3033152,41499-5,0.715635631
+labs,oxyCODONE,Unknown,oxyCODONE [Presence] in Urine,LOINC,3000068,10998-3,0.710595943
+labs,Corticotropin^6th specimen post XXX challenge,PG/ML,Corticotropin [Mass/volume] in Plasma --6th specimen post XXX challenge,LOINC,3001813,12462-8,0.67531813
+labs,IgG,mg/dL,IgG [Mass/volume] in Serum or Plasma,LOINC,3005719,Mar-65,0.672798287
+labs,Spermatozoa,/HPF,Spermatozoa [Presence] in Urine by Automated,LOINC,3029181,33232-0,0.667758599
+labs,Platelet factor 4 heparin complex induced Ab.IgG,OD,Heparin induced platelet IgG Ab in Serum or Plasma by Immunoassay,LOINC,43533841,73818-7,0.667758599
+labs,Gamma globulin,G/DL,Gamma globulin [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,3023465,Jun-74,0.662718911
+labs,Albumin,G/DL,Albumin [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,3028286,Jan-62,0.662718911
+labs,Beta globulin,G/DL,Beta globulin [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,3016520,Feb-71,0.662718911
+labs,Albumin/Globulin,Unknown,Albumin/Globulin [Mass Ratio] in Serum or Plasma,LOINC,3020509,1759-0,0.662718911
+labs,Alpha 1 globulin,G/DL,Alpha 1 globulin [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,3015322,Apr-65,0.662718911
+labs,Alpha 2 globulin,G/DL,Alpha 2 globulin [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,3005229,Aug-68,0.662718911
+labs,Erythrocytes.dual population,Unknown,Erythrocytes.dual population [Presence] in Blood by Light microscopy,LOINC,3009408,10379-6,0.647599849
+labs,"1,3 beta glucan",pg/mL,"1,3 beta glucan [Mass/volume] in Serum",LOINC,3034360,42176-8,0.642560161
+labs,Macrophages/100 leukocytes,%,Macrophages/100 leukocytes in Cerebral spinal fluid by Manual count,LOINC,3037871,12229-1,0.640040318
+labs,pH,Unknown,pH of Urine,LOINC,3015736,May-56,0.63500063
+labs,Neisseria gonorrhoeae DNA,Unknown,Neisseria gonorrhoeae DNA [Presence] in Specimen by NAA with probe detection,LOINC,3011371,24111-7,0.63500063
+labs,Chlamydia trachomatis DNA,Unknown,Chlamydia trachomatis DNA [Presence] in Specimen by NAA with probe detection,LOINC,3006093,21613-5,0.63500063
+labs,Interpretation,Unknown,Immunofixation for Serum or Plasma,LOINC,3037756,25700-6,0.619881567
+labs,Toxoplasma gondii Ab.IgG,Unknown,Toxoplasma gondii IgG Ab [Presence] in Serum by Immunoassay,LOINC,3038536,40677-7,0.61484188
+labs,Albumin,mg/dL,Albumin [Mass/volume] in Body fluid,LOINC,3025313,1747-5,0.61484188
+labs,Albumin,MG/L,Microalbumin [Mass/volume] in Urine,LOINC,3000034,14957-5,0.609802192
+labs,Streptococcus pneumoniae Ag,Unknown,Streptococcus pneumoniae Ag [Presence] in Specimen,LOINC,3007625,31969-9,0.607282348
+labs,Toxoplasma gondii Ab.IgM,TITER,Toxoplasma gondii IgM Ab [Titer] in Serum or Plasma by Immunofluorescence,LOINC,3017620,Aug-91,0.607282348
+labs,Digoxin,ng/mL,Digoxin [Mass/volume] in Serum or Plasma,LOINC,3011335,10535-3,0.604762505
+labs,Cancer Ag 125,U/ML,Cancer Ag 125 [Units/volume] in Serum or Plasma,LOINC,3037551,10334-1,0.584603755
+labs,Galactomannan Ag,Unknown,Galactomannan Ag [Presence] in Serum or Plasma by Immunoassay,LOINC,3046760,44099-0,0.582083911
+labs,Neutrophil cytoplasmic Ab,Unknown,Neutrophil cytoplasmic Ab [Presence] in Serum by Immunofluorescence,LOINC,3032077,35279-9,0.566964848
+labs,Alpha-1-Fetoprotein,NG/ML,Alpha-1-Fetoprotein [Mass/volume] in Serum or Plasma,LOINC,3009306,1834-1,0.564445004
+labs,Acetaminophen,mcg/mL,Acetaminophen [Mass/volume] in Serum or Plasma,LOINC,3002617,Jul-98,0.564445004
+labs,Prolactin,NG/ML,Prolactin [Mass/volume] in Serum or Plasma,LOINC,3004722,Mar-42,0.561925161
+labs,Smooth muscle Ab,Unknown,Smooth muscle Ab [Presence] in Serum,LOINC,3005932,14252-1,0.544286254
+labs,Mitochondria Ab,Unknown,Mitochondria Ab [Presence] in Serum by Immunofluorescence,LOINC,3005277,17284-1,0.544286254
+labs,PhenX - urinary creatinine assay for kidney function protocol 141601,G/L,PhenX - urinary creatinine assay for kidney function protocol 141601,LOINC,40765543,62811-5,0.54176641
+labs,Microalbumin/Creatinine ratio panel,MG MICAL/GM CRE,Microalbumin/Creatinine panel in random Urine,LOINC,3044897,34535-5,0.54176641
+labs,Hepatitis A virus Ab.IgG,Unknown,Hepatitis A virus IgG Ab [Presence] in Serum,LOINC,3006631,32018-4,0.516567973
+labs,Follitropin,MIU/ML,Follitropin [Units/volume] in Serum or Plasma,LOINC,3023323,15067-2,0.506488598
+labs,Complement C3,mg/dL,Complement C3 [Mass/volume] in Serum or Plasma,LOINC,3000620,Sep-85,0.498929066
+labs,Complement C4,mg/dL,Complement C4 [Mass/volume] in Serum or Plasma,LOINC,3017766,Feb-98,0.498929066
+labs,Glucose,MG/DL,Glucose [Mass/volume] in Body fluid,LOINC,3019210,2344-0,0.488849691
+labs,Chloride,mmol/L,Chloride [Molar amount] in Urine collected for unspecified duration,LOINC,3009032,32542-3,0.486329848
+labs,Lutropin,MIU/ML,Lutropin [Units/volume] in Serum or Plasma,LOINC,3009214,10501-5,0.486329848
+labs,Cryptococcus sp Ag,Unknown,Cryptococcus sp Ag [Presence] in Serum,LOINC,3023174,31790-9,0.48129016
+labs,Calcium oxalate crystals,/HPF,Calcium oxalate crystals [#/area] in Urine sediment by Microscopy low power field,LOINC,3041086,53131-9,0.468690941
+labs,Cytomegalovirus DNA,IU/ML,Cytomegalovirus DNA [Units/volume] (viral load) in Specimen by NAA with probe detection,LOINC,3030558,34720-3,0.463651254
+labs,Hepatitis C virus RNA,Unknown,Hepatitis C virus RNA [Presence] in Serum or Plasma by NAA with probe detection,LOINC,3021125,11259-9,0.46113141
+labs,Hepatitis C virus RNA,log IU/mL,Hepatitis C virus RNA [log units/volume] (viral load) in Serum or Plasma by NAA with probe detection,LOINC,3034868,38180-6,0.46113141
+labs,Protein,MG/DL,Protein [Mass/volume] in Urine collected for unspecified duration,LOINC,3035511,35663-4,0.448532191
+labs,Insulin-like growth factor-I,ng/mL,Insulin-like growth factor-I [Mass/volume] in Serum or Plasma,LOINC,3013273,Apr-84,0.448532191
+labs,Eosinophils,Unknown,Eosinophils [Presence] in Urine sediment by Light microscopy,LOINC,3037579,25156-1,0.443492503
+labs,Hemoglobin.gastrointestinal.lower,Unknown,Hemoglobin.gastrointestinal.lower [Presence] in Stool by Immunoassay,LOINC,3012471,29771-3,0.44097266
+labs,Insulin-like growth factor-I,Unknown,Insulin-like growth factor-I [Z-score] in Serum or Plasma,LOINC,43533584,73561-3,0.438452816
+labs,Lupus anticoagulant neutralization.dilute phospholipid,Unknown,Lupus anticoagulant neutralization dilute phospholipid [Presence] in Platelet poor plasma,LOINC,3017427,15191-0,0.435932972
+labs,DNA double strand Ab,Unknown,DNA double strand Ab [Presence] in Serum by Immunofluorescence (IF) Crithidia luciliae,LOINC,3002426,Jun-57,0.428373441
+labs,Ceruloplasmin,mg/dL,Ceruloplasmin [Mass/volume] in Serum or Plasma,LOINC,3022756,Apr-64,0.418294066
+labs,Drugs identified,Unknown,Drugs identified in Urine by Screen method,LOINC,3011288,12286-1,0.413254378
+labs,Cytomegalovirus DNA,log IU/mL,Cytomegalovirus DNA [Log #/volume] (viral load) in Specimen by NAA with probe detection,LOINC,3038616,53763-9,0.413254378
+labs,Study report,Unknown,Pathology study,LOINC,3008122,11526-1,0.410734534
+labs,Salicylates,MG/DL,Salicylates [Mass/volume] in Serum or Plasma,LOINC,3000787,24-Jun,0.408214691
+labs,Calcitriol,pg/mL,Calcitriol [Mass/volume] in Serum or Plasma,LOINC,3014173,1649-3,0.408214691
+labs,Clostridioides difficile toxin A+B,Unknown,Clostridioides difficile toxin A+B [Presence] in Stool by Immunoassay,LOINC,3044936,34468-9,0.398135316
+labs,IgA,mg/dL,IgA [Mass/volume] in Serum or Plasma,LOINC,3007164,Aug-58,0.390575784
+labs,Hepatitis B virus DNA,IU/ML,Hepatitis B virus DNA [Units/volume] (viral load) in Serum or Plasma by NAA with probe detection,LOINC,3032567,42595-9,0.380496409
+labs,Ova & parasites identified,Unknown,Ova and parasites identified in Specimen by Light microscopy,LOINC,3012744,673-4,0.377976565
+labs,Collection duration,HOURS,Collection duration of Urine,LOINC,3016750,13362-9,0.370417034
+labs,Specimen volume,ML,Volume of 24 hour Urine,LOINC,3012565,Apr-67,0.370417034
+labs,SARS coronavirus 2 Ab.IgG,Unknown,"SARS-CoV-2 (COVID-19) IgG Ab [Presence] in Serum, Plasma or Blood by Rapid immunoassay",LOINC,706181,94507-1,0.36789719
+labs,Creatinine,G/TOT VOL,Creatinine [Mass/time] in 24 hour Urine,LOINC,3004239,Jun-62,0.365377347
+labs,Creatinine,MG/DL,Creatinine [Mass/volume] in 24 hour Urine,LOINC,3001349,20624-3,0.362857503
+labs,Zinc,MCG/DL,Zinc [Mass/volume] in Serum or Plasma,LOINC,3017394,Aug-63,0.360337659
+labs,Serotonin release.heparin.porcine interpretation,Unknown,Serotonin release.heparin.porcine in Serum,LOINC,3031322,50734-3,0.357817815
+labs,Basophilic stippling,Unknown,Basophilic stippling [Presence] in Blood by Light microscopy,LOINC,3026904,703-9,0.355297972
+labs,Histoplasma capsulatum Ag,Unknown,Histoplasma capsulatum Ag [Units/volume] in Serum by Immunoassay,LOINC,3024411,28-Jul,0.352778128
+labs,Urate,MG/DL,Urate [Mass/volume] in Urine,LOINC,3033526,Jun-86,0.350258284
+labs,Serotonin release 100 IU/mL heparin.unfractionated,%,Serotonin release 100 IU/mL heparin.unfractionated [Units/volume] in Serum,LOINC,3030465,50727-7,0.34773844
+labs,Serotonin release 0.1 IU/mL heparin.unfractionated,%,Serotonin release 0.1 IU/mL heparin.unfractionated [Units/volume] in Serum,LOINC,3029588,50728-5,0.34773844
+labs,Nuclear Ab,TITER,Nuclear Ab [Titer] in Serum by Immunofluorescence,LOINC,3002971,Apr-48,0.34773844
+labs,Thiamine,nmol/L,Thiamine [Mass/volume] in Blood,LOINC,3028717,Mar-98,0.345218596
+labs,Rheumatoid factor,Unknown,Rheumatoid factor [Presence] in Serum by Latex agglutination,LOINC,3012886,Jul-97,0.342698753
+labs,Spherocytes,Unknown,Spherocytes [Presence] in Blood by Light microscopy,LOINC,3005481,802-9,0.342698753
+labs,Cortisol^1H post dose corticotropin,MCG/DL,Cortisol [Mass/volume] in Serum or Plasma --1 hour post dose corticotropin,LOINC,3028305,26528-0,0.337659065
+labs,Direct antiglobulin test.complement C3d specific reagent,Unknown,Direct antiglobulin test.complement C3d specific reagent [Presence] on Red Blood Cells,LOINC,40758895,55774-4,0.335139221
+labs,Direct antiglobulin test.IgG specific reagent,Unknown,Direct antiglobulin test.IgG specific reagent [Interpretation] on Red Blood Cells,LOINC,3021888,1006-6,0.335139221
+labs,Cortisol^30M post dose corticotropin,MCG/DL,Cortisol [Mass/volume] in Serum or Plasma --30 minutes post dose corticotropin,LOINC,3026147,26530-6,0.335139221
+labs,Lactate,mmol/L,Lactate [Moles/volume] in Cerebral spinal fluid,LOINC,3035999,20-May,0.330099534
+labs,Opiates,Unknown,Opiates [Presence] in Urine by Confirmatory method,LOINC,3023562,18390-5,0.32757969
+labs,Granular casts,/LPF,Granular casts [#/area] in Urine by Computer assisted method,LOINC,3046914,33341-9,0.32757969
+labs,Clotting time.intrinsic coagulation system activated,SEC,Clotting time.intrinsic coagulation system activated of Blood by Rotational TEG,LOINC,3041107,52776-2,0.322540003
+labs,Toxoplasma gondii Ab.IgM,AU/mL,Toxoplasma gondii IgM Ab [Units/volume] in Serum,LOINC,3027529,Aug-40,0.320020159
+labs,Toxoplasma gondii Ab.IgG,IU/mL,Toxoplasma gondii IgG Ab [Units/volume] in Serum,LOINC,3014959,8039-0,0.320020159
+labs,Mycophenolate,ug/mL,Mycophenolate [Mass/volume] in Serum or Plasma,LOINC,3027653,23905-3,0.312460627
+labs,IgM,mg/dL,IgM [Mass/volume] in Serum or Plasma,LOINC,3028026,Sep-72,0.312460627
+labs,Beta 2 glycoprotein 1 Ab.IgG,CU,Beta 2 glycoprotein 1 IgG Ab [Units/volume] in Serum or Plasma by Immunoassay,LOINC,3044355,44448-9,0.312460627
+labs,Mycophenolate glucuronide,ug/mL,Mycophenolate glucuronide [Mass/volume] in Serum or Plasma by LC/MS/MS,LOINC,40758928,55807-2,0.312460627
+labs,Antithrombin actual/Normal,%,Antithrombin actual/normal in Platelet poor plasma by Chromogenic method,LOINC,3000515,27811-9,0.30742094
+labs,Copper,MCG/DL,Copper [Mass/volume] in Serum or Plasma,LOINC,3027126,31-Jul,0.304901096
+labs,Beta 2 glycoprotein 1 Ab.IgM,CU,Beta 2 glycoprotein 1 IgM Ab [Units/volume] in Serum or Plasma by Immunoassay,LOINC,3046171,44449-7,0.304901096
+labs,Transitional cells,/HPF,Transitional cells [#/area] in Urine by Computer assisted method,LOINC,3043681,33220-5,0.302381252
+labs,Cardiolipin Ab.IgG,GPL,Cardiolipin IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,3009041,May-81,0.299861409
+labs,Leukocytes,/MCL,Leukocytes [#/volume] in Blood,LOINC,3010813,26464-8,0.299861409
+labs,Cardiolipin Ab.IgM,MPL,Cardiolipin IgM Ab [Units/volume] in Serum by Immunoassay,LOINC,3015813,Mar-82,0.299861409
+labs,Coagulation surface induced.lupus sensitive,SEC,aPTT.lupus sensitive (LA screen),LOINC,3044009,34571-0,0.299861409
+labs,Somatotropin,ng/mL,Somatotropin [Mass/volume] in Serum or Plasma,LOINC,3023709,Jul-63,0.299861409
+labs,Coagulation surface induced.hexagonal phase phospholipid,Unknown,aPTT W excess hexagonal phase phospholipid in Platelet poor plasma by Coagulation assay,LOINC,3010297,Jan-82,0.299861409
+labs,Lymphocytes,/MCL,Lymphocytes [#/volume] in Blood,LOINC,3019198,26474-7,0.297341565
+labs,Triiodothyronine,ng/dL,Triiodothyronine (T3) [Mass/volume] in Serum or Plasma,LOINC,3010340,Jun-53,0.294821721
+labs,Cells.CD3+CD4+/Cells.CD3+CD8+,RATIO,CD3+CD4+ (T4 helper) cells/CD3+CD8+ (T8 suppressor cells) cells [# Ratio] in Blood,LOINC,40757349,54218-3,0.292301877
+labs,Beta globulin/Protein.total,%,Beta globulin/Protein.total in Urine by Electrophoresis,LOINC,3009565,13994-9,0.292301877
+labs,Gamma globulin/Protein.total,%,Gamma globulin/Protein.total in Urine by Electrophoresis,LOINC,3010157,13995-6,0.292301877
+labs,Cells.CD3+CD8+,/MCL,CD3+CD8+ (T8 suppressor) cells [#/volume] in Blood,LOINC,3001405,14135-8,0.292301877
+labs,Alpha 2 globulin/Protein.total,%,Alpha 2 globulin/Protein.total in Urine by Electrophoresis,LOINC,3028558,13993-1,0.292301877
+labs,Cells.CD3+CD4+/100 cells,%,CD3+CD4+ (T4 helper) cells/100 cells in Blood,LOINC,3014037,23-Feb,0.292301877
+labs,Cells.CD3,/MCL,CD3 cells [#/volume] in Blood,LOINC,3011412,22-Apr,0.292301877
+labs,Blasts/100 leukocytes,%,Blasts/100 leukocytes in Blood,LOINC,3025159,26446-5,0.292301877
+labs,Cells.CD3+CD4+,/MCL,CD3+CD4+ (T4 helper) cells [#/volume] in Blood,LOINC,3028167,24467-3,0.292301877
+labs,Cells.CD3/100 cells,%,CD3 cells/100 cells in Blood,LOINC,3022533,8124-0,0.292301877
+labs,Albumin,%,Albumin [Mass/volume] in Urine by Electrophoresis,LOINC,3008512,Jul-42,0.292301877
+labs,Cells.CD3+CD8+/100 cells,%,CD3+CD8+ (T8 suppressor) cells/100 cells in Blood,LOINC,3007449,01-Aug,0.292301877
+labs,Alpha 1 globulin/Protein.total,%,Alpha 1 globulin/Protein.total in Urine by Electrophoresis,LOINC,3026665,13990-7,0.292301877
+labs,Sjogrens syndrome-A extractable nuclear Ab,UNITS,Sjogrens syndrome-A extractable nuclear Ab [Presence] in Serum by Immunoassay,LOINC,3019633,Feb-51,0.292301877
+labs,Lymphocytes/100 leukocytes,%,Lymphocytes/100 leukocytes in Blood,LOINC,3002030,26478-8,0.292301877
+labs,Histoplasma capsulatum Ag,ng/mL,Histoplasma capsulatum Ag [Units/volume] in Urine by Immunoassay,LOINC,3017325,13971-7,0.284742346
+labs,Histoplasma capsulatum Ag,Unknown,Histoplasma capsulatum Ag [Presence] in Urine by Immunoassay,LOINC,3047267,44524-7,0.284742346
+labs,Microarray platform,Unknown,Microarray platform [Identifier] Narrative,LOINC,40765116,62375-1,0.284742346
+labs,Blasts,THOUS/MCL,Blasts [#/volume] in Blood by Manual count,LOINC,3015280,708-8,0.284742346
+labs,Immunoglobulin light chains.lambda.free,mg/L,Lambda light chains.free [Mass/volume] in Serum or Plasma,LOINC,3047169,33944-0,0.282222502
+labs,Immunoglobulin light chains.kappa.free/Immunoglobulin light chains.lambda.free,Unknown,Kappa light chains.free/Lambda light chains.free [Mass Ratio] in Serum,LOINC,3053209,48378-4,0.282222502
+labs,Immunoglobulin light chains.kappa.free,mg/L,Kappa light chains.free [Mass/volume] in Serum,LOINC,3034860,36916-5,0.282222502
+labs,Sjogrens syndrome-B extractable nuclear Ab,UNITS,Sjogrens syndrome-B extractable nuclear Ab [Presence] in Serum by Immunoassay,LOINC,3005307,Aug-53,0.279702658
+labs,Mycobacterium tuberculosis stimulated gamma interferon release by CD4+ and CD8+ T-cells^^corrected for background,IU/mL,Mycobacterium tuberculosis stimulated gamma interferon release by CD4+ and CD8+ T-cells [Units/volume] corrected for background in Blood,LOINC,36305335,88517-8,0.277182815
+labs,HIV 1 RNA,COPIES/ML,HIV 1 RNA [#/volume] (viral load) in Serum or Plasma by NAA with probe detection,LOINC,3010747,20447-9,0.277182815
+labs,Mycobacterium tuberculosis stimulated gamma interferon,Unknown,Mycobacterium tuberculosis stimulated gamma interferon [Interpretation] in Blood Qualitative,LOINC,42869528,71773-6,0.277182815
+labs,Clotting time^after addition of heparinase,SEC,Clot initiation [Time] in Blood by Thromboelastography --after addition of heparinase,LOINC,40769416,66756-8,0.277182815
+labs,Helicobacter pylori Ag,Unknown,Helicobacter pylori Ag [Presence] in Stool by Immunoassay,LOINC,3016100,17780-8,0.277182815
+labs,HIV 1 RNA,LOG10,HIV 1 RNA [Log #/volume] (viral load) in Serum or Plasma by NAA with probe detection,LOINC,3026532,29541-0,0.277182815
+labs,Maximum clot firmness^after addition of heparinase,mm,Maximum clot firmness [Length] in Blood by Thromboelastography --after addition of heparinase,LOINC,40769415,66755-0,0.277182815
+labs,Gamma interferon background,IU/mL,Gamma interferon background [Units/volume] in Blood by Immunoassay,LOINC,42869531,71776-9,0.277182815
+labs,Clot formation^after addition of heparinase,SEC,Clot formation [Time] in Blood by Thromboelastography --after addition of heparinase,LOINC,40769413,66753-5,0.277182815
+labs,Clot angle^after addition of heparinase,Degree,Clot angle in Blood by Thromboelastography --after addition of heparinase,LOINC,40769410,66750-1,0.277182815
+labs,Alpha 1 antitrypsin,mg/dL,Alpha 1 antitrypsin [Mass/volume] in Serum or Plasma,LOINC,3026285,1825-9,0.274662971
+labs,Prostate specific Ag,NG/ML,Prostate specific Ag [Mass/volume] in Serum or Plasma,LOINC,3013603,Jan-57,0.272143127
+labs,Valproate,MCG/ML,Valproate [Mass/volume] in Serum or Plasma,LOINC,3016201,May-86,0.269623283
+labs,Cholesterol,mg/dL,Cholesterol [Mass/volume] in Body fluid,LOINC,3015232,12183-0,0.264583596
+labs,Coagulation factor VIII activity actual/Normal,%,Coagulation factor VIII activity actual/normal in Platelet poor plasma by Coagulation assay,LOINC,3019250,09-Apr,0.264583596
+labs,IgG subclass 4,mg/L,IgG subclass 4 [Mass/volume] in Serum,LOINC,3024980,May-69,0.257024065
+labs,Karyotype,Unknown,Karyotype [Identifier] in Tissue from Fetus Nominal,LOINC,3048597,48819-7,0.257024065
+labs,Eosinophils/100 leukocytes,%,Eosinophils/100 leukocytes in Cerebral spinal fluid,LOINC,3022640,26451-5,0.254504221
+labs,Triiodothyronine.free,pg/mL,Triiodothyronine (T3) Free [Mass/volume] in Serum or Plasma,LOINC,3026925,3051-0,0.251984377
+labs,Other cells/100 leukocytes,%,Other cells/100 leukocytes in Blood by Manual count,LOINC,3041543,51586-6,0.241905002
+labs,Blood group antibody screen,Unknown,Blood group antibody screen [Presence] in Serum or Plasma by Elution,LOINC,3014715,897-9,0.241905002
+labs,Other cells,THOUS/MCL,Other cells [#/volume] in Blood by Manual count,LOINC,3041806,51585-8,0.239385158
+labs,Reagin Ab,Unknown,Reagin Ab [Presence] in Cerebral spinal fluid by VDRL,LOINC,3002446,Feb-90,0.239385158
+labs,Smooth muscle Ab,TITER,Smooth muscle Ab [Titer] in Serum by Immunofluorescence,LOINC,3033682,Jul-58,0.239385158
+labs,C peptide,NG/ML,C peptide [Mass/volume] in Serum or Plasma,LOINC,3010084,Sep-86,0.231825627
+labs,Immunologist review,Unknown,Immunologist review of results,LOINC,40771569,69048-7,0.229305783
+labs,Phenytoin,mcg/mL,Phenytoin [Mass/volume] in Serum or Plasma,LOINC,3022616,May-68,0.226785939
+labs,Crystals,Unknown,Crystals [Presence] in Synovial fluid by Light microscopy,LOINC,3050238,38458-6,0.226785939
+labs,levETIRAcetam,MCG/ML,levETIRAcetam [Mass/volume] in Serum or Plasma,LOINC,3020666,30471-7,0.221746252
+labs,Protein C actual/Normal,%,Protein C actual/normal in Platelet poor plasma by Chromogenic method,LOINC,3037384,27818-4,0.219226408
+labs,Urate crystals,/HPF,Urate crystals [#/area] in Urine by Computer assisted method,LOINC,3041126,53311-7,0.216706564
+labs,Maximum lysis.intrinsic coagulation system activated,%,Maximum lysis.intrinsic coagulation system activated [Length fraction] in Blood by Rotational TEG,LOINC,3041664,52787-9,0.209147033
+labs,Appearance^post transfusion reaction,Unknown,Appearance of Serum--after transfusion reaction,LOINC,3050647,46273-9,0.209147033
+labs,Maximum clot firmness.intrinsic coagulation system activated,mm,Maximum clot firmness.intrinsic coagulation system activated [Length] in Blood by Rotational TEG,LOINC,3039870,52781-2,0.209147033
+labs,Urea,G/TOT VOL,Urea [Mass/time] in 24 hour Urine,LOINC,3050448,48999-7,0.206627189
+labs,Transfusion reaction,Unknown,Transfusion reaction [Interpretation] in Plasma or RBC Narrative,LOINC,3007714,14924-5,0.204107345
+labs,Smith extractable nuclear Ab+Ribonucleoprotein extractable nuclear Ab,Units,Smith extractable nuclear Ab+Ribonucleoprotein extractable nuclear Ab [Units/volume] in Serum by Immunoassay,LOINC,3027113,14030-1,0.204107345
+labs,Protein,MG/DAY,Protein [Mass/time] in 24 hour Urine,LOINC,3020876,Apr-89,0.201587502
+labs,Thyroperoxidase Ab,IU/ML,Thyroperoxidase Ab [Units/volume] in Serum or Plasma,LOINC,3027238,Apr-99,0.199067658
+labs,Cyclic citrullinated peptide Ab,CU,Cyclic citrullinated peptide Ab [Units/volume] in Serum by Immunoassay,LOINC,3034717,32218-0,0.199067658
+labs,Angiotensin converting enzyme,U/L,Angiotensin converting enzyme [Enzymatic activity/volume] in Serum or Plasma,LOINC,3034780,May-42,0.199067658
+labs,Clot formation.intrinsic coagulation system activated,SEC,Clot formation.intrinsic coagulation system activated [Time] in Blood by Rotational TEG,LOINC,3039622,52771-3,0.196547814
+labs,Smith extractable nuclear Ab,UNITS,Smith extractable nuclear Ab [Presence] in Serum by Immunoassay,LOINC,3001775,Jan-56,0.19402797
+labs,Cholesterol.in HDL,MG/DL,Cholesterol in HDL [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,3053286,49130-8,0.191508126
+labs,Cholesterol.in lipoprotein (little a),MG/DL,Cholesterol. in Lipoprotein (a) [Presence] in Serum or Plasma,LOINC,3034884,35387-0,0.191508126
+labs,Proteinase 3 Ab,AU/mL,Proteinase 3 Ab [Units/volume] in Serum,LOINC,3009445,Feb-68,0.188988283
+labs,Aldosterone,ng/dL,Aldosterone [Mass/volume] in Serum or Plasma,LOINC,3011337,1763-2,0.188988283
+labs,Myeloperoxidase Ab,AU/mL,Myeloperoxidase Ab [Units/volume] in Serum,LOINC,3023150,6969-0,0.188988283
+labs,Path report.comments,Unknown,Pathology report comments [Interpretation] Narrative,LOINC,3027275,22638-1,0.188988283
+labs,Epstein Barr virus DNA,Unknown,Epstein Barr virus DNA [Presence] in Specimen by NAA with probe detection,LOINC,3014258,05-Apr,0.186468439
+labs,Interleukin 6,pg/mL,Interleukin 6 [Mass/volume] in Serum or Plasma,LOINC,3023091,26881-3,0.183948595
+labs,Gentamicin^peak,mcg/mL,Gentamicin [Mass/volume] in Serum or Plasma --peak,LOINC,3009917,Feb-63,0.183948595
+labs,Calprotectin,ug/g,Calprotectin [Mass/mass] in Stool,LOINC,3048689,38445-3,0.183948595
+labs,Pyruvate,umol/L,Pyruvate [Moles/volume] in Cerebral spinal fluid,LOINC,3014971,14122-6,0.181428751
+labs,Glucose CSF/Glucose plas,mg/dL,Glucose in CSF/Glucose plas,LOINC,3004378,Mar-52,0.181428751
+labs,Cryptococcus sp Ag,Unknown,Cryptococcus sp Ag [Presence] in Cerebral spinal fluid,LOINC,3001363,31788-3,0.181428751
+labs,West Nile virus Ab.IgM,IV,West Nile virus IgM Ab [Units/volume] in Cerebral spinal fluid,LOINC,3012656,29538-6,0.181428751
+labs,West Nile virus Ab.IgG,IV,West Nile virus IgG Ab [Units/volume] in Cerebral spinal fluid,LOINC,3026752,29537-8,0.181428751
+labs,Renin,ng/mL/hr,Renin [Enzymatic activity/volume] in Plasma,LOINC,3007808,15-Jul,0.178908908
+labs,Leukocytes other/100 leukocytes,%,Leukocytes other/100 leukocytes in Cerebral spinal fluid,LOINC,3022840,26472-1,0.178908908
+labs,Protein S.free Ag actual/Normal,%,Protein S Free Ag actual/normal in Platelet poor plasma by Immunoassay,LOINC,3020629,27821-8,0.176389064
+labs,Testosterone,ng/dl,Testosterone [Mass/volume] in Serum or Plasma,LOINC,3008893,Aug-86,0.17386922
+labs,Mycoplasma pneumoniae Ab.IgM,Unknown,Mycoplasma pneumoniae IgM Ab [Presence] in Serum by Immunoassay,LOINC,3010521,Jan-57,0.17386922
+labs,Amphetamine,Unknown,Amphetamine [Presence] in Urine by Confirmatory method,LOINC,3003017,19344-1,0.17386922
+labs,Methylmalonate,umol/L,Methylmalonate [Moles/volume] in Serum or Plasma,LOINC,3016426,13964-2,0.17386922
+labs,Gentamicin^trough,mcg/mL,Gentamicin [Mass/volume] in Serum or Plasma --trough,LOINC,3016254,Jul-65,0.171349376
+labs,Microorganism or agent identified,Unknown,Microorganism or agent identified in Specimen,LOINC,3033740,41852-5,0.171349376
+labs,Varicella zoster virus DNA,Unknown,Varicella zoster virus DNA [Presence] in Specimen by NAA with probe detection,LOINC,3012202,11483-5,0.171349376
+labs,Troponin T.cardiac,ng/mL,Troponin T.cardiac [Mass/volume] in Serum or Plasma,LOINC,3019800,Jul-98,0.171349376
+labs,Ethanol,Unknown,Ethanol [Presence] in Urine by Screen method,LOINC,3037638,42242-8,0.168829533
+labs,pH^^adjusted to patient's actual temperature,Unknown,pH of Venous blood adjusted to patient's actual temperature,LOINC,3038999,39486-6,0.166309689
+labs,Oxygen^^adjusted to patient's actual temperature,MMHG,Oxygen [Partial pressure] adjusted to patient's actual temperature in Venous blood,LOINC,3004529,19258-3,0.166309689
+labs,Carbon dioxide^^adjusted to patient's actual temperature,MMHG,Carbon dioxide [Partial pressure] adjusted to patient's actual temperature in Venous blood,LOINC,3041290,40619-9,0.166309689
+labs,Reducing substances,Unknown,Reducing substances [Presence] in Urine,LOINC,3020029,09-Sep,0.163789845
+labs,Bartonella henselae Ab.IgM,Unknown,Bartonella henselae IgM Ab [Titer] in Serum by Immunofluorescence,LOINC,3026468,Sep-55,0.163789845
+labs,Bartonella henselae Ab.IgG,Unknown,Bartonella henselae IgG Ab [Titer] in Serum by Immunofluorescence,LOINC,3006070,Feb-54,0.163789845
+labs,Brucella sp Ab,not reported,Brucella sp Ab [Titer] in Serum by Agglutination,LOINC,3035128,19053-8,0.163789845
+labs,Mycoplasma pneumoniae Ab.IgG,Unknown,Mycoplasma pneumoniae IgG Ab [Presence] in Serum by Immunoassay,LOINC,3045068,45224-3,0.161270001
+labs,Thyroxine,ug/dL,Thyroxine (T4) [Mass/volume] in Serum or Plasma,LOINC,3016991,26-Feb,0.158750157
+labs,Karyotype,Unknown,Karyotype [Identifier] in Bone marrow Nominal,LOINC,3043425,33893-9,0.156230314
+labs,Coagulation surface induced circulating inhibitor,Unknown,PTT circulating inhibitor [Presence] in Platelet poor plasma,LOINC,3032159,50391-2,0.151190626
+labs,Yeast.hyphae,/HPF,Yeast.hyphae [#/area] in Urine by Computer assisted method,LOINC,3041076,53268-9,0.148670782
+labs,Coxiella burnetii phase 1 Ab.IgG,Unknown,Coxiella burnetii phase 1 IgG Ab [Presence] in Serum by Immunofluorescence,LOINC,3050446,48720-7,0.148670782
+labs,Lipoprotein (little a),MG/DL,Lipoprotein a [Mass/volume] in Serum or Plasma,LOINC,3013861,10835-7,0.148670782
+labs,Coxiella burnetii phase 2 Ab.IgG,Unknown,Coxiella burnetii phase 2 IgG Ab [Presence] in Serum by Immunofluorescence,LOINC,3049863,48719-9,0.148670782
+labs,Cytomegalovirus DNA,Unknown,Cytomegalovirus DNA [Presence] in Specimen by NAA with probe detection,LOINC,3020229,May-00,0.148670782
+labs,Voltage-gated calcium channel PQ type binding Ab,nmol/L,Voltage-gated calcium channel P/Q type binding Ab [Moles/volume] in Serum,LOINC,3043147,33980-4,0.143631095
+labs,Pappenheimer bodies,Unknown,Pappenheimer bodies [Presence] in Blood by Light microscopy,LOINC,3019761,Aug-95,0.143631095
+labs,Reviewer initials,Unknown,Reviewer initials,LOINC,40768336,65645-4,0.138591407
+labs,pH^^adjusted to patient's actual temperature,Unknown,pH of Blood adjusted to patient's actual temperature,LOINC,3030091,49701-6,0.138591407
+labs,Oxygen inhaled,Unknown,Inhaled oxygen concentration,LOINC,3020716,3150-0,0.138591407
+labs,Base excess,MEQ/L,Base excess in Blood by calculation,LOINC,3012501,11555-0,0.138591407
+labs,Blood product source,Unknown,Blood product source [Type],LOINC,3025721,931-6,0.138591407
+labs,F2 gene.c.20210G>A,Unknown,F2 gene c.20210G>A [Genotype] in Blood or Tissue by Molecular genetics method Nominal,LOINC,3025008,24475-6,0.136071564
+labs,F5 gene targeted mutation analysis,Unknown,F5 gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal,LOINC,3009055,21667-1,0.136071564
+labs,Service comment,Unknown,Service comment,LOINC,3004691,Jan-51,0.13355172
+labs,Thyrotropin,uIU/mL,Thyrotropin [Units/volume] in Serum or Plasma,LOINC,3009201,16-Mar,0.13355172
+labs,CV2 Ab.IgG,titer,CV2 IgG Ab [Titer] in Serum,LOINC,3034901,35386-2,0.131031876
+labs,Complement total hemolytic CH50,CAE Units,Complement total hemolytic CH50 [Units/volume] in Serum or Plasma,LOINC,3028461,Aug-32,0.131031876
+labs,Purkinje cell cytoplasmic type Tr Ab,titer,PCA-Tr Ab [Titer] in Serum,LOINC,3030053,33926-7,0.131031876
+labs,Purkinje cell cytoplasmic type 2 Ab,titer,PCA-2 Ab [Titer] in Serum,LOINC,3030026,33925-9,0.131031876
+labs,Voltage-gated potassium channel Ab,nmol/L,Voltage-gated potassium channel Ab [Moles/volume] in Serum,LOINC,3031103,41871-5,0.131031876
+labs,Glial nuclear type 1 Ab,titer,Glial nuclear type 1 Ab [Titer] in Cerebral spinal fluid,LOINC,3038879,53714-2,0.131031876
+labs,Neuronal nuclear type 3 Ab,titer,Neuronal nuclear type 3 Ab [Titer] in Serum,LOINC,3029774,33924-2,0.131031876
+labs,Amphiphysin Ab,titer,Amphiphysin Ab [Titer] in Cerebral spinal fluid by Immunofluorescence,LOINC,40759651,56531-7,0.131031876
+labs,Neuronal nuclear type 2 Ab,titer,Neuronal nuclear type 2 Ab [Titer] in Serum by Immunofluorescence,LOINC,3047082,43188-2,0.131031876
+labs,Glial nuclear type 1 Ab,titer,Glial nuclear type 1 Ab [Titer] in Serum,LOINC,3040039,53709-2,0.131031876
+labs,Purkinje cell cytoplasmic type 1 Ab,titer,PCA-1 Ab [Titer] in Serum,LOINC,3038593,53717-5,0.131031876
+labs,Neuronal nuclear type 2 Ab,titer,Neuronal nuclear type 2 Ab [Titer] in Cerebral spinal fluid by Immunofluorescence,LOINC,3026976,24401-2,0.131031876
+labs,Purkinje cells Ab,titer,Purkinje cells Ab [Titer] in Cerebral spinal fluid by Immunofluorescence,LOINC,3026369,14248-9,0.131031876
+labs,Amphiphysin Ab,titer,Amphiphysin Ab [Titer] in Serum,LOINC,3030080,33927-5,0.131031876
+labs,Jo-1 extractable nuclear Ab,Units,Jo-1 extractable nuclear Ab [Units/volume] in Serum by Immunoassay,LOINC,3036086,35333-4,0.131031876
+labs,CV2 Ab.IgG,titer,CV2 IgG Ab [Titer] in Cerebral spinal fluid,LOINC,3037012,35385-4,0.131031876
+labs,Neuronal nuclear type 3 Ab,titer,Neuronal nuclear type 3 Ab [Titer] in Cerebral spinal fluid,LOINC,3030865,35144-5,0.131031876
+labs,Purkinje cell cytoplasmic type 2 Ab,titer,PCA-2 Ab [Titer] in Cerebral spinal fluid,LOINC,3030544,35143-7,0.131031876
+labs,Purkinje cell cytoplasmic type Tr Ab,titer,PCA-Tr Ab [Titer] in Cerebral spinal fluid,LOINC,3040228,51748-2,0.131031876
+labs,Neuronal nuclear type 1 Ab,titer,Neuronal nuclear type 1 Ab [Titer] in Cerebral spinal fluid by Immunofluorescence,LOINC,3025588,24400-4,0.131031876
+labs,Neuronal nuclear type 1 Ab,titer,Neuronal nuclear type 1 Ab [Titer] in Serum,LOINC,3019041,13997-2,0.131031876
+labs,Triacylglycerol lipase,U/L,Lipase [Enzymatic activity/volume] in Body fluid,LOINC,3026286,15212-4,0.128512032
+labs,Testosterone.free,pg/ml,Testosterone Free [Mass/volume] in Serum or Plasma,LOINC,3016049,Aug-91,0.128512032
+labs,Glutamate decarboxylase 65 Ab,nmol/L,Glutamate decarboxylase 65 Ab [Moles/volume] in Serum,LOINC,3026156,30347-9,0.128512032
+labs,Oxygen^^adjusted to patient's actual temperature,MMHG,Oxygen [Partial pressure] adjusted to patient's actual temperature in Mixed venous blood,LOINC,3019464,19257-5,0.128512032
+labs,Carbon dioxide^^adjusted to patient's actual temperature,MMHG,Carbon dioxide [Partial pressure] adjusted to patient's actual temperature in Mixed venous blood,LOINC,3029306,50981-0,0.128512032
+labs,pH^^adjusted to patient's actual temperature,Unknown,pH of Mixed venous blood adjusted to patient's actual temperature,LOINC,3030238,50980-2,0.128512032
+labs,Neutrophil cytoplasmic Ab.classic,Unknown,Neutrophil cytoplasmic Ab.classic [Titer] in Serum by Immunofluorescence,LOINC,3004383,14277-8,0.125992188
+labs,Blastomyces dermatitidis Ab,IV,Blastomyces dermatitidis Ab [Units/volume] in Serum,LOINC,3012209,16471-5,0.123472345
+labs,Acetylcholine receptor ganglionic neuronal Ab,nmol/L,Acetylcholine receptor ganglionic neuronal Ab [Moles/volume] in Serum,LOINC,3035283,42233-7,0.123472345
+labs,Neutrophils.hypersegmented,Unknown,Neutrophils.hypersegmented [Presence] in Blood by Light microscopy,LOINC,3007030,765-8,0.120952501
+labs,Aldolase,U/L,Aldolase [Enzymatic activity/volume] in Serum or Plasma,LOINC,3027953,1761-6,0.120952501
+labs,Thyroid stimulating immunoglobulins,TSI index,Thyroid stimulating immunoglobulins [Units/volume] in Serum,LOINC,3007498,30567-2,0.118432657
+labs,BK virus DNA,LOG COPIES/ML,BK virus DNA [#/volume] (viral load) in Specimen by NAA with probe detection,LOINC,3050099,48309-9,0.118432657
+labs,Mycobacterium tuberculosis tuberculin stimulated gamma interferon/Mitogen stimulated gamma interferon,IU/mL,Mycobacterium tuberculosis tuberculin stimulated gamma interferon/Mitogen stimulated gamma interferon in Blood,LOINC,3040373,39017-9,0.118432657
+labs,Cannabinoids,Unknown,Cannabinoids [Presence] in Urine by Confirmatory method,LOINC,3014310,19289-8,0.115912813
+labs,IgG subclass 2,mg/L,IgG subclass 2 [Mass/volume] in Serum,LOINC,3028192,Sep-67,0.115912813
+labs,IgG subclass 1,mg/L,IgG subclass 1 [Mass/volume] in Serum,LOINC,3027135,Jan-66,0.115912813
+labs,Adenosine deaminase,U/L,Adenosine deaminase [Enzymatic activity/volume] in Pleural fluid,LOINC,3036428,35704-6,0.115912813
+labs,Parathyrin related protein,pmol/L,Parathyrin related protein [Moles/volume] in Serum or Plasma,LOINC,3033670,15087-0,0.115912813
+labs,IgG subclass 3,mg/L,IgG subclass 3 [Mass/volume] in Serum,LOINC,3024139,Jul-68,0.115912813
+labs,Protein fractions.oligoclonal bands,Bands,Oligoclonal bands [#] in Cerebral spinal fluid by Isoelectric focusing,LOINC,3030396,49852-7,0.115912813
+labs,Coagulation factor II circulating inhibitor,Unknown,Coagulation factor II circulating inhibitor [Presence] in Platelet poor plasma,LOINC,3030094,50390-4,0.115912813
+labs,Triple phosphate crystals,/HPF,Triple phosphate crystals [#/area] in Urine by Computer assisted method,LOINC,3039648,53308-3,0.115912813
+labs,Cells counted.total,Unknown,Cells Counted Total [#] in Blood,LOINC,3002317,11282-1,0.115912813
+labs,Protein fractions.oligoclonal bands,Unknown,Oligoclonal bands [Interpretation] in Cerebral spinal fluid by Electrophoresis Narrative,LOINC,3049519,49293-4,0.115912813
+labs,Albumin,mg/dL,Albumin [Mass/volume] in Cerebral spinal fluid by Electrophoresis,LOINC,3010279,Mar-61,0.11339297
+labs,Alpha 2 globulin,mg/dL,Alpha 2 globulin [Mass/volume] in Cerebral spinal fluid by Electrophoresis,LOINC,3022267,2867-0,0.11339297
+labs,Beta globulin,mg/dL,Beta globulin [Mass/volume] in Cerebral spinal fluid by Electrophoresis,LOINC,3010793,Apr-70,0.11339297
+labs,Alpha 1 globulin,mg/dL,Alpha 1 globulin [Mass/volume] in Cerebral spinal fluid by Electrophoresis,LOINC,3009806,Jul-64,0.11339297
+labs,Prealbumin,mg/dL,Prealbumin [Mass/volume] in Cerebral spinal fluid by Electrophoresis,LOINC,3003772,Jan-76,0.11339297
+labs,Reagin Ab,Unknown,Reagin Ab [Presence] in Serum by RPR,LOINC,3021461,20507-0,0.11339297
+labs,Gamma globulin,mg/dL,Gamma globulin [Mass/volume] in Cerebral spinal fluid by Electrophoresis,LOINC,3022932,Aug-73,0.11339297
+labs,Homocysteine,mcmol/L,Homocysteine [Moles/volume] in Serum or Plasma,LOINC,3016724,13965-9,0.11339297
+labs,Inhibin A,pg/mL,Inhibin A [Mass/volume] in Serum or Plasma,LOINC,3018595,23883-2,0.110873126
+labs,Enolase.neuron specific,ug/L,Enolase.neuron specific [Mass/volume] in Serum or Plasma,LOINC,3028531,15060-7,0.110873126
+labs,Cryofibrinogen,Unknown,Cryofibrinogen [Presence] in Plasma,LOINC,3023504,11043-7,0.110873126
+labs,CYP2C19 gene allele,Unknown,CYP2C19 gene allele [Genotype] in Blood or Tissue by Molecular genetics method Nominal,LOINC,40760251,57132-3,0.110873126
+labs,von Willebrand factor Ag actual/Normal,%,von Willebrand factor (vWf) Ag actual/normal in Platelet poor plasma by Immunoassay,LOINC,3036035,27816-8,0.110873126
+labs,Helicobacter pylori Ab.IgG,ISR,Helicobacter pylori IgG Ab [Presence] in Serum,LOINC,3013058,16126-5,0.110873126
+labs,Angiotensin converting enzyme,U/L,Angiotensin converting enzyme [Enzymatic activity/volume] in Cerebral spinal fluid,LOINC,3009991,12480-0,0.110873126
+labs,Liver kidney microsomal Ab,Unknown,Liver kidney microsomal Ab [Titer] in Serum by Immunofluorescence,LOINC,3003265,Apr-38,0.110873126
+labs,Fibrin D-dimer,MCG/ML FEU,Fibrin D-dimer [Presence] in Platelet poor plasma by Latex agglutination,LOINC,3033464,29280-5,0.108353282
+labs,Cryoglobulin/Serum.total,%ppt,Cryocrit of Serum by Spun Westergren,LOINC,3037070,15174-6,0.108353282
+labs,Inhibin B,pg/mL,Inhibin B [Mass/volume] in Serum or Plasma,LOINC,3045781,34319-4,0.108353282
+labs,XXX microorganism Ag,Unknown,XXX microorganism Ag [Identifier] in Specimen by Immunofluorescence,LOINC,3046774,45042-9,0.108353282
+labs,Gentamicin,mcg/mL,Gentamicin [Mass/volume] in Serum or Plasma,LOINC,3035510,35668-3,0.108353282
+labs,Metanephrine.free,nmol/L,Metanephrine Free [Moles/volume] in Serum or Plasma,LOINC,3032155,49700-8,0.105833438
+labs,Thiamine,nmol/L,Thiamine [Mass/volume] in Serum or Plasma,LOINC,3024120,Jan-99,0.105833438
+labs,Immunoglobulin light chains.lambda,mg/dL,Lambda light chains [Mass/volume] in Urine,LOINC,3006969,27394-6,0.105833438
+labs,Hepatitis B virus surface Ag,Unknown,Hepatitis B virus surface Ag [Presence] in Serum or Plasma by Neutralization test,LOINC,3025267,05-Mar,0.105833438
+labs,Magnesium,MG/24 HRS,Magnesium [Mass/volume] in 24 hour Urine,LOINC,3006828,32024-2,0.105833438
+labs,Normetanephrine.free,nmol/L,Normetanephrine Free [Moles/volume] in Serum or Plasma,LOINC,3042027,40851-8,0.105833438
+labs,Immunoglobulin light chains.kappa,mg/dL,Kappa light chains [Mass/volume] in Urine,LOINC,3035082,27365-6,0.105833438
+labs,Striated muscle Ab,titer,Striated muscle Ab [Titer] in Serum,LOINC,3023296,Aug-97,0.103313595
+labs,Sex hormone binding globulin,nmol/L,Sex hormone binding globulin [Moles/volume] in Serum or Plasma,LOINC,3004248,13967-5,0.103313595
+labs,Creatinine renal clearance,ML/MIN,Creatinine renal clearance in 24 hour Urine and Serum or Plasma,LOINC,3005770,Feb-64,0.103313595
+labs,von Willebrand factor.ristocetin cofactor activity actual/Normal,%,von Willebrand factor (vWf) ristocetin cofactor actual/normal in Platelet poor plasma by Platelet aggregation,LOINC,3037533,14-May,0.103313595
+labs,Voltage-gated calcium channel N type binding Ab,nmol/L,Voltage-gated calcium channel N type binding Ab [Moles/volume] in Serum,LOINC,3029197,33979-6,0.103313595
+labs,Pyridoxine,nmol/L,Pyridoxine [Mass/volume] in Serum or Plasma,LOINC,3037701,Sep-00,0.100793751
+labs,Buprenorphine,Unknown,Buprenorphine [Presence] in Urine,LOINC,3007463,3414-0,0.100793751
+labs,Cardiolipin Ab.IgA,APL,Cardiolipin IgA Ab [Units/volume] in Serum by Immunoassay,LOINC,3009118,May-76,0.100793751
+labs,IgG,mg/dL,IgG [Mass/volume] in Cerebral spinal fluid,LOINC,3007368,Jun-64,0.100793751
+labs,Hepatitis B virus little e Ab,Unknown,Hepatitis B virus e Ab [Presence] in Serum or Plasma by Immunoassay,LOINC,3036806,13953-5,0.100793751
+labs,Meperidine,Unknown,Meperidine [Presence] in Urine,LOINC,3019509,May-46,0.100793751
+labs,von Willebrand factor cleaving protease actual/normal,%,von Willebrand factor (vWf) cleaving protease actual/normal in Platelet poor plasma by Chromogenic method,LOINC,3042272,53622-7,0.098273907
+labs,Reticulocytes,%,Reticulocytes [#/volume] in Blood by Manual count,LOINC,3041154,40665-2,0.098273907
+labs,Beta 2 glycoprotein 1 Ab.IgA,SAU,Beta 2 glycoprotein 1 IgA Ab [Units/volume] in Serum,LOINC,3000194,21108-6,0.095754063
+labs,SCL-70 extractable nuclear Ab,UNITS,SCL-70 extractable nuclear Ab [Units/volume] in Serum by Immunoassay,LOINC,3025245,26975-3,0.095754063
+labs,Calcium,MG/DL,Calcium [Mass/volume] in Urine,LOINC,3006661,17862-4,0.095754063
+labs,Beta-2-Microglobulin,MG/L,Beta-2-Microglobulin [Mass/volume] in Serum or Plasma,LOINC,3013201,Jan-52,0.093234219
+labs,Parainfluenza virus Ag,Unknown,Parainfluenza virus Ag [Presence] in Specimen by Immunofluorescence,LOINC,3002962,13327-2,0.093234219
+labs,Natriuretic peptide.B prohormone N-Terminal,pg/mL,Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma,LOINC,3029187,33762-6,0.090714376
+labs,Howell-Jolly bodies,Unknown,Howell-Jolly bodies [Presence] in Blood by Light microscopy,LOINC,3002620,Mar-93,0.090714376
+labs,Influenza virus A+B Ag,Unknown,Influenza virus A+B Ag [Presence] in Specimen by Immunofluorescence,LOINC,3010064,Jun-38,0.090714376
+labs,Platelet aggregation.adenosine diphosphate induced,PRU,Platelet aggregation ADP induced [Units/volume] in Platelet rich plasma,LOINC,3048603,49010-2,0.088194532
+labs,Sodium,MMOL/TOT VOL,Sodium [Moles/time] in 24 hour Urine,LOINC,3002079,Jan-56,0.088194532
+labs,Sodium,mmol/L,Sodium [Moles/volume] in 24 hour Urine,LOINC,3014485,21525-1,0.088194532
+labs,HIV 1 RNA,Unknown,HIV 1 RNA [Presence] in Serum or Plasma by NAA with probe detection,LOINC,3000685,25835-0,0.085674688
+labs,Thyroxine free index,ng/dL,Thyroxine (T4) free index in Serum or Plasma by calculation,LOINC,3000551,32215-6,0.085674688
+labs,von Willebrand factor multimers,Unknown,von Willebrand factor (vWf) multimers [Presence] in Platelet poor plasma,LOINC,3034186,32217-2,0.085674688
+labs,Macrocytes.oval,Unknown,Oval macrocytes [Presence] in Blood by Light microscopy,LOINC,3010950,10376-2,0.085674688
+labs,Thyroglobulin Ab,IU/ML,Thyroglobulin Ab [Units/volume] in Serum or Plasma,LOINC,3025547,Jun-98,0.083154844
+labs,Acetylcholine receptor binding Ab,nmol/L,Acetylcholine receptor binding Ab [Moles/volume] in Serum,LOINC,3010454,11034-6,0.083154844
+labs,HTLV I+II Ab band pattern,Unknown,HTLV I+II Ab band pattern [Interpretation] in Serum by Immunoblot,LOINC,3033654,21347-0,0.080635001
+labs,cycloSPORINE,NG/ML,cycloSPORINE [Mass/volume] in Blood,LOINC,3010375,20-Apr,0.080635001
+labs,Enterovirus RNA,Unknown,Enterovirus RNA [Presence] in Specimen by NAA with probe detection,LOINC,3016881,29591-5,0.080635001
+labs,Borrelia burgdorferi Ab,LIV,Borrelia burgdorferi Ab [Units/volume] in Cerebral spinal fluid by Immunoassay,LOINC,3021526,6318-0,0.080635001
+labs,Specimen volume,Unknown,Volume in Urine collected for unspecified duration,LOINC,3004775,19153-6,0.080635001
+labs,Parvovirus B19 DNA,Unknown,Parvovirus B19 DNA [Presence] in Serum by NAA with probe detection,LOINC,3015822,Sep-72,0.078115157
+labs,Beta+gamma tocopherol,mg/L,Beta+gamma tocopherol [Mass/volume] in Serum or Plasma,LOINC,3005244,11038-7,0.078115157
+labs,Lithium,mmol/L,"Lithium, Blood [Moles/volume] in Serum or Plasma",LOINC,3024666,14334-7,0.078115157
+labs,Glucose-6-Phosphate dehydrogenase,Unknown,Glucose-6-Phosphate dehydrogenase [Presence] in DBS,LOINC,3045989,33287-4,0.078115157
+labs,Alpha tocopherol,mg/L,Alpha tocopherol [Mass/volume] in Serum or Plasma,LOINC,3024865,1823-4,0.078115157
+labs,Cobalamins.unsaturated binding capacity,pg/mL,Cobalamin (Vitamin B12).unsaturated Binding Capacity [Mass/volume] in Serum or Plasma,LOINC,3025222,Jul-71,0.078115157
+labs,Adenovirus Ag,Unknown,Adenovirus Ag [Presence] in Specimen by Immunofluorescence,LOINC,3016845,Jul-34,0.075595313
+labs,IgG clearance/Albumin clearance,ratio,IgG clearance/Albumin clearance [Ratio] in Serum and CSF,LOINC,3020222,14117-6,0.075595313
+labs,Collection duration,Unknown,Collection duration of Specimen,LOINC,3026893,30211-7,0.075595313
+labs,Bilirubin,mg/dL,Bilirubin.total [Mass/volume] in Body fluid,LOINC,3028193,May-74,0.075595313
+labs,Protein fractions.oligoclonal bands,Unknown,Oligoclonal bands [Interpretation] in Cerebral spinal fluid by Electrophoresis,LOINC,3012901,12782-9,0.075595313
+labs,Rheumatoid factor,IU/ML,Rheumatoid factor [Titer] in Serum by Latex agglutination,LOINC,3008038,Mar-99,0.075595313
+labs,Albumin,mg/dL,Albumin [Mass/volume] in Cerebral spinal fluid,LOINC,3024474,1746-7,0.075595313
+labs,IgG synthesis rate,mg/d,IgG synthesis rate [Mass/time] in Serum and CSF by calculation,LOINC,3014078,14116-8,0.075595313
+labs,Hepatitis B virus surface Ag,IU/mL,Hepatitis B virus surface Ag [Units/volume] in Serum or Plasma by Immunoassay,LOINC,40766283,63557-3,0.073075469
+labs,Cryoglobulin,Unknown,Cryoglobulin [Presence] in Serum,LOINC,3021322,17-Jul,0.073075469
+labs,Test performance information,Unknown,Test performance information in Specimen Narrative,LOINC,40765105,62364-5,0.073075469
+labs,Prostate specific Ag.free/Prostate specific Ag.total,%,Prostate Specific Ag Free/Prostate specific Ag.total in Serum or Plasma,LOINC,3001784,12841-3,0.073075469
+labs,Lactoferrin,Unknown,Lactoferrin [Presence] in Stool by Immunoassay,LOINC,3039568,40703-1,0.073075469
+labs,Prostate specific Ag.free,NG/ML,Prostate Specific Ag Free [Mass/volume] in Serum or Plasma,LOINC,3005013,10886-0,0.073075469
+labs,Retinol,mg/L,Retinol [Mass/volume] in Serum or Plasma,LOINC,3022338,23-Jan,0.073075469
+labs,TPMT gene product metabolic activity interpretation,Unknown,TPMT gene product metabolic activity interpretation in Blood or Tissue Qualitative by Molecular genetics method,LOINC,21491536,79713-4,0.073075469
+labs,Human metapneumovirus Ag,Unknown,Human metapneumovirus Ag [Presence] in Specimen by Immunofluorescence,LOINC,3039848,40979-7,0.073075469
+labs,Retinyl palmitate,mg/L,Retinyl palmitate [Mass/volume] in Serum or Plasma,LOINC,3051447,38496-6,0.073075469
+labs,Influenza virus A H1 RNA,Unknown,Influenza virus A H1 RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,46236736,77026-3,0.070555626
+labs,Parainfluenza virus 2 RNA,Unknown,Parainfluenza virus 2 RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,46235764,76085-0,0.070555626
+labs,Cryptosporidium sp Ag,Unknown,Cryptosporidium sp Ag [Presence] in Stool by Immunofluorescence,LOINC,3040767,39534-3,0.070555626
+labs,Parainfluenza virus 4 RNA,Unknown,Parainfluenza virus 4 RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,46235766,76087-6,0.070555626
+labs,Parainfluenza virus 1 RNA,Unknown,Parainfluenza virus 1 RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,46235763,76084-3,0.070555626
+labs,Influenza virus A H3 RNA,Unknown,Influenza virus A H3 RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,46236737,77027-1,0.070555626
+labs,Human coronavirus 229E+HKU1+NL63+OC43 RNA,Unknown,Human coronavirus 229E+HKU1+NL63+OC43 RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,36303942,88719-0,0.070555626
+labs,Rhinovirus+enterovirus RNA,Unknown,Rhinovirus+Enterovirus RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,36304423,88721-6,0.070555626
+labs,Parainfluenza virus 3 RNA,Unknown,Parainfluenza virus 3 RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,46235765,76086-8,0.070555626
+labs,SARS coronavirus 2 N gene,Unknown,SARS-CoV-2 (COVID-19) N gene [Presence] in Nasopharynx by NAA with probe detection,LOINC,715272,94760-6,0.070555626
+labs,Influenza virus A H1 2009 pandemic RNA,Unknown,Influenza virus A H1 2009 pandemic RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,46236738,77028-9,0.070555626
+labs,Human metapneumovirus RNA,Unknown,Human metapneumovirus RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,46236734,77024-8,0.070555626
+labs,Mycoplasma pneumoniae DNA,Unknown,Mycoplasma pneumoniae DNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,36305584,88720-8,0.070555626
+labs,Chlamydophila pneumoniae DNA,Unknown,Chlamydophila pneumoniae DNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,36303621,88718-2,0.070555626
+labs,Adenovirus A+B+C+D+E+F DNA,Unknown,Adenovirus A+B+C+D+E+F DNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,36304915,88716-6,0.070555626
+labs,Respiratory syncytial virus A RNA,Unknown,Respiratory syncytial virus A RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,46234982,77022-2,0.070555626
+labs,Respiratory syncytial virus B RNA,Unknown,Respiratory syncytial virus B RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,46234983,77023-0,0.070555626
+labs,Hemoglobin A2/Hemoglobin.total,%,Hemoglobin A2/Hemoglobin.total in Blood,LOINC,3020784,Aug-51,0.070555626
+labs,Albumin.CSF/Albumin.SerPl,ratio,Albumin in CSF/Albumin in Serum or Plasma,LOINC,3013247,1756-6,0.070555626
+labs,IgG/Albumin,ratio,IgG/Albumin [Mass Ratio] in Cerebral spinal fluid,LOINC,3007798,Mar-70,0.070555626
+labs,Rouleaux,Unknown,Rouleaux [Presence] in Blood by Light microscopy,LOINC,3036273,Apr-97,0.070555626
+labs,Hemoglobin S/Hemoglobin.total,%,Hemoglobin S/Hemoglobin.total in Blood,LOINC,3005081,4625-0,0.070555626
+labs,Interleukin 2,pg/mL,Interleukin 2 [Mass/volume] in Serum or Plasma,LOINC,3045699,33939-0,0.070555626
+labs,Creatine kinase.MB/Creatine kinase.total,%,Creatine kinase.MB/Creatine kinase.total in Serum or Plasma by Electrophoresis,LOINC,3007150,12187-1,0.068035782
+labs,PHENobarbital,MCG/ML,PHENobarbital [Mass/volume] in Serum or Plasma,LOINC,3025411,Jul-48,0.068035782
+labs,Protein S actual/Normal,%,Protein S actual/normal in Platelet poor plasma by Coagulation assay,LOINC,3036669,27822-6,0.068035782
+labs,Treponema pallidum Ab,Unknown,Treponema pallidum Ab [Presence] in Serum by Agglutination,LOINC,3004786,24312-1,0.068035782
+labs,Hemoglobin C/Hemoglobin.total,%,Hemoglobin C/Hemoglobin.total in Blood,LOINC,3001258,Mar-63,0.068035782
+labs,Basement membrane Ab.IgG,AU/mL,Basement membrane IgG Ab [Units/volume] in Serum by Immunofluorescence,LOINC,3046710,44446-3,0.068035782
+labs,Beta-2 transferrin,Unknown,Beta-2 transferrin [Presence] in Body fluid,LOINC,3009388,13876-8,0.068035782
+labs,Creatine kinase.BB/Creatine kinase.total,%,Creatine kinase.BB/Creatine kinase.total in Serum or Plasma by Electrophoresis,LOINC,3027227,15048-2,0.068035782
+labs,Creatine kinase.macromolecular.type 1/Creatine kinase.total,%,Creatine Kinase.macromolecular type 1/Creatine kinase.total in Serum or Plasma,LOINC,3002751,26019-0,0.068035782
+labs,Rubella virus Ab.IgG,Index,Rubella virus IgG Ab [Presence] in Serum or Plasma by Immunoassay,LOINC,3043953,40667-8,0.068035782
+labs,Mycoplasma pneumoniae DNA,Unknown,Mycoplasma pneumoniae DNA [Presence] in Specimen by NAA with probe detection,LOINC,3002482,29257-3,0.068035782
+labs,Hemoglobin S,Unknown,Hemoglobin S [Presence] in Blood by Solubility test,LOINC,3017974,Mar-64,0.068035782
+labs,Creatine kinase.macromolecular.type 2/Creatine kinase.total,%,Creatine Kinase.macromolecular type 2/Creatine kinase.total in Serum or Plasma,LOINC,3014635,26020-8,0.068035782
+labs,Creatine kinase.MM/Creatine kinase.total,%,Creatine kinase.MM/Creatine kinase.total in Serum or Plasma by Electrophoresis,LOINC,3027833,15049-0,0.068035782
+labs,Platelets,THOUS/MCL,Platelets [#/volume] in Blood by Manual count,LOINC,3010834,778-1,0.068035782
+labs,Hemoglobin A/Hemoglobin.total,%,Hemoglobin A/Hemoglobin.total in Blood,LOINC,3020428,Aug-46,0.065515938
+labs,Hemoglobin E/Hemoglobin.total,%,Hemoglobin E/Hemoglobin.total in Blood,LOINC,3013530,Jul-75,0.065515938
+labs,Tryptase,ng/mL,Tryptase [Mass/volume] in Serum or Plasma,LOINC,3019420,21582-2,0.065515938
+labs,Hemoglobin F/Hemoglobin.total,%,Hemoglobin F/Hemoglobin.total in Blood,LOINC,3018738,May-76,0.065515938
+labs,Hemoglobin H inclusion bodies,Unknown,Hemoglobin H inclusion bodies [Presence] in Blood,LOINC,40762276,59185-9,0.065515938
+labs,Pathologist interpretation,Unknown,Pathologist interpretation of Specimen tests,LOINC,3030243,50595-8,0.065515938
+labs,Potassium,mmol/L,Potassium [Moles/volume] in 24 hour Urine,LOINC,3010796,21476-7,0.065515938
+labs,Hemoglobin D/Hemoglobin.total,%,Hemoglobin D/Hemoglobin.total in Blood,LOINC,3013179,4569-0,0.065515938
+labs,Potassium,MMOL/TOT VOL,Potassium [Moles/volume] in 12 hour Urine,LOINC,40760469,57355-0,0.065515938
+labs,Activated protein C resistance,Unknown,Activated protein C resistance [Time Ratio] in Platelet poor plasma by Coagulation assay,LOINC,3008561,13590-5,0.065515938
+labs,Streptolysin O Ab,IU/ML,Streptolysin O Ab [Units/volume] in Serum or Plasma,LOINC,3021236,Feb-70,0.062996094
+labs,Neutrophils,Unknown,Neutrophils [Presence] in Stool by Wright stain,LOINC,3048807,48050-9,0.062996094
+labs,Folate,ng/mL,Folate [Mass/volume] in Red Blood Cells,LOINC,3035569,2283-0,0.062996094
+labs,Benzodiazepines,Unknown,Benzodiazepines [Presence] in Urine by Confirmatory method,LOINC,3035732,16195-0,0.062996094
+labs,Toxoplasma gondii DNA,Unknown,Toxoplasma gondii DNA [Presence] in Specimen by NAA with probe detection,LOINC,3006695,29904-0,0.062996094
+labs,Myelin basic protein,ng/mL,Myelin basic protein [Mass/volume] in Cerebral spinal fluid,LOINC,3022618,May-38,0.062996094
+labs,Metanephrine & Normetanephrine,Unknown,Metanephrine and Normetanephrine [Interpretation] in Urine Narrative,LOINC,3053025,49283-5,0.06047625
+labs,Metanephrine/Creatinine,ug/g CRT,Metanephrine/Creatinine [Molar ratio] in 24 hour Urine,LOINC,3048826,47699-4,0.06047625
+labs,Metanephrine,ug/L,Metanephrine [Mass/volume] in 24 hour Urine,LOINC,3013748,21019-5,0.06047625
+labs,lamoTRIgine,MCG/ML,lamoTRIgine [Mass/volume] in Serum or Plasma,LOINC,3023261,Apr-48,0.06047625
+labs,Metanephrine,ug/d,Metanephrine [Mass/time] in 24 hour Urine,LOINC,3019965,19049-6,0.06047625
+labs,Normetanephrine,ug/d,Normetanephrine [Mass/time] in 24 hour Urine,LOINC,3035015,Jun-71,0.06047625
+labs,Normetanephrine/Creatinine,ug/g CRT,Normetanephrine/Creatinine [Molar ratio] in 24 hour Urine,LOINC,3045317,44924-9,0.06047625
+labs,Normetanephrine,ug/L,Normetanephrine [Mass/volume] in 24 hour Urine,LOINC,3003700,21422-1,0.06047625
+labs,Signal recognition particle Ab,Unknown,Signal Recognition Particle (SRP) Ab [Presence] in Serum or Plasma,LOINC,3033229,33921-8,0.06047625
+labs,PM-SCL extractable nuclear Ab,Units,PM-SCL extractable nuclear Ab [Units/volume] in Serum,LOINC,3000307,31562-2,0.06047625
+labs,Pl-12 Ab,Unknown,PL-12 Ab [Presence] in Serum,LOINC,3030939,33771-7,0.06047625
+labs,Pl-7 Ab,Unknown,PL-7 Ab [Presence] in Serum,LOINC,3030635,33772-5,0.06047625
+labs,Coagulation factor IX activity actual/Normal,%,Coagulation factor IX activity actual/normal in Platelet poor plasma by Coagulation assay,LOINC,3006109,Feb-87,0.06047625
+labs,Ej Ab,Unknown,Ej Ab [Presence] in Serum,LOINC,3046519,45149-2,0.06047625
+labs,Alkaline phosphatase.liver,U/L,Alkaline phosphatase.liver [Enzymatic activity/volume] in Serum or Plasma,LOINC,3035400,1779-8,0.06047625
+labs,OJ Ab,Unknown,OJ Ab [Presence] in Serum,LOINC,3046209,45152-6,0.06047625
+labs,Alkaline phosphatase.bone,U/L,Alkaline phosphatase.bone [Enzymatic activity/volume] in Serum or Plasma,LOINC,3001467,1777-2,0.06047625
+labs,Fibrin+Fibrinogen fragments,ug/mL,Fibrin+Fibrinogen fragments [Mass/volume] in Platelet poor plasma,LOINC,3000401,30226-5,0.06047625
+labs,Mi-2 Ab,Unknown,Mi-2 Ab [Presence] in Serum,LOINC,3013637,18485-3,0.06047625
+labs,U2 small nuclear ribonucleoprotein Ab,Unknown,U2 small nuclear ribonucleoprotein Ab [Presence] in Serum,LOINC,40771132,68549-5,0.06047625
+labs,Ku Ab,Unknown,Ku Ab [Presence] in Serum,LOINC,3022761,18484-6,0.06047625
+labs,traMADol,Unknown,traMADol [Presence] in Urine by Screen method,LOINC,3013542,19710-3,0.06047625
+labs,Erythropoietin,MIU/ML,Erythropoietin (EPO) [Units/volume] in Serum or Plasma,LOINC,3024172,15061-5,0.06047625
+labs,Alkaline phosphatase isoenzymes,U/L,Alkaline phosphatase isoenzymes [Enzymatic activity/volume] in Serum or Plasma by Heat stability,LOINC,3021952,16182-8,0.06047625
+labs,Fibrillarin Ab,Unknown,Fibrillarin Ab [Presence] in Serum,LOINC,3029569,49963-2,0.06047625
+labs,Virus identified,Unknown,Virus identified in Specimen by Culture,LOINC,3028433,Jul-84,0.057956407
+labs,Gastrin,pg/mL,Gastrin [Mass/volume] in Serum or Plasma,LOINC,3009927,Mar-33,0.057956407
+labs,Reference lab test method,Unknown,Referral lab test method,LOINC,3033053,49549-9,0.057956407
+labs,IgE,IU/ML,IgE [Units/volume] in Serum or Plasma,LOINC,3005322,19113-0,0.057956407
+labs,Hepatitis C virus genotype,Unknown,Hepatitis C virus genotype [Identifier] in Serum or Plasma by NAA with probe detection,LOINC,3002653,32286-7,0.057956407
+labs,Myoglobin,mg/L,Myoglobin [Mass/volume] in Urine,LOINC,3011066,Sep-41,0.057956407
+labs,Chromogranin A,ng/mL,Chromogranin A [Mass/volume] in Serum or Plasma,LOINC,3006407,11-Jan,0.057956407
+labs,Mitochondria Ab,TITER,Mitochondria Ab [Titer] in Serum by Immunofluorescence,LOINC,3026652,Feb-47,0.055436563
+labs,Phosphate,MG/DL,Phosphate [Mass/volume] in Urine,LOINC,3026729,Sep-78,0.055436563
+labs,Tissue transglutaminase Ab.IgG,U/mL,Tissue transglutaminase IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,40759657,56537-4,0.055436563
+labs,"t(9;22)(q34.1;q11)(ABL1,BCR) fusion transcript",Unknown,"t(9;22)(q34.1;q11)(ABL1,BCR) fusion transcript [Presence] in Blood or Tissue by Molecular genetics method",LOINC,3013321,21821-4,0.055436563
+labs,Heterophile Ab,Unknown,Heterophile Ab [Presence] in Serum by Latex agglutination,LOINC,3020946,13-Apr,0.055436563
+labs,Herpes simplex virus 2 Ab.IgM,TITER,Herpes simplex virus 2 IgM Ab [Titer] in Serum by Immunofluorescence,LOINC,3000381,26927-4,0.052916719
+labs,Hematocrit,%,Hematocrit [Volume Fraction] of Body fluid,LOINC,3008108,11153-4,0.052916719
+labs,Carcinoembryonic Ag,ng/mL,Carcinoembryonic Ag [Mass/volume] in Body fluid,LOINC,3013735,12515-3,0.052916719
+labs,Herpes simplex virus 1 Ab.IgM,TITER,Herpes simplex virus 1 IgM Ab [Titer] in Serum by Immunofluorescence,LOINC,3029949,50758-2,0.052916719
+labs,Elastase.pancreatic,ug/g,Elastase.pancreatic [Mass/mass] in Stool,LOINC,3000570,25907-7,0.052916719
+labs,Fetal cell screen,Unknown,Fetal cell screen [Presence] in Blood by Rosette test,LOINC,3046305,33900-2,0.052916719
+labs,HIV 1+2 Ab,Unknown,HIV 1+2 Ab [Presence] in Specimen by Rapid immunoassay,LOINC,3032965,49580-4,0.052916719
+labs,Streptococcus pyogenes Ag,Unknown,Deprecated Streptococcus pyogenes Ag [Presence] in Throat by Immunoassay,LOINC,3008350,May-56,0.052916719
+labs,Human papilloma virus 16 DNA,Unknown,Human papilloma virus 16 DNA [Presence] in Cervix by NAA with probe detection,LOINC,46236100,77399-4,0.050396875
+labs,Maximum clot firmness.extrinsic coagulation system activated.fibrinolysis suppressed,mm,Maximum clot firmness.extrinsic coagulation system activated.fibrinolysis suppressed [Length] in Blood by Rotational TEG,LOINC,3040527,52779-6,0.050396875
+labs,DNA double strand Ab,TITER,DNA double strand Ab [Titer] in Serum,LOINC,3007916,11013-0,0.050396875
+labs,Clot formation.extrinsic coagulation system activated.fibrinolysis suppressed,SEC,Clot formation.extrinsic coagulation system activated.fibrinolysis suppressed [Time] in Blood by Rotational TEG,LOINC,3041070,52769-7,0.050396875
+labs,Clotting time.extrinsic coagulation system activated.fibrinolysis suppressed,SEC,Clotting time.extrinsic coagulation system activated.fibrinolysis suppressed of Blood by Rotational TEG,LOINC,3039899,52774-7,0.050396875
+labs,Human papilloma virus 31+33+35+39+45+51+52+56+58+59+66+68 DNA,Unknown,Human papilloma virus 31+33+35+39+45+51+52+56+58+59+66+68 DNA [Presence] in Cervix by NAA with probe detection,LOINC,42870370,71431-1,0.050396875
+labs,Insulin,MICRO IU/mL,Insulin [Units/volume] in Serum or Plasma,LOINC,3016244,20448-7,0.050396875
+labs,Cryptococcus sp Ab,Unknown,Cryptococcus sp Ab [Titer] in Serum,LOINC,3034421,16124-0,0.050396875
+labs,Thyrotropin receptor Ab,IU/L,Thyrotropin receptor Ab [Units/volume] in Serum,LOINC,3017044,5385-0,0.050396875
+labs,Human papilloma virus 18 DNA,Unknown,Human papilloma virus 18 DNA [Presence] in Cervix by NAA with probe detection,LOINC,46236101,77400-0,0.050396875
+labs,Aspergillus fumigatus Ab.IgG,mg/L,Aspergillus fumigatus IgG Ab [Mass/volume] in Serum,LOINC,3013803,26954-8,0.050396875
+labs,Maximum lysis.extrinsic coagulation system activated.fibrinolysis suppressed,%,Maximum lysis.extrinsic coagulation system activated.fibrinolysis suppressed [Length fraction] in Blood by Rotational TEG,LOINC,3039615,52785-3,0.050396875
+labs,Epstein Barr virus DNA,log,Epstein Barr virus DNA [Log #/volume] (viral load) in Specimen by NAA with probe detection,LOINC,3050637,53774-6,0.047877032
+labs,Epstein Barr virus DNA,cpy/mL,Epstein Barr virus DNA [#/volume] (viral load) in Specimen by NAA with probe detection,LOINC,3000453,32585-2,0.047877032
+labs,Lidocaine,ug/mL,Lidocaine [Mass/volume] in Serum or Plasma,LOINC,3004944,14-Mar,0.047877032
+labs,Diagnostic impression,Unknown,Diagnostic impression [Interpretation] in Specimen Narrative,LOINC,40765106,62365-2,0.047877032
+labs,Rotavirus Ag,Unknown,Rotavirus Ag [Presence] in Stool by Immunoassay,LOINC,3014352,5880-0,0.047877032
+labs,Hepatitis B virus little e Ag,Unknown,Hepatitis B virus e Ag [Presence] in Serum or Plasma by Immunoassay,LOINC,3023378,13954-3,0.047877032
+labs,Reagin Ab,TITER,Reagin Ab [Titer] in Serum by RPR,LOINC,3026501,31147-2,0.047877032
+labs,Aquaporin 4 water channel Ab.IgG,Unknown,Aquaporin 4 water channel IgG Ab [Presence] in Serum or Plasma,LOINC,3046426,43638-6,0.047877032
+labs,Protein/Creatinine,MG/G,Protein/Creatinine [Ratio] in Urine,LOINC,3045462,34366-5,0.047877032
+labs,Methemoglobin/Hemoglobin.total,%,Methemoglobin/Hemoglobin.total in Blood,LOINC,3007930,14-Jun,0.047877032
+labs,Ketones,Unknown,Ketones [Presence] in Urine by Test strip,LOINC,3035350,14-Aug,0.045357188
+labs,Phytonadione,nmol/L,Phytonadione [Mass/volume] in Serum or Plasma,LOINC,3002431,22-Feb,0.045357188
+labs,Islet cell 512 Ab,Unknown,Islet cell 512 Ab [Units/volume] in Serum by Immunoassay,LOINC,40759837,56718-0,0.045357188
+labs,Aquaporin 4 water channel Ab.IgG,Unknown,Aquaporin 4 water channel IgG Ab [Presence] in Cerebral spinal fluid,LOINC,3049741,46718-3,0.045357188
+labs,Norovirus Genogroup I RNA,Unknown,Norovirus genogroup I RNA [Presence] in Stool by NAA with probe detection,LOINC,40758035,54905-5,0.045357188
+labs,Myelin associated glycoprotein Ab.IgM,TU,Myelin associated glycoprotein IgM Ab [Units/volume] in Serum by Immunoassay,LOINC,3009066,17314-6,0.045357188
+labs,Norovirus Genogroup II RNA,Unknown,Norovirus genogroup II RNA [Presence] in Stool by NAA with probe detection,LOINC,40758036,54906-3,0.045357188
+labs,Sulfate-3-Glucuronyl paragloboside Ab.IgM,IV,Sulfate-3-Glucuronyl paragloboside IgM Ab [Units/volume] in Serum,LOINC,3014803,31666-1,0.045357188
+labs,Magnesium,MG/DL,Magnesium [Mass/volume] in Urine,LOINC,3019738,19124-7,0.042837344
+labs,Phenytoin.free,ug/mL,Phenytoin Free [Mass/volume] in Serum or Plasma,LOINC,3005893,Mar-69,0.042837344
+labs,Coagulation surface induced.hexagonal phase phospholipid,Unknown,aPTT W excess hexagonal phospholipid (StaClot LA confirm),LOINC,3030675,33930-9,0.042837344
+labs,Phenytoin.free/Phenytoin.total,%,Phenytoin Free/Phenytoin.total in Serum or Plasma,LOINC,3002551,10548-6,0.042837344
+labs,Respiratory syncytial virus Ag,Unknown,Respiratory syncytial virus Ag [Presence] in Specimen by Immunoassay,LOINC,3020426,Aug-76,0.042837344
+labs,Insulin human Ab,U/mL,Insulin human Ab [Units/volume] in Serum,LOINC,3034080,Jul-74,0.042837344
+labs,Rheumatoid factor,IU/mL,Rheumatoid factor [Units/volume] in Serum or Plasma,LOINC,3021614,11572-5,0.042837344
+labs,Lymphocyte proliferation.phytohemagglutinin stimulation,ng/mL ATP,Lymphocyte proliferation stimulated by phytohemagglutinin [Mass/volume] in Blood,LOINC,3045696,33638-8,0.042837344
+labs,JAK2 gene.p.Val617Phe mutant/normal,%,JAK2 gene.p.Val617Phe mutant/Normal in Blood or Tissue by Molecular genetics method,LOINC,3038346,53761-3,0.042837344
+labs,Acetylcholine receptor modulation Ab/Acetylcholine Ab.total,%,Acetylcholine receptor modulation Ab/Acetylcholine Ab.total in Serum,LOINC,3014512,30192-9,0.0403175
+labs,Sjogrens syndrome-A extractable nuclear Ab.IgG,Units,Sjogrens syndrome-A extractable nuclear IgG Ab [Presence] in Serum,LOINC,3021871,31625-7,0.0403175
+labs,Epithelial cells.renal,/HPF,Epithelial cells.renal [#/area] in Urine by Computer assisted method,LOINC,3043138,33221-3,0.0403175
+labs,Lacosamide,mcg/mL,Lacosamide [Mass/volume] in Serum or Plasma,LOINC,40762388,59297-2,0.037797657
+labs,Proinsulin^post 12H CFst,pmol/L,Proinsulin [Moles/volume] in Serum or Plasma --12 hours fasting,LOINC,3024262,10451-3,0.037797657
+labs,JC virus DNA,Unknown,JC virus DNA [Presence] in Cerebral spinal fluid by NAA with probe detection,LOINC,3043717,33295-7,0.037797657
+labs,Histone Ab.IgG,Units,Histone IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,3011742,29996-6,0.037797657
+labs,Tobramycin^peak,MCG/ML,Tobramycin [Mass/volume] in Serum or Plasma --peak,LOINC,3004090,Jun-57,0.037797657
+labs,Estradiol,PG/ML,Estradiol (E2) [Mass/volume] in Serum or Plasma,LOINC,3025285,Apr-43,0.037797657
+labs,Taenia solium larva Ab.IgG,Unknown,Taenia solium larva IgG Ab [Units/volume] in Cerebral spinal fluid,LOINC,3034879,35391-2,0.037797657
+labs,Mesothelial cells/100 leukocytes,%,Mesothelial cells/100 leukocytes in Body fluid by Manual count,LOINC,3000598,12234-1,0.037797657
+labs,Hemoglobin F/Hemoglobin.total,Unknown,Hemoglobin F/Hemoglobin.total in Blood by Kleihauer-Betke method,LOINC,3003515,Apr-33,0.037797657
+labs,Specific gravity,Unknown,Specific gravity of Urine by Refractometry,LOINC,3019150,10-Jul,0.035277813
+labs,Hemoglobin,Unknown,Hemoglobin [Mass/volume] in Urine by Automated test strip,LOINC,3030267,50559-4,0.035277813
+labs,Coagulation specialist review,Unknown,Coagulation specialist review of results,LOINC,40771570,69049-5,0.035277813
+labs,Coagulation thrombin induced,SEC,Thrombin time,LOINC,3036489,Mar-43,0.035277813
+labs,Drugs identified,Unknown,Drugs identified in Serum or Plasma by Screen method,LOINC,3019917,20785-2,0.035277813
+labs,D little u Ag,Unknown,Weak D Ag [Presence] on Red Blood Cells,LOINC,3033840,972-0,0.032757969
+labs,Rickettsia rickettsii Ab.IgM,Unknown,Rickettsia rickettsii IgM Ab [Titer] in Serum by Immunofluorescence,LOINC,3003901,08-Feb,0.032757969
+labs,Lysozyme,ug/mL,Lysozyme [Mass/volume] in Serum or Plasma,LOINC,3012110,2589-0,0.032757969
+labs,Hemoglobin.free,mg/dL,Free Hemoglobin [Mass/volume] in Plasma,LOINC,3022493,721-1,0.032757969
+labs,carBAMazepine,MCG/ML,carBAMazepine [Mass/volume] in Serum or Plasma,LOINC,3028639,Feb-32,0.032757969
+labs,Rickettsia rickettsii Ab.IgG,Unknown,Rickettsia rickettsii IgG Ab [Titer] in Serum by Immunofluorescence,LOINC,3014184,07-Apr,0.032757969
+labs,Erythrocyte casts,/LPF,RBC casts [#/area] in Urine by Computer assisted method,LOINC,3030940,33229-6,0.032757969
+labs,Tobramycin^trough,MCG/ML,Tobramycin [Mass/volume] in Serum or Plasma --trough,LOINC,3006638,Feb-59,0.032757969
+labs,Muscle specific receptor tyrosine kinase Ab,nmol/L,Muscle specific receptor tyrosine kinase Ab [Moles/volume] in Serum,LOINC,3041276,51716-9,0.032757969
+labs,Pancreatic islet cell Ab,Unknown,Pancreatic islet cell Ab [Titer] in Serum,LOINC,3005593,13927-9,0.032757969
+labs,Neutrophils.hypogranulated,Unknown,Neutrophils.hypogranulated [Presence] in Blood by Light microscopy,LOINC,3042451,40654-6,0.032757969
+labs,Fructosamine,umol/L,Fructosamine [Moles/volume] in Serum or Plasma,LOINC,3019839,15069-8,0.032757969
+labs,RNA polymerase III Ab,Units,RNA polymerase III Ab [Units/volume] in Serum by Immunoassay,LOINC,40766061,63329-7,0.032757969
+labs,Geneticist review,Unknown,Geneticist review of results,LOINC,40771568,69047-9,0.030238125
+labs,Rickettsia typhi Ab.IgG,Unknown,Rickettsia typhi IgG Ab [Titer] in Serum by Immunofluorescence,LOINC,3026518,24-Sep,0.030238125
+labs,Sirolimus,NG/ML,Sirolimus [Mass/volume] in Blood,LOINC,3021374,29247-4,0.030238125
+labs,Rickettsia typhi Ab.IgM,Unknown,Rickettsia typhi IgM Ab [Titer] in Serum by Immunofluorescence,LOINC,3027602,25-Jun,0.030238125
+labs,Coagulation factor XI activity actual/Normal,%,Coagulation factor XI activity actual/normal in Platelet poor plasma by Coagulation assay,LOINC,3001850,26-Aug,0.030238125
+labs,fentaNYL,Unknown,fentaNYL [Mass/volume] in Urine by Confirmatory method,LOINC,40761482,58381-5,0.030238125
+labs,Microsatellite instability,Unknown,Microsatellite instability [Identifier] in Tissue by Molecular genetics method Nominal,LOINC,3047348,43368-0,0.030238125
+labs,Cryptococcus sp Ag,TITER,Cryptococcus sp Ag [Titer] in Specimen,LOINC,3027446,11473-6,0.030238125
+labs,Vancomycin^peak,MCG/ML,Vancomycin [Mass/volume] in Serum or Plasma --peak,LOINC,3011461,Jul-90,0.030238125
+labs,Selenium,ug/L,Selenium [Mass/volume] in Serum or Plasma,LOINC,3019652,5724-0,0.030238125
+labs,Borrelia burgdorferi Ab.IgG & IgM,Unknown,Borrelia burgdorferi IgG and IgM [Interpretation] in Serum by Immunoassay,LOINC,3052257,46248-1,0.030238125
+labs,Glutamate decarboxylase 65 Ab,nmol/L,Glutamate decarboxylase 65 Ab [Moles/volume] in Cerebral spinal fluid,LOINC,3042531,53708-4,0.030238125
+labs,Triiodothyronine.reverse,ng/dL,Triiodothyronine (T3).reverse [Mass/volume] in Serum or Plasma,LOINC,3027514,Aug-52,0.030238125
+labs,Cortisol.free/Creatinine,ug/g CRT,Cortisol Free/Creatinine [Mass Ratio] in 24 hour Urine,LOINC,3016589,32009-3,0.027718281
+labs,Osmolality,mOsm/kg,Osmolality of Stool,LOINC,3007256,2693-0,0.027718281
+labs,EPINEPHrine/Creatinine,ug/g CRT,EPINEPHrine/Creatinine [Mass Ratio] in Urine,LOINC,3008612,13734-9,0.027718281
+labs,DOPamine,ug/L,DOPamine [Mass/volume] in Urine,LOINC,3018686,17-Aug,0.027718281
+labs,EPINEPHrine,ug/d,EPINEPHrine [Mass/time] in 24 hour Urine,LOINC,3017018,Jul-32,0.027718281
+labs,Paraneoplastic Ab,Unknown,Paraneoplastic Ab [Presence] in Serum by Immunofluorescence,LOINC,40763938,61177-2,0.027718281
+labs,Cortisol.free,ug/L,Cortisol Free [Mass/volume] in 24 hour Urine by HPLC,LOINC,3031748,34909-2,0.027718281
+labs,Norepinephrine,ug/L,Norepinephrine [Mass/volume] in Urine,LOINC,3013062,Apr-67,0.027718281
+labs,EPINEPHrine,ug/L,EPINEPHrine [Mass/volume] in Urine,LOINC,3003813,11046-0,0.027718281
+labs,Methotrexate,mcmol/L,Methotrexate [Moles/volume] in Serum or Plasma,LOINC,3017115,14836-1,0.027718281
+labs,Norepinephrine,ug/d,Norepinephrine [Mass/time] in 24 hour Urine,LOINC,3011657,Feb-68,0.027718281
+labs,Norepinephrine/Creatinine,ug/g CRT,Norepinephrine/Creatinine [Mass Ratio] in Urine,LOINC,3019797,13782-8,0.027718281
+labs,Cortisol.free,ug/d,Cortisol Free [Mass/time] in 24 hour Urine,LOINC,3014564,Jul-47,0.027718281
+labs,DOPamine/Creatinine,ug/g CRT,DOPamine/Creatinine [Mass Ratio] in Urine,LOINC,3015397,13733-1,0.027718281
+labs,DOPamine,ug/d,DOPamine [Mass/time] in 24 hour Urine,LOINC,3008090,18-Jun,0.027718281
+labs,Entamoeba histolytica Ab.IgG,U,Entamoeba histolytica IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,3024654,22-Apr,0.027718281
+labs,Trans-3-Hydroxycotinine,ng/mL,Trans-3-Hydroxycotinine [Mass/volume] in Serum or Plasma,LOINC,3030595,35140-3,0.025198438
+labs,Tobramycin,MCG/ML,Tobramycin [Mass/volume] in Serum or Plasma,LOINC,3035509,35670-9,0.025198438
+labs,Cotinine,ng/mL,Cotinine [Mass/volume] in Serum or Plasma,LOINC,3006028,10365-5,0.025198438
+labs,DNAse B Ab.Streptococcal,U/mL,Streptococcal DNAse B [Titer] in Serum,LOINC,3001475,14207-5,0.025198438
+labs,Pituitary glycoprotein hormone.alpha subunit,ng/mL,Pituitary glycoprotein hormone.alpha subunit [Mass/volume] in Serum,LOINC,3014519,14170-5,0.025198438
+labs,HLA-B27,Unknown,HLA-B27 [Presence],LOINC,3008898,21-May,0.025198438
+labs,Lactate dehydrogenase 4/Lactate dehydrogenase.total,%,Lactate dehydrogenase 4/Lactate dehydrogenase.total in Serum or Plasma by Electrophoresis,LOINC,3024830,Feb-45,0.025198438
+labs,Lactate dehydrogenase 3/Lactate dehydrogenase.total,%,Lactate dehydrogenase 3/Lactate dehydrogenase.total in Serum or Plasma by Electrophoresis,LOINC,3007858,Sep-42,0.025198438
+labs,Coagulation factor XIII coagulum dissolution at 24H,Unknown,Coagulation factor XIII coagulum dissolution at 24 hours [Presence] in Platelet poor plasma by Coagulation assay,LOINC,3035447,Jul-41,0.025198438
+labs,Lactate dehydrogenase 5/Lactate dehydrogenase.total,%,Lactate dehydrogenase 5/Lactate dehydrogenase.total in Serum or Plasma by Electrophoresis,LOINC,3012481,Jun-48,0.025198438
+labs,Lactate dehydrogenase 1/Lactate dehydrogenase.total,%,Lactate dehydrogenase 1/Lactate dehydrogenase.total in Serum or Plasma by Electrophoresis,LOINC,3006898,Jan-36,0.025198438
+labs,Insulin-like growth factor binding protein 3,ng/mL,Insulin-like growth factor binding protein 3 [Mass/volume] in Serum or Plasma,LOINC,3027370,Jun-83,0.025198438
+labs,Thyroxine.free,ng/dL,Thyroxine (T4) free [Mass/volume] in Serum or Plasma by Dialysis,LOINC,3024675,Apr-92,0.025198438
+labs,Lactate dehydrogenase 2/Lactate dehydrogenase.total,%,Lactate dehydrogenase 2/Lactate dehydrogenase.total in Serum or Plasma by Electrophoresis,LOINC,3023919,May-39,0.025198438
+labs,Nicotine,ng/mL,Nicotine [Mass/volume] in Serum or Plasma,LOINC,3009178,Sep-53,0.025198438
+labs,Blastomyces sp Ag,Unknown,Blastomyces sp Ag [Mass/volume] in Urine by Immunoassay,LOINC,1001618,93429-9,0.022678594
+labs,Coxsackievirus B5 Ab,Unknown,Coxsackievirus B5 Ab [Titer] in Cerebral spinal fluid by Complement fixation,LOINC,3019804,Apr-63,0.022678594
+labs,Coxsackievirus B4 Ab,Unknown,Coxsackievirus B4 Ab [Titer] in Cerebral spinal fluid by Complement fixation,LOINC,3019576,Jun-62,0.022678594
+labs,Gliadin Ab.IgG,CU,Gliadin IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,3015468,20496-6,0.022678594
+labs,HLA-A locus,Unknown,HLA-A locus [Type],LOINC,3053072,38548-4,0.022678594
+labs,HIV susceptibility panel,Unknown,HIV susceptibility panel by Genotype method,LOINC,3032209,49660-4,0.022678594
+labs,Gliadin Ab.IgA,CU,Gliadin IgA Ab [Units/volume] in Serum by Immunoassay,LOINC,3015174,20495-8,0.022678594
+labs,Mycoplasma pneumoniae Ab.IgM,U/L,Mycoplasma pneumoniae IgM Ab [Units/volume] in Serum by Immunoassay,LOINC,3024605,Mar-56,0.022678594
+labs,Blastomyces dermatitidis Ag,Unknown,Blastomyces dermatitidis Ag [Presence] in Urine by Immunoassay,LOINC,3032014,41746-9,0.022678594
+labs,Coxsackievirus B1 Ab,Unknown,Coxsackievirus B1 Ab [Titer] in Cerebral spinal fluid by Complement fixation,LOINC,3003864,Feb-59,0.022678594
+labs,HLA-DRB1,Unknown,HLA-DRB1 [Type],LOINC,40760417,57298-2,0.022678594
+labs,Taenia solium larva Ab.IgG,IV,Taenia solium larva IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,3012386,25389-8,0.022678594
+labs,Flow cytometry specialist review,Unknown,Flow cytometry specialist review of results,LOINC,40771573,69052-9,0.022678594
+labs,pH,Unknown,pH of Pleural fluid,LOINC,3035880,Aug-50,0.022678594
+labs,Hemoglobin A1c/Hemoglobin.total,%,Hemoglobin A1c/Hemoglobin.total in Blood,LOINC,3004410,Apr-48,0.022678594
+labs,Ribosomal P Ab,AU/mL,Ribosomal P Ab [Units/volume] in Serum,LOINC,3001199,13636-6,0.022678594
+labs,HLA Ab,Unknown,HLA Ab [Presence] in Serum by Immunoassay,LOINC,3052599,48501-1,0.022678594
+labs,Citrate/Creatinine,Unknown,Citrate/Creatinine [Mass Ratio] in Urine,LOINC,3036325,13722-4,0.022678594
+labs,Mycoplasma pneumoniae Ab.IgG,U/L,Mycoplasma pneumoniae IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,3024072,May-55,0.022678594
+labs,Alkaline phosphatase.bone,ug/L,Alkaline phosphatase.bone [Mass/volume] in Serum or Plasma,LOINC,3018910,17838-4,0.022678594
+labs,Coxsackievirus B3 Ab,Unknown,Coxsackievirus B3 Ab [Titer] in Cerebral spinal fluid by Complement fixation,LOINC,3023129,Aug-61,0.022678594
+labs,Coxsackievirus B2 Ab,Unknown,Coxsackievirus B2 Ab [Titer] in Cerebral spinal fluid by Complement fixation,LOINC,3009436,9760-0,0.022678594
+labs,Fat.microscopic observation,Unknown,Fat.microscopic observation [Identifier] in Stool by Sudan IV stain,LOINC,3024796,10753-2,0.022678594
+labs,Viscosity,cP,Viscosity of Serum,LOINC,3010493,28-Jun,0.022678594
+labs,Coxsackievirus B6 Ab,Unknown,Coxsackievirus B6 Ab [Titer] in Cerebral spinal fluid by Complement fixation,LOINC,3004635,Feb-64,0.022678594
+labs,HLA-B*57:01,Unknown,HLA-B*57:01 [Presence],LOINC,3029589,50956-2,0.02015875
+labs,HLA-DRB3,Unknown,HLA-DRB3 [Presence],LOINC,3046455,43379-7,0.02015875
+labs,Amiodarone,ug/mL,Amiodarone [Mass/volume] in Serum or Plasma,LOINC,3015375,30-Aug,0.02015875
+labs,Potassium,mmol/L,Potassium [Moles/volume] in Stool,LOINC,3005819,15202-5,0.02015875
+labs,Desethylamiodarone,ug/mL,Desethylamiodarone [Mass/volume] in Serum or Plasma,LOINC,3036866,Apr-74,0.02015875
+labs,Chromium,ug/L,Chromium [Mass/volume] in Serum or Plasma,LOINC,3008269,22-Jun,0.02015875
+labs,Complement C1 esterase inhibitor,mg/dL,Complement C1 esterase inhibitor [Mass/volume] in Serum or Plasma,LOINC,3003245,Jun-77,0.02015875
+labs,Calcium,MG/TV,Calcium [Mass/time] in 24 hour Urine,LOINC,3007687,Feb-74,0.02015875
+labs,MDA5 Ab,Units,MDA5 Ab [Units/volume] in Serum by Line blot,LOINC,36306115,88725-7,0.02015875
+labs,Vasopressin,pg/mL,Vasopressin [Mass/volume] in Serum or Plasma,LOINC,3024303,3126-0,0.02015875
+labs,Choriogonadotropin (pregnancy test),mIU/mL,Choriogonadotropin (pregnancy test) [Presence] in Urine by Rapid immunoassay,LOINC,21492990,80384-1,0.02015875
+labs,U1 small nuclear ribonucleoprotein Ab,Units,U1 small nuclear ribonucleoprotein Ab [Units/volume] in Serum by Immunoassay,LOINC,40760773,57662-9,0.02015875
+labs,TIF1-gamma Ab,Units,TIF1-gamma Ab [Units/volume] in Serum by Line blot,LOINC,36305608,88739-8,0.02015875
+labs,Provider.signing name,Unknown,Provider signing name,LOINC,3005484,18771-6,0.02015875
+labs,Sjogrens syndrome-A extractable nuclear 52kD Ab.IgG,Units,Sjogrens syndrome-A extractable nuclear 52kD IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,42868729,70257-1,0.02015875
+labs,Intrinsic factor blocking Ab,Unknown,Intrinsic factor blocking Ab [Presence] in Serum by Radioimmunoassay (RIA),LOINC,3003318,Feb-37,0.02015875
+labs,MJ Ab,Units,Mj Ab [Units/volume] in Serum by Line blot,LOINC,42529583,82425-0,0.02015875
+labs,Transferrin receptor.soluble,mg/L,Transferrin receptor.soluble [Moles/volume] in Serum or Plasma,LOINC,3046569,33210-6,0.02015875
+labs,HLA-Cw locus,Unknown,HLA-Cw locus [Type],LOINC,3031536,42663-5,0.02015875
+labs,HLA-DQB1,Unknown,HLA-DQB1 [Type] by High resolution,LOINC,40760418,57299-0,0.02015875
+labs,Neuronal Ab,Unknown,Neuronal Ab [Units/volume] in Serum by Immunoassay,LOINC,3046855,32853-4,0.02015875
+labs,HLA-B locus,Unknown,HLA-B locus [Type],LOINC,3049984,38546-8,0.02015875
+labs,HLA-DPA1,Unknown,HLA-DPA1 [Type] by High resolution,LOINC,40762111,59018-2,0.02015875
+labs,Apolipoprotein B-100,mg/dL,Apolipoprotein B-100 [Mass/volume] in Serum or Plasma,LOINC,3034387,1871-3,0.02015875
+labs,HLA-DPB1,Unknown,HLA-DPB1 [Type] by High resolution,LOINC,40762110,59017-4,0.02015875
+labs,HLA-DQA1,Unknown,HLA-DQA1 [Type] by High resolution,LOINC,40762112,59019-0,0.02015875
+labs,Sodium,mmol/L,Sodium [Moles/volume] in Stool,LOINC,3011846,15207-4,0.02015875
+labs,Streptococcus pneumoniae 19 Ab.IgG,ug/mL,Deprecated Streptococcus pneumoniae 19 IgG Ab [Mass/volume] in Serum,LOINC,3016811,27390-4,0.017638906
+labs,Streptococcus pneumoniae Danish serotype 9V Ab.IgG,ug/mL,Streptococcus pneumoniae Danish serotype 9V IgG Ab [Mass/volume] in Serum,LOINC,3005260,30153-1,0.017638906
+labs,Herpes virus 6 DNA,cpy/mL,Herpes virus 6 DNA [Presence] in Specimen by NAA with probe detection,LOINC,3035401,29495-9,0.017638906
+labs,glipiZIDE,ng/mL,glipiZIDE [Presence] in Serum or Plasma,LOINC,3051380,48326-3,0.017638906
+labs,Herpes virus 6 Ab.IgG & IgM,Unknown,Herpes virus 6 IgG and IgM [Interpretation] in Serum Narrative,LOINC,3039105,51730-0,0.017638906
+labs,Centromere Ab.IgG,AU/mL,Centromere IgG Ab [Titer] in Serum by Immunofluorescence,LOINC,3018212,29966-9,0.017638906
+labs,Lactate,mmol/L,Lactate [Moles/volume] in Blood,LOINC,3047181,32693-4,0.017638906
+labs,Lactate/Pyruvate,Unknown,Lactate/Pyruvate [Molar ratio] in Blood,LOINC,3022085,Feb-50,0.017638906
+labs,Cobalt,Unknown,Cobalt [Mass/volume] in Blood,LOINC,3026470,25-Sep,0.017638906
+labs,Pyruvate,Unknown,Pyruvate [Moles/volume] in Blood,LOINC,3011048,14121-8,0.017638906
+labs,Amikacin^peak,mcg/mL,Amikacin [Mass/volume] in Serum or Plasma --peak,LOINC,3008977,19-Jan,0.017638906
+labs,Cancer Ag 27-29,U/mL,Cancer Ag 27-29 [Units/volume] in Serum or Plasma,LOINC,3013520,17842-6,0.017638906
+labs,Bile acid,umol/L,Bile acid [Moles/volume] in Serum or Plasma,LOINC,3028110,14628-2,0.017638906
+labs,Cancer Ag 15-3,U/ML,Cancer Ag 15-3 [Units/volume] in Serum or Plasma,LOINC,3006588,Sep-75,0.017638906
+labs,Viable cells/100 cells,%,Viable cells/100 cells in Specimen,LOINC,3045723,33194-2,0.017638906
+labs,PENTobarbital,MCG/ML,PENTobarbital [Mass/volume] in Serum or Plasma,LOINC,3020545,24-Aug,0.017638906
+labs,Cells.CD20/100 cells,Unknown,CD20 cells/100 cells in Specimen,LOINC,3013075,20595-5,0.017638906
+labs,Coxsackievirus A9 Ab,Unknown,Coxsackievirus A9 Ab [Titer] in Cerebral spinal fluid by Complement fixation,LOINC,3000239,Apr-58,0.017638906
+labs,Neisseria gonorrhoeae rRNA,Unknown,Neisseria gonorrhoeae rRNA [Presence] in Specimen by NAA with probe detection,LOINC,3045028,43305-2,0.017638906
+labs,Chlamydia trachomatis rRNA,Unknown,Chlamydia trachomatis rRNA [Presence] in Specimen by NAA with probe detection,LOINC,3043310,43304-5,0.017638906
+labs,Coxsackievirus A4 Ab,Unknown,Coxsackievirus A4 Ab [Titer] in Cerebral spinal fluid,LOINC,3006040,16683-5,0.017638906
+labs,Streptococcus pneumoniae 23 Ab.IgG,ug/mL,Deprecated Streptococcus pneumoniae 23 IgG Ab [Mass/volume] in Serum,LOINC,3005738,27389-6,0.017638906
+labs,Amikacin,mcg/mL,Amikacin [Mass/volume] in Serum or Plasma,LOINC,3036152,35669-1,0.017638906
+labs,Coxsackievirus A2 Ab,Unknown,Coxsackievirus A2 Ab [Titer] in Cerebral spinal fluid,LOINC,3007075,16682-7,0.017638906
+labs,Extractable nuclear Ab,UNITS,Extractable nuclear Ab [Presence] in Serum by Immunoassay,LOINC,40766122,63391-7,0.017638906
+labs,Coxsackievirus A16 Ab,Unknown,Coxsackievirus A16 Ab [Titer] in Cerebral spinal fluid by Complement fixation,LOINC,3010527,Jul-52,0.017638906
+labs,Coxsackievirus A7 Ab,Unknown,Coxsackievirus A7 Ab [Titer] in Cerebral spinal fluid by Complement fixation,LOINC,3023496,Aug-56,0.017638906
+labs,Coxsackievirus A10 Ab,Unknown,Coxsackievirus A10 Ab [Titer] in Cerebral spinal fluid by Complement fixation,LOINC,3023989,Sep-51,0.017638906
+labs,Streptococcus pneumoniae Danish serotype 18C Ab.IgG,ug/mL,Streptococcus pneumoniae Danish serotype 18C IgG Ab [Mass/volume] in Serum,LOINC,3006665,27395-3,0.017638906
+labs,Streptococcus pneumoniae Danish serotype 7F Ab.IgG,ug/mL,Streptococcus pneumoniae Danish serotype 7F IgG Ab [Mass/volume] in Serum,LOINC,3000899,25296-5,0.017638906
+labs,Streptococcus pneumoniae 1 Ab.IgG,ug/mL,Deprecated Streptococcus pneumoniae 1 IgG Ab [Mass/volume] in Serum,LOINC,3004708,27092-6,0.017638906
+labs,Streptococcus pneumoniae 5 Ab.IgG,ug/mL,Deprecated Streptococcus pneumoniae 5 IgG Ab [Mass/volume] in Serum,LOINC,3000385,31183-7,0.017638906
+labs,glyBURIDE,ng/mL,glyBURIDE [Presence] in Serum or Plasma,LOINC,3052586,48327-1,0.017638906
+labs,Cold agglutinin,titer,Cold agglutinin [Titer] in Serum or Plasma,LOINC,3001686,14658-9,0.017638906
+labs,TOLAZamide,ng/mL,TOLAZamide [Presence] in Serum or Plasma,LOINC,3004476,21566-5,0.017638906
+labs,Repaglinide,ng/mL,Repaglinide [Presence] in Serum or Plasma,LOINC,3052691,48328-9,0.017638906
+labs,Pathologist name,Unknown,Pathologist name,LOINC,3016379,19139-5,0.017638906
+labs,HLA-DRB4,Unknown,HLA-DRB4 [Type],LOINC,40762114,59021-6,0.017638906
+labs,Streptococcus pneumoniae 8 Ab.IgG,ug/mL,Deprecated Streptococcus pneumoniae 8 IgG Ab [Mass/volume] in Serum,LOINC,3012917,27113-0,0.017638906
+labs,acetoHEXAMIDE,ng/mL,Acetohexamide [Presence] in Serum or Plasma,LOINC,3044717,43626-1,0.017638906
+labs,Streptococcus pneumoniae 3 Ab.IgG,ug/mL,Deprecated Streptococcus pneumoniae 3 IgG Ab [Mass/volume] in Serum,LOINC,3024826,27096-7,0.017638906
+labs,Streptococcus pneumoniae serotype Ab.IgG,Unknown,Streptococcus pneumoniae serotype IgG Ab [Interpretation] in Serum Narrative,LOINC,3035282,42771-6,0.017638906
+labs,Collection duration,h,Collection duration of Stool,LOINC,3017294,13363-7,0.017638906
+labs,Adenosine deaminase,U/L,Adenosine deaminase [Enzymatic activity/volume] in Cerebral spinal fluid,LOINC,3034552,35703-8,0.017638906
+labs,EPINEPHrine,pg/mL,EPINEPHrine [Mass/volume] in Plasma,LOINC,3008625,30-Jan,0.017638906
+labs,Specimen weight,g,Weight of Stool,LOINC,3001709,30078-0,0.017638906
+labs,Streptococcus pneumoniae Danish serotype 6B Ab.IgG,ug/mL,Streptococcus pneumoniae Danish serotype 6B IgG Ab [Mass/volume] in Serum,LOINC,3005665,27118-9,0.017638906
+labs,TOLBUTamide,ng/mL,TOLBUTamide [Presence] in Serum or Plasma,LOINC,3002769,21567-3,0.017638906
+labs,chlorproPAMIDE,ng/mL,chlorproPAMIDE [Presence] in Serum or Plasma,LOINC,3052039,48329-7,0.017638906
+labs,Streptococcus pneumoniae 9 Ab.IgG,ug/mL,Deprecated Streptococcus pneumoniae 9 IgG Ab [Mass/volume] in Serum,LOINC,3017886,27392-0,0.017638906
+labs,Streptococcus pneumoniae 14 Ab.IgG,ug/mL,Deprecated Streptococcus pneumoniae 14 IgG Ab [Mass/volume] in Serum,LOINC,3004217,27387-0,0.017638906
+labs,HFE gene targeted mutation analysis,Unknown,HFE gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal,LOINC,3026001,21694-5,0.017638906
+labs,Streptococcus pneumoniae 12 Ab.IgG,ug/mL,Deprecated Streptococcus pneumoniae 12 IgG Ab [Mass/volume] in Serum,LOINC,3023101,27374-8,0.017638906
+labs,Streptococcus pneumoniae 4 Ab.IgG,ug/mL,Deprecated Streptococcus pneumoniae 4 IgG Ab [Mass/volume] in Serum,LOINC,3006775,27094-2,0.017638906
+labs,DOPamine,pg/mL,DOPamine [Mass/volume] in Serum or Plasma,LOINC,3013490,2216-0,0.017638906
+labs,Glimepiride,ng/mL,Glimepride [Presence] in Serum or Plasma,LOINC,3051388,48325-5,0.017638906
+labs,Alpha 1 antitrypsin phenotype,Unknown,Alpha 1 antitrypsin phenotype [Interpretation] in Serum or Plasma,LOINC,3046867,32769-2,0.017638906
+labs,Nateglinide,ng/mL,Nateglinide [Presence] in Serum or Plasma,LOINC,3032725,49487-2,0.017638906
+labs,Catecholamines,pg/mL,Catecholamines [Interpretation] in Plasma Narrative,LOINC,3050154,49257-9,0.017638906
+labs,Herpes simplex virus 1+2 DNA,Unknown,Herpes simplex virus 1+2 DNA [Presence] in Specimen by NAA with probe detection,LOINC,3028369,20444-6,0.015119063
+labs,Topiramate,ug/mL,Topiramate [Mass/volume] in Serum or Plasma,LOINC,3025481,17713-9,0.015119063
+labs,Purkinje cell cytoplasmic type 1 Ab.IgG,titer,PCA-1 IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence,LOINC,36660429,94363-9,0.015119063
+labs,Parvovirus B19 Ab.IgG,IV,Parvovirus B19 IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,3020457,Aug-73,0.015119063
+labs,Platelet aggregation.EPINEPHrine induced,Unknown,Platelet aggregation EPINEPHrine induced [Presence] in Platelet rich plasma,LOINC,3003882,24378-2,0.015119063
+labs,Copper,ug/d,Copper [Mass/time] in 24 hour Urine,LOINC,3023851,Mar-33,0.015119063
+labs,Ethylene glycol,mg/dL,"Ethylene glycol [Mass/volume] in Serum, Plasma or Blood",LOINC,3020475,May-46,0.015119063
+labs,Dehydroepiandrosterone sulfate,MCG/DL,Dehydroepiandrosterone sulfate (DHEA-S) [Mass/volume] in Serum or Plasma,LOINC,3015884,May-91,0.015119063
+labs,Sickle cells,Unknown,Sickle cells [Presence] in Blood by Light microscopy,LOINC,3020412,801-1,0.015119063
+labs,Copper/Creatinine,ug/g CRT,Copper/Creatinine [Mass Ratio] in 24 hour Urine,LOINC,3003415,29942-0,0.015119063
+labs,Copper,ug/dL,Copper [Mass/volume] in Urine collected for unspecified duration,LOINC,3002754,30920-3,0.015119063
+labs,Methadone,Unknown,Methadone [Presence] in Urine by Confirmatory method,LOINC,3013830,16199-2,0.015119063
+labs,Cells.CD19,/MCL,CD19 cells [#/volume] in Specimen,LOINC,3025815,20592-2,0.015119063
+labs,Platelet aggregation.collagen induced,Unknown,Platelet aggregation collagen induced [Presence] in Platelet rich plasma,LOINC,3007451,24379-0,0.015119063
+labs,NUDT15 gene product metabolic activity interpretation,Unknown,NUDT15 gene product metabolic activity interpretation in Blood or Tissue Qualitative by Molecular genetics method,LOINC,1001587,93195-6,0.015119063
+labs,Phospholipase A2 receptor Ab.IgG,Unknown,Phospholipase A2 receptor IgG Ab [Presence] in Serum or Plasma by Immunofluorescence,LOINC,42528688,82991-1,0.015119063
+labs,Adenosine deaminase,U/L,Adenosine deaminase [Enzymatic activity/volume] in Peritoneal fluid,LOINC,3033252,49759-4,0.015119063
+labs,TPMT gene targeted mutation analysis,Unknown,TPMT gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal,LOINC,3042168,41048-0,0.015119063
+labs,Platelet aggregation.ristocetin induced^1200 ug/mL,Unknown,Platelet aggregation ristocetin induced in Platelet rich plasma --1200 ug/mL,LOINC,3029780,33551-3,0.015119063
+labs,Platelet aggregation.adenosine diphosphate induced^10 umol/L,Unknown,Platelet aggregation ADP induced [Presence] in Platelet rich plasma --10 umol/L,LOINC,3042100,51728-4,0.015119063
+labs,Chloride,MMOL/TOT VOL,Chloride [Moles/volume] in Urine,LOINC,3007733,Apr-78,0.015119063
+labs,Streptococcus pneumoniae Danish serotype 15B Ab.IgG,ug/mL,Streptococcus pneumoniae Danish serotype 15B IgG Ab [Mass/volume] in Serum,LOINC,3042065,40973-0,0.015119063
+labs,Myoglobin,ng/mL,Myoglobin [Mass/volume] in Serum or Plasma,LOINC,3005895,Mar-39,0.015119063
+labs,Streptococcus pneumoniae Danish serotype 19A Ab.IgG,ug/mL,Streptococcus pneumoniae Danish serotype 19A IgG Ab [Mass/volume] in Serum,LOINC,3044549,40974-8,0.015119063
+labs,Mumps virus Ab.IgG,AU/mL,Mumps virus IgG Ab [Presence] in Serum by Immunoassay,LOINC,3011781,Jun-76,0.015119063
+labs,Mumps virus Ab.IgM,TITER,Mumps virus IgM Ab [Titer] in Serum by Immunofluorescence,LOINC,3016120,6479-0,0.015119063
+labs,Platelet aggregation.adenosine diphosphate induced^5 umol/L,Unknown,Platelet aggregation ADP induced [Presence] in Platelet rich plasma --5 umol/L,LOINC,40758919,55798-3,0.015119063
+labs,Parvovirus B19 Ab.IgM,IV,Parvovirus B19 IgM Ab [Units/volume] in Serum by Immunoassay,LOINC,3020147,Jun-74,0.015119063
+labs,Cells.CD16+CD56+/100 cells,%,CD16+CD56+ cells/100 cells in Specimen,LOINC,3005432,20620-1,0.015119063
+labs,Glial nuclear type 1 Ab.IgG,titer,Glial nuclear type 1 IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence,LOINC,36660639,94355-5,0.015119063
+labs,Cells.CD19/100 cells,%,CD19 cells/100 cells in Specimen,LOINC,3025716,20593-0,0.015119063
+labs,Cells.CD16+CD56+,/MCL,CD16+CD56+ cells [#/volume] in Specimen,LOINC,3003048,26561-1,0.015119063
+labs,"t(9;22)(q34.1;q11)(ABL1,BCR) b2a2+b3a2 fusion transcript/control transcript (International Scale)",Unknown,"t(9;22)(q34.1;q11)(ABL1,BCR) b2a2+b3a2 fusion transcript/control transcript (International Scale) [# Ratio] in Blood or Tissue by Molecular genetics method",LOINC,40771901,69380-4,0.015119063
+labs,Neuronal nuclear type 2 Ab.IgG,titer,Neuronal nuclear type 2 IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence,LOINC,36659640,94357-1,0.015119063
+labs,Streptococcus pneumoniae 2 Ab.IgG,ug/mL,Deprecated Streptococcus pneumoniae 2 IgG Ab [Mass/volume] in Serum,LOINC,3042211,40964-9,0.015119063
+labs,Streptococcus pneumoniae 34 Ab.IgG,ug/mL,Deprecated Streptococcus pneumoniae 34 IgG Ab [Mass/volume] in Serum,LOINC,3038568,40967-2,0.015119063
+labs,Purkinje cell cytoplasmic type Tr Ab.IgG,titer,PCA-Tr IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence,LOINC,36660370,94362-1,0.015119063
+labs,Hepatitis B virus DNA,log IU/mL,Hepatitis B virus DNA [log units/volume] (viral load) in Serum or Plasma by NAA with probe detection,LOINC,3048505,48398-2,0.015119063
+labs,NUDT15 gene targeted mutation analysis,Unknown,NUDT15 gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal,LOINC,1002050,93194-9,0.015119063
+labs,Streptococcus pneumoniae 20 Ab.IgG,ug/mL,Deprecated Streptococcus pneumoniae 20 IgG Ab [Mass/volume] in Serum,LOINC,3042455,40965-6,0.015119063
+labs,CV2 Ab.IgG,titer,CV2 IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence,LOINC,36660555,94706-9,0.015119063
+labs,Rh,Unknown,Rh [Type] in Cord blood,LOINC,3015667,14906-2,0.015119063
+labs,Hepatitis B virus DNA,Unknown,Hepatitis B virus DNA [Presence] in Serum or Plasma by NAA with probe detection,LOINC,3022058,29610-3,0.015119063
+labs,Riboflavin,mcg/L,Riboflavin [Mass/volume] in Serum or Plasma,LOINC,3025198,24-Sep,0.015119063
+labs,Laboratory comment,Unknown,Laboratory comment [Text] in Report Narrative,LOINC,46235085,77202-0,0.015119063
+labs,Streptococcus pneumoniae 17 Ab.IgG,ug/mL,Deprecated Streptococcus pneumoniae 17 IgG Ab [Mass/volume] in Serum,LOINC,3039802,40963-1,0.015119063
+labs,Neuronal nuclear type 3 Ab.IgG,titer,Neuronal nuclear type 3 IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence,LOINC,36660108,94358-9,0.015119063
+labs,Neuronal nuclear type 1 Ab.IgG,titer,Neuronal nuclear type 1 IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence,LOINC,36660140,94356-3,0.015119063
+labs,Drugs identified,Unknown,Drugs identified in Blood by Screen method,LOINC,3034157,15401-3,0.015119063
+labs,Streptococcus pneumoniae 22 Ab.IgG,ug/mL,Deprecated Streptococcus pneumoniae 22 IgG Ab [Mass/volume] in Serum,LOINC,3040126,40966-4,0.015119063
+labs,Purkinje cell cytoplasmic type 2 Ab.IgG,titer,PCA-2 IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence,LOINC,36660576,94364-7,0.015119063
+labs,Streptococcus pneumoniae 43 Ab.IgG,ug/mL,Deprecated Streptococcus pneumoniae 43 IgG Ab [Mass/volume] in Serum,LOINC,3038664,40968-0,0.015119063
+labs,Streptococcus pneumoniae Danish serotype 33F Ab.IgG,ug/mL,Streptococcus pneumoniae Danish serotype 33F IgG Ab [Mass/volume] in Serum,LOINC,3038232,40969-8,0.015119063
+labs,Amphiphysin Ab.IgG,titer,Amphiphysin IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence,LOINC,36660072,94354-8,0.015119063
+labs,Coxsackievirus A16 Ab,TITER,Coxsackievirus A16 Ab [Titer] in Serum by Complement fixation,LOINC,3033683,Jun-88,0.012599219
+labs,Coxsackievirus B5 Ab,TITER,Coxsackievirus B5 Ab [Titer] in Serum by Complement fixation,LOINC,3027337,12-Aug,0.012599219
+labs,Coxsackievirus A9 Ab,TITER,Coxsackievirus A9 Ab [Titer] in Serum by Complement fixation,LOINC,3023795,Jun-57,0.012599219
+labs,Coxsackievirus A4 Ab,TITER,Coxsackievirus A4 Ab [Titer] in Serum by Complement fixation,LOINC,3018964,Mar-54,0.012599219
+labs,Coxsackievirus B2 Ab,TITER,Coxsackievirus B2 Ab [Titer] in Serum by Complement fixation,LOINC,3026754,5106-0,0.012599219
+labs,HLA-DRB5,Unknown,HLA-DRB5 [Type],LOINC,40762113,59020-8,0.012599219
+labs,Coagulation surface induced^post heparin neutralization,SEC,aPTT in Platelet poor plasma by Coagulation assay --post heparin neutralization,LOINC,3041232,52123-7,0.012599219
+labs,Cholesterol.in LDL,mg/dL,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay,LOINC,3009966,18262-6,0.012599219
+labs,6-Monoacetylmorphine,Unknown,6-Monoacetylmorphine (6-MAM) [Mass/volume] in Urine by Confirmatory method,LOINC,3013474,19593-3,0.012599219
+labs,Apolipoprotein A-I,mg/dL,Apolipoprotein A-I [Mass/volume] in Serum or Plasma,LOINC,3008364,1869-7,0.012599219
+labs,Coxsackievirus B3 Ab,TITER,Coxsackievirus B3 Ab [Titer] in Serum by Complement fixation,LOINC,3010068,08-Jun,0.012599219
+labs,Appearance,Unknown,Appearance of Specimen,LOINC,3046572,33511-7,0.012599219
+labs,"t(9;22)(q34.1;q11)(ABL1,BCR) fusion transcript/control transcript",Unknown,"t(9;22)(q34.1;q11)(ABL1,BCR) fusion transcript/control transcript [# Ratio] in Blood or Tissue by Molecular genetics method",LOINC,3049056,46434-7,0.012599219
+labs,oxyCODONE,Unknown,oxyCODONE [Presence] in Urine by Confirmatory method,LOINC,3005639,19643-6,0.012599219
+labs,Corynebacterium diphtheriae Ab.IgG,IU/mL,Corynebacterium diphtheriae IgG Ab [Units/volume] in Serum,LOINC,3028339,13227-4,0.012599219
+labs,Haemophilus influenzae B Ab.IgG,ug/mL,Haemophilus influenzae B IgG Ab [Mass/volume] in Serum,LOINC,3013281,11256-5,0.012599219
+labs,Coxsackievirus A2 Ab,TITER,Coxsackievirus A2 Ab [Titer] in Serum by Complement fixation,LOINC,3011126,May-53,0.012599219
+labs,Coxsackievirus A7 Ab,TITER,Coxsackievirus A7 Ab [Titer] in Serum by Complement fixation,LOINC,3022244,9755-0,0.012599219
+labs,Vanillylmandelate/Creatinine,mg/gCR,Vanillylmandelate/Creatinine [Mass Ratio] in 24 hour Urine,LOINC,3015126,30571-4,0.012599219
+labs,Zonisamide,ug/mL,Zonisamide [Mass/volume] in Serum or Plasma,LOINC,3010912,29620-2,0.012599219
+labs,Cyanide,ug/dL,Cyanide [Mass/volume] in Blood,LOINC,3024987,Jan-34,0.012599219
+labs,Mixed cellular casts,/LPF,Mixed cellular casts [#/area] in Urine by Computer assisted method,LOINC,3041695,53289-5,0.012599219
+labs,Phosphatidylserine Ab.IgA,U/mL,Phosphatidylserine IgA Ab [Units/volume] in Serum by Immunoassay,LOINC,3022368,32031-7,0.012599219
+labs,Prostate specific Ag,ng/mL,Prostate specific Ag [Mass/volume] in Serum or Plasma by Detection limit <= 0.01 ng/mL,LOINC,3034548,35741-8,0.012599219
+labs,Phosphatidylserine Ab.IgM,U/mL,Phosphatidylserine IgM Ab [Units/volume] in Serum by Immunoassay,LOINC,3026312,32033-3,0.012599219
+labs,Coxsackievirus A10 Ab,TITER,Coxsackievirus A10 Ab [Titer] in Serum by Complement fixation,LOINC,3024076,Jan-50,0.012599219
+labs,Tropheryma whippelii DNA,Unknown,Tropheryma whipplei DNA [Presence] in Blood by NAA with probe detection,LOINC,3034006,42602-3,0.012599219
+labs,5-Hydroxyindoleacetate & Creatinine,Unknown,5-Hydroxyindoleacetate and Creatinine [Interpretation] in Urine,LOINC,3047303,44909-0,0.012599219
+labs,Vascular endothelial growth factor,pg/mL,Vascular endothelial growth factor [Mass/volume] in Serum or Plasma,LOINC,3031767,34694-0,0.012599219
+labs,Phosphatidylserine Ab.IgG,U/mL,Phosphatidylserine IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,3025466,32032-5,0.012599219
+labs,5-Hydroxyindoleacetate/Creatinine,mg/gCR,5-Hydroxyindoleacetate/Creatinine [Mass Ratio] in 24 hour Urine,LOINC,3043562,44288-9,0.012599219
+labs,5-Hydroxyindoleacetate,mg/d,5-Hydroxyindoleacetate [Mass/time] in 24 hour Urine,LOINC,3005148,1695-6,0.012599219
+labs,5-Hydroxyindoleacetate,mg/L,5-Hydroxyindoleacetate [Mass/volume] in 24 hour Urine,LOINC,3023028,31203-3,0.012599219
+labs,Clostridium tetani Ab.IgG,IU/mL,Clostridium tetani IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,3023322,Jul-67,0.012599219
+labs,Fat/Solids.total,% fat,Fat/Total solids [Mass Ratio] in Stool,LOINC,3035473,35745-9,0.012599219
+labs,Benzoylecgonine,Unknown,Benzoylecgonine [Presence] in Urine by Confirmatory method,LOINC,3003977,14315-6,0.012599219
+labs,Coxsackievirus B4 Ab,TITER,Coxsackievirus B4 Ab [Titer] in Serum by Complement fixation,LOINC,3026292,10-Feb,0.012599219
+labs,Coxsackievirus B6 Ab,TITER,Coxsackievirus B6 Ab [Titer] in Serum by Complement fixation,LOINC,3010738,14-Apr,0.012599219
+labs,Coxsackievirus B1 Ab,TITER,Coxsackievirus B1 Ab [Titer] in Serum by Complement fixation,LOINC,3025613,04-May,0.012599219
+labs,Anserine,umol/L,Anserine [Moles/volume] in Serum or Plasma,LOINC,3025045,26599-1,0.010079375
+labs,Everolimus,ng/mL,Everolimus [Mass/volume] in Blood,LOINC,3030703,50544-6,0.010079375
+labs,Adenosine deaminase,U/L,Adenosine deaminase [Enzymatic activity/volume] in Pericardial fluid,LOINC,3029213,49760-2,0.010079375
+labs,Glycine,umol/L,Glycine [Moles/volume] in Serum or Plasma,LOINC,3008575,20644-1,0.010079375
+labs,Asparagine,umol/L,Asparagine [Moles/volume] in Serum or Plasma,LOINC,3009010,20638-3,0.010079375
+labs,Arginine,umol/L,Arginine [Moles/volume] in Serum or Plasma,LOINC,3014399,20637-5,0.010079375
+labs,Alanine,umol/L,Alanine [Moles/volume] in Serum or Plasma,LOINC,3009172,20636-7,0.010079375
+labs,Serotonin,ng/mL,Serotonin [Mass/volume] in Serum,LOINC,3033625,27057-9,0.010079375
+labs,Aspergillus niger Ab.IgE,KU/L,Aspergillus niger IgE Ab [Units/volume] in Serum,LOINC,3016256,30-Apr,0.010079375
+labs,Endomysium Ab.IgA,Unknown,Endomysium IgA Ab [Titer] in Serum by Immunofluorescence,LOINC,3019583,27038-9,0.010079375
+labs,Phenylalanine,umol/L,Phenylalanine [Moles/volume] in Serum or Plasma,LOINC,3022813,14875-9,0.010079375
+labs,Diagnosis,Unknown,Diagnosis Narrative,LOINC,3021328,29548-5,0.010079375
+labs,Islet cell 512 Ab,U/mL,Islet cell 512 Ab [Units/volume] in Serum,LOINC,3016273,31209-0,0.010079375
+labs,Acetone,Unknown,Acetone [Mass/volume] in Serum or Plasma,LOINC,3019531,Jan-68,0.010079375
+labs,Glutamate,umol/L,Glutamate [Moles/volume] in Serum or Plasma,LOINC,3011793,20642-5,0.010079375
+labs,Beta alanine,umol/L,Beta alanine [Moles/volume] in Serum or Plasma,LOINC,3028719,26604-9,0.010079375
+labs,Gamma aminobutyrate,umol/L,Gamma aminobutyrate [Moles/volume] in Serum or Plasma,LOINC,3014039,26609-8,0.010079375
+labs,Tyrosine,umol/L,Tyrosine [Moles/volume] in Serum or Plasma,LOINC,3004955,20660-7,0.010079375
+labs,Argininosuccinate,umol/L,Argininosuccinate [Moles/volume] in Serum or Plasma,LOINC,3012837,32227-1,0.010079375
+labs,Cystathionine,umol/L,Cystathionine [Moles/volume] in Serum or Plasma,LOINC,3011446,26607-2,0.010079375
+labs,Beta aminoisobutyrate,umol/L,Beta aminoisobutyrate [Moles/volume] in Serum or Plasma,LOINC,3024359,26605-6,0.010079375
+labs,Phosphate,G/TOT VOL,Phosphate [Mass/time] in 24 hour Urine,LOINC,3012636,Jul-79,0.010079375
+labs,Threonine,umol/L,Threonine [Moles/volume] in Serum or Plasma,LOINC,3024821,20658-1,0.010079375
+labs,Alpha aminobutyrate,umol/L,Alpha aminobutyrate [Moles/volume] in Serum or Plasma,LOINC,3036809,20634-2,0.010079375
+labs,Sarcosine,umol/L,Sarcosine [Moles/volume] in Serum or Plasma,LOINC,3011170,26613-0,0.010079375
+labs,Tryptophan,umol/L,Tryptophan [Moles/volume] in Serum or Plasma,LOINC,3024802,20659-9,0.010079375
+labs,Isoleucine,umol/L,Isoleucine [Moles/volume] in Serum or Plasma,LOINC,3004254,20648-2,0.010079375
+labs,Glutamine,umol/L,Glutamine [Moles/volume] in Serum or Plasma,LOINC,3015049,20643-3,0.010079375
+labs,Homocitrulline,umol/L,Homocitrulline [Moles/volume] in Serum or Plasma,LOINC,40758997,55876-7,0.010079375
+labs,Ethanolamine,umol/L,Ethanolamine [Moles/volume] in Serum or Plasma,LOINC,3011419,26608-0,0.010079375
+labs,Alpha aminoadipate,umol/L,Alpha aminoadipate [Moles/volume] in Serum or Plasma,LOINC,3007134,26600-7,0.010079375
+labs,Serine,umol/L,Serine [Moles/volume] in Serum or Plasma,LOINC,3006762,20656-5,0.010079375
+labs,Echovirus 7 Ab,Unknown,Echovirus 7 Ab [Titer] in Serum by Complement fixation,LOINC,3019072,22-Sep,0.010079375
+labs,Aspartate,umol/L,Aspartate [Moles/volume] in Serum or Plasma,LOINC,3015546,20639-1,0.010079375
+labs,Homocystine,umol/L,Homocystine [Moles/volume] in Serum or Plasma,LOINC,3016728,20646-6,0.010079375
+labs,Lysine,umol/L,Lysine [Moles/volume] in Serum or Plasma,LOINC,3008377,20650-8,0.010079375
+labs,Ornithine,umol/L,Ornithine [Moles/volume] in Serum or Plasma,LOINC,3017330,20652-4,0.010079375
+labs,Alloisoleucine,umol/L,Alloisoleucine [Moles/volume] in Serum or Plasma,LOINC,3019660,22670-4,0.010079375
+labs,Methionine,umol/L,Methionine [Moles/volume] in Serum or Plasma,LOINC,3017085,20651-6,0.010079375
+labs,Histidine,umol/L,Histidine [Moles/volume] in Serum or Plasma,LOINC,3016115,20645-8,0.010079375
+labs,Citrulline,umol/L,Citrulline [Moles/volume] in Serum or Plasma,LOINC,3037684,20640-9,0.010079375
+labs,Serotonin release 100 U/mL heparin.porcine,%,Deprecated Serotonin release 100 U/mL heparin.porcine [Units/volume] in Serum,LOINC,3031034,50729-3,0.010079375
+labs,Latex Ab.IgE,KU/L,Latex IgE Ab [Units/volume] in Serum,LOINC,3019406,6158-0,0.010079375
+labs,Echovirus 4 Ab,Unknown,Echovirus 4 Ab [Titer] in Serum by Complement fixation,LOINC,3036911,Mar-43,0.010079375
+labs,Echovirus 30 Ab,Unknown,Echovirus 30 Ab [Titer] in Serum by Complement fixation,LOINC,3001460,May-92,0.010079375
+labs,Salmonella sp Ab,Unknown,Salmonella sp Ab [Presence] in Serum,LOINC,3027753,17562-0,0.010079375
+labs,Protein pattern,Unknown,Protein Fractions [Interpretation] in Cerebral spinal fluid by Electrophoresis Narrative,LOINC,3049204,49295-9,0.010079375
+labs,Bleeding time,MINS,Bleeding time by Ivy method,LOINC,3007550,Sep-79,0.010079375
+labs,Blastomyces dermatitidis Ab,Unknown,Blastomyces dermatitidis Ab [Presence] in Serum by Immune diffusion (ID),LOINC,3034507,Mar-58,0.010079375
+labs,Cystine,umol/L,Cystine [Moles/volume] in Serum or Plasma,LOINC,3005335,22672-0,0.010079375
+labs,Microscopic observation,Unknown,Microscopic observation [Identifier] in Blood by Giemsa stain,LOINC,3039152,51714-4,0.010079375
+labs,Homovanillate/Creatinine,mg/gCR,Homovanillate/Creatinine [Mass Ratio] in 24 hour Urine,LOINC,3025862,13760-4,0.010079375
+labs,Echovirus 11 Ab,Unknown,Echovirus 11 Ab [Titer] in Serum by Complement fixation,LOINC,3014270,08-Feb,0.010079375
+labs,Amino acid pattern,Unknown,Amino acid pattern [Interpretation] in Serum or Plasma,LOINC,3038080,13500-4,0.010079375
+labs,Taurine,umol/L,Taurine [Moles/volume] in Serum or Plasma,LOINC,3025234,20657-3,0.010079375
+labs,Alpha 2 globulin/Protein.total,%,Alpha 2 globulin/Protein.total in Cerebral spinal fluid by Electrophoresis,LOINC,3006757,13975-8,0.010079375
+labs,Hydroxylysine,umol/L,Hydroxylysine [Moles/volume] in Serum or Plasma,LOINC,3024181,26610-6,0.010079375
+labs,Lymphocyte proliferation panel,Unknown,Lymphocyte proliferation panel - Blood,LOINC,40762156,59063-8,0.010079375
+labs,Homovanillate,mg/L,Homovanillate [Mass/volume] in 24 hour Urine,LOINC,3039719,53595-5,0.010079375
+labs,Albumin/Globulin,%,Albumin/Globulin [Mass Ratio] in Cerebral spinal fluid by Electrophoresis,LOINC,40771471,68930-7,0.010079375
+labs,Taenia solium larva Ab.IgG,Unknown,Taenia solium larva IgG Ab [Presence] in Serum by Immunoblot,LOINC,3020805,Mar-74,0.010079375
+labs,Homovanillate,mg/d,Homovanillate [Mass/time] in Urine,LOINC,3004822,12715-9,0.010079375
+labs,Beta 1 globulin/Protein.total,%,Beta 1 globulin/Protein.total in Cerebral spinal fluid by Electrophoresis,LOINC,3029437,32728-8,0.010079375
+labs,Proline,umol/L,Proline [Moles/volume] in Serum or Plasma,LOINC,3007854,20655-7,0.010079375
+labs,Gamma globulin/Protein.total,%,Gamma globulin/Protein.total in Cerebral spinal fluid by Electrophoresis,LOINC,3024580,13977-4,0.010079375
+labs,Echovirus 9 Ab,Unknown,Echovirus 9 Ab [Titer] in Serum by Complement fixation,LOINC,3015037,Apr-47,0.010079375
+labs,Alpha 1 globulin/Protein.total,%,Alpha 1 globulin/Protein.total in Cerebral spinal fluid by Electrophoresis,LOINC,3018149,13972-5,0.010079375
+labs,CALR gene exon 9 targeted mutation analysis,Unknown,CALR gene exon 9 mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal,LOINC,46237016,77174-1,0.010079375
+labs,Platelet factor 4 heparin complex induced Ab,OD,Heparin induced platelet Ab [Units/volume] in Serum,LOINC,3043870,45155-9,0.010079375
+labs,Hydroxyproline,umol/L,Hydroxyproline [Moles/volume] in Serum or Plasma,LOINC,3017264,20647-4,0.010079375
+labs,Serotonin release 0.1 U/mL heparin.porcine,%,Deprecated Serotonin release 0.1 U/mL heparin.porcine [Units/volume] in Serum,LOINC,3029580,50730-1,0.010079375
+labs,Valine,umol/L,Valine [Moles/volume] in Serum or Plasma,LOINC,3007430,20661-5,0.010079375
+labs,Leucine,umol/L,Leucine [Moles/volume] in Serum or Plasma,LOINC,3006889,20649-0,0.010079375
+labs,Calcitonin,pg/mL,Calcitonin [Mass/volume] in Serum or Plasma,LOINC,3010989,Jul-92,0.010079375
+labs,Tetradecenoylcarnitine (C14:1),nmol/mL,Tetradecenoylcarnitine (C14:1) [Moles/volume] in Serum or Plasma,LOINC,3005018,30566-4,0.007559531
+labs,Decenoylcarnitine (C10:1),nmol/mL,Decenoylcarnitine (C10:1) [Moles/volume] in Serum or Plasma,LOINC,3017721,30328-9,0.007559531
+labs,Glutarylcarnitine (C5-DC),nmol/mL,Glutarylcarnitine (C5-DC) [Moles/volume] in Serum or Plasma,LOINC,3028150,30349-5,0.007559531
+labs,Dodecenoylcarnitine (C12:1),nmol/mL,Dodecenoylcarnitine (C12:1) [Moles/volume] in Serum or Plasma,LOINC,3012598,30332-1,0.007559531
+labs,Decanoylcarnitine (C10),nmol/mL,Decanoylcarnitine (C10) [Moles/volume] in Serum or Plasma,LOINC,3017126,30327-1,0.007559531
+labs,3-Hydroxypalmitoleylcarnitine (C16:1-OH),nmol/mL,3-Hydroxypalmitoleylcarnitine (C16:1-OH) [Moles/volume] in Serum or Plasma,LOINC,3001111,30235-6,0.007559531
+labs,Asialoganglioside GM1 Ab.IgM,Unknown,Asialoganglioside GM1 IgM Ab [Titer] in Serum by Immunoassay,LOINC,3047034,43179-1,0.007559531
+labs,Adipoylcarnitine (C6-DC),nmol/mL,Adipoylcarnitine (C6-DC) [Moles/volume] in Serum or Plasma,LOINC,3040650,39002-1,0.007559531
+labs,Stearoylcarnitine (C18),nmol/mL,Stearoylcarnitine (C18) [Moles/volume] in Serum or Plasma,LOINC,3013347,30560-7,0.007559531
+labs,Formiminoglutamate,nmol/mL,Formiminoglutamate [Moles/volume] in Serum or Plasma,LOINC,21491293,79628-4,0.007559531
+labs,Octenoylcarnitine (C8:1),nmol/mL,Octenoylcarnitine (C8:1) [Moles/volume] in Serum or Plasma,LOINC,3002299,30541-7,0.007559531
+labs,3-Hydroxytetradecenoylcarnitine (C14:1-OH),nmol/mL,3-Hydroxytetradecenoylcarnitine (C14:1-OH) [Moles/volume] in Serum or Plasma,LOINC,3018039,30190-3,0.007559531
+labs,Tetradecadienoylcarnitine (C14:2),nmol/mL,Tetradecadienoylcarnitine (C14:2) [Moles/volume] in Serum or Plasma,LOINC,3018590,30564-9,0.007559531
+labs,3-Hydroxylinoleoylcarnitine (C18:2-OH),nmol/mL,3-Hydroxylinoleoylcarnitine (C18:2-OH) [Moles/volume] in Serum or Plasma,LOINC,3036343,30237-2,0.007559531
+labs,Tetradecanoylcarnitine (C14),nmol/mL,Tetradecanoylcarnitine (C14) [Moles/volume] in Serum or Plasma,LOINC,3014524,30565-6,0.007559531
+labs,Benzoylcarnitine (BzCn),nmol/mL,Benzoylcarnitine (BzCn) [Moles/volume] in Serum or Plasma,LOINC,3038254,39615-0,0.007559531
+labs,3-Hydroxyoleoylcarnitine (C18:1-OH),nmol/mL,3-Hydroxyoleoylcarnitine (C18:1-OH) [Moles/volume] in Serum or Plasma,LOINC,3003209,30312-3,0.007559531
+labs,Acetylcarnitine (C2),nmol/mL,Acetylcarnitine (C2) [Moles/volume] in Serum or Plasma,LOINC,3018524,30191-1,0.007559531
+labs,Suberylcarnitine (C8-DC),nmol/mL,Suberylcarnitine (C8-DC) [Moles/volume] in Serum or Plasma,LOINC,3041014,39014-6,0.007559531
+labs,Isobutyrylcarnitine (C4),nmol/mL,Isobutyrylcarnitine (C4) [Moles/volume] in Serum or Plasma,LOINC,3044072,43243-5,0.007559531
+labs,Palmitoylcarnitine (C16),nmol/mL,Palmitoylcarnitine (C16) [Moles/volume] in Serum or Plasma,LOINC,3024674,30356-0,0.007559531
+labs,Methylmalonylcarnitine+Succinylcarnitine (C4-DC),nmol/mL,Methylmalonylcarnitine+Succinylcarnitine (C4-DC) [Moles/volume] in Serum or Plasma,LOINC,3031935,51415-8,0.007559531
+labs,Estrogen,pg/mL,Estrogen [Mass/volume] in Serum or Plasma by calculation,LOINC,3042222,53765-4,0.007559531
+labs,Dicarboxydodecanoylcarnitine (C12-DC),nmol/mL,Dicarboxydodecanoylcarnitine (C12-DC) [Moles/volume] in Serum or Plasma,LOINC,40758976,55855-1,0.007559531
+labs,Lead,ug/d,Lead [Mass/time] in 24 hour Urine,LOINC,3014421,5677-0,0.007559531
+labs,Bordetella parapertussis DNA,Unknown,Bordetella parapertussis DNA [Presence] in Specimen by NAA with probe detection,LOINC,3037875,29723-4,0.007559531
+labs,Arsenic,ug/L,Arsenic [Mass/volume] in Blood,LOINC,3000138,5583-0,0.007559531
+labs,Zinc/Creatinine,ug/g CRT,Zinc/Creatinine [Mass Ratio] in 24 hour Urine,LOINC,3022610,27201-3,0.007559531
+labs,Plasminogen actual/Normal,%,Plasminogen actual/normal in Platelet poor plasma by Chromogenic method,LOINC,3026834,28660-9,0.007559531
+labs,Arsenic/Creatinine,ug/g CRT,Arsenic/Creatinine [Mass Ratio] in 24 hour Urine,LOINC,3006508,13824-8,0.007559531
+labs,Coagulation factor XII activity actual/Normal,%,Coagulation factor XII activity actual/normal in Platelet poor plasma by Coagulation assay,LOINC,3002348,Jun-32,0.007559531
+labs,Herpes virus 8 DNA,cpy/mL,Herpes virus 8 DNA [#/volume] (viral load) in Serum or Plasma by NAA with probe detection,LOINC,3032676,49404-7,0.007559531
+labs,Cadmium,ug/d,Cadmium [Mass/time] in 24 hour Urine,LOINC,3008513,12-Jul,0.007559531
+labs,Mercury,ug/L,Mercury [Mass/volume] in 24 hour Urine,LOINC,3007953,21383-5,0.007559531
+labs,Complement C1 esterase inhibitor.functional/Complement C1 esterase inhibitor.total,%,Complement C1 esterase inhibitor.functional/Complement C1 esterase inhibitor.total in Serum or Plasma,LOINC,3023659,10634-4,0.007559531
+labs,Zinc,ug/dL,Zinc [Mass/volume] in 24 hour Urine,LOINC,3016891,21610-1,0.007559531
+labs,Mercury/Creatinine,ug/g CRT,Mercury/Creatinine [Mass Ratio] in 24 hour Urine,LOINC,3015290,26688-2,0.007559531
+labs,Arsenic,ug/L,Arsenic [Mass/volume] in 24 hour Urine,LOINC,3017872,21074-0,0.007559531
+labs,Lead/Creatinine,ug/g CRT,Lead/Creatinine [Mass Ratio] in 24 hour Urine,LOINC,3002238,29943-8,0.007559531
+labs,Glucose,MG/DL,Glucose [Mass/volume] in Urine,LOINC,3020399,Jul-50,0.007559531
+labs,Zinc,ug/d,Zinc [Mass/time] in 24 hour Urine,LOINC,3018478,Mar-65,0.007559531
+labs,NPM1 gene targeted mutation analysis,Unknown,NPM1 gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal,LOINC,40757579,54448-6,0.007559531
+labs,Arsenic,ug/d,Arsenic [Mass/time] in 24 hour Urine,LOINC,3033341,Jan-87,0.007559531
+labs,Estradiol,pg/mL,Estradiol (E2) [Mass/volume] in Serum or Plasma by High sensitivity method,LOINC,3035801,35384-7,0.007559531
+labs,Bordetella pertussis DNA,Unknown,Bordetella pertussis DNA [Presence] in Specimen by NAA with probe detection,LOINC,3012477,23826-1,0.007559531
+labs,Factor inhibitor XXX,Unknown,Factor inhibitor XXX [Units/volume] in Platelet poor plasma by Coagulation assay,LOINC,3016121,13591-3,0.007559531
+labs,Lead,ug/L,Lead [Mass/volume] in 24 hour Urine,LOINC,3019434,20625-0,0.007559531
+labs,Cadmium,ug/L,Cadmium [Mass/volume] in 24 hour Urine,LOINC,3020675,21130-0,0.007559531
+labs,Ganglioside GM1 Ab.IgM,Unknown,Ganglioside GM1 IgM Ab [Titer] in Serum by Immunoassay,LOINC,3043325,43241-9,0.007559531
+labs,Hexenoylcarnitine (C6:1),nmol/mL,Hexenoylcarnitine (C6:1) [Moles/volume] in Serum or Plasma,LOINC,44817213,74540-6,0.007559531
+labs,3-Hydroxydodecenoylcarnitine (C12:1-OH),nmol/mL,3-Hydroxydodecenoylcarnitine (C12:1-OH) [Moles/volume] in Serum or Plasma,LOINC,40762286,59195-8,0.007559531
+labs,Path report.final diagnosis,Unknown,Pathology report final diagnosis,LOINC,3045178,34574-4,0.007559531
+labs,3-Hydroxydodecanoylcarnitine (C12-OH),nmol/mL,3-Hydroxydodecanoylcarnitine (C12-OH) [Moles/volume] in Serum or Plasma,LOINC,3003809,30233-1,0.007559531
+labs,pH,Unknown,pH of Body fluid by Test strip,LOINC,3030830,50896-0,0.007559531
+labs,pH,Unknown,pH of Body fluid,LOINC,3018672,Feb-48,0.007559531
+labs,3-Hydroxybutyrylcarnitine (C4-OH),nmol/mL,3-Hydroxybutyrylcarnitine (C4-OH) [Moles/volume] in Serum or Plasma,LOINC,3041597,39000-5,0.007559531
+labs,Cadmium/Creatinine,ug/g CRT,Cadmium/Creatinine [Mass Ratio] in 24 hour Urine,LOINC,3027481,13828-9,0.007559531
+labs,Voriconazole,ug/mL,Voriconazole [Mass/volume] in Serum or Plasma,LOINC,3050218,38370-3,0.007559531
+labs,Rubella virus Ab.IgM,AU/mL,Rubella virus IgM Ab [Units/volume] in Serum by Immunoassay,LOINC,3011172,May-35,0.007559531
+labs,Saccharomyces cerevisiae Ab.IgA,Units,Baker's yeast IgA Ab [Units/volume] in Serum by Immunoassay,LOINC,3052881,47320-7,0.007559531
+labs,Saccharomyces cerevisiae Ab.IgG,Units,Baker's yeast IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,3049738,47321-5,0.007559531
+labs,Parietal cell Ab,Unknown,Parietal cell Ab [Presence] in Serum by Immunofluorescence,LOINC,3027436,26969-6,0.007559531
+labs,Measles virus Ab.IgG,AU/mL,Measles virus IgG Ab [Presence] in Serum by Immunoassay,LOINC,3032029,35275-7,0.007559531
+labs,Mercury,ug/d,Mercury [Mass/time] in 24 hour Urine,LOINC,3001417,Jun-93,0.007559531
+labs,Urease,Unknown,Urease [Presence] in Tissue,LOINC,3046322,32637-1,0.007559531
+labs,Estrone,pg/mL,Estrone (E1) [Mass/volume] in Serum or Plasma,LOINC,3023640,Feb-58,0.007559531
+labs,Decadienoylcarnitine (C10:2),nmol/mL,Decadienoylcarnitine (C10:2) [Moles/volume] in Serum or Plasma,LOINC,3042556,53471-9,0.007559531
+labs,LDL 6,mg/dL,LDL 6 [Mass/volume] in Serum or Plasma,LOINC,3050458,49026-8,0.007559531
+labs,Amikacin^trough,mcg/mL,Amikacin [Mass/volume] in Serum or Plasma --trough,LOINC,3037123,21-Jul,0.007559531
+labs,Glucose^1H post dose glucose,MG/DL,Glucose [Mass/volume] in Serum or Plasma --1 hour post dose glucose,LOINC,3010300,20438-8,0.007559531
+labs,Adalimumab,mcg/mL,Adalimumab [Mass/volume] in Serum or Plasma,LOINC,44786774,74117-3,0.007559531
+labs,Cryoglobulin type,Unknown,Cryoglobulin type [Identifier] in Serum by Immunofixation,LOINC,3048538,48638-1,0.007559531
+labs,Porphyrin fractions,Unknown,Porphyrin fractions [Interpretation] in 24 hour Urine Narrative,LOINC,3053005,49292-6,0.007559531
+labs,Mercury,ug/L,Mercury [Mass/volume] in Blood,LOINC,3016450,Mar-85,0.007559531
+labs,Lead,MCG/DL,Lead [Mass/volume] in Blood,LOINC,3020331,Mar-71,0.007559531
+labs,Uroporphyrin/Creatinine,umol/mol CRT,Uroporphyrin/Creatinine [Molar ratio] in 24 hour Urine,LOINC,3009930,32043-2,0.007559531
+labs,Porphobilinogen,umol/d,Porphobilinogen [Moles/time] in 24 hour Urine,LOINC,3020207,14882-5,0.007559531
+labs,Coproporphyrin 1/Creatinine,umol/mol CRT,Coproporphyrin 1/Creatinine [Molar ratio] in Urine,LOINC,3044152,45313-4,0.007559531
+labs,Porphobilinogen,umol/L,Porphobilinogen [Moles/volume] in Urine,LOINC,3002395,11-Aug,0.007559531
+labs,Heptacarboxylate/Creatinine,umol/mol CRT,Heptacarboxylate/Creatinine [Molar ratio] in Urine,LOINC,3037350,38175-6,0.007559531
+labs,Chlamydia trachomatis Ab.IgA,TITER,Chlamydia trachomatis IgA Ab [Titer] in Serum by Immunofluorescence,LOINC,3037215,18-Jul,0.007559531
+labs,Coproporphyrin 3/Creatinine,umol/mol CRT,Coproporphyrin 3/Creatinine [Molar ratio] in Urine,LOINC,3042784,45315-9,0.007559531
+labs,LDL 2,mg/dL,LDL 2 [Mass/volume] in Serum or Plasma,LOINC,3052862,46984-1,0.007559531
+labs,LDL 7,mg/dL,LDL 7 [Mass/volume] in Serum or Plasma,LOINC,3049222,49027-6,0.007559531
+labs,Lipoprotein midband A,mg/dL,Lipoprotein midband A [Mass/volume] in Serum or Plasma,LOINC,3029660,51002-4,0.007559531
+labs,LDL 5,mg/dL,LDL 5 [Mass/volume] in Serum or Plasma,LOINC,40761044,57938-3,0.007559531
+labs,Lipoprotein midband C,mg/dL,Lipoprotein midband C [Mass/volume] in Serum or Plasma,LOINC,3029383,51004-0,0.007559531
+labs,Lipoprotein.beta.subparticle,Unknown,Lipoprotein.beta.subparticle [Type] in Serum or Plasma,LOINC,3036406,35505-7,0.007559531
+labs,LDL 3,mg/dL,LDL 3 [Mass/volume] in Serum or Plasma,LOINC,3051288,46985-8,0.007559531
+labs,LDL 1,mg/dL,LDL 1 [Mass/volume] in Serum or Plasma,LOINC,3045381,43392-0,0.007559531
+labs,Adalimumab Ab,AU/mL,Adalimumab Ab [Mass/volume] in Serum or Plasma by Immunoassay,LOINC,36304805,86895-0,0.007559531
+labs,Chlamydophila psittaci Ab.IgA,TITER,Chlamydophila psittaci IgA Ab [Titer] in Serum by Immunofluorescence,LOINC,3002042,15-Mar,0.007559531
+labs,Cholesterol.in LDL,mg/dL,Cholesterol in LDL [Mass/volume] in Serum or Plasma,LOINC,3028437,Jan-89,0.007559531
+labs,Histoplasma capsulatum Ab,Unknown,Histoplasma capsulatum Ab [Titer] in Serum by Immune diffusion (ID),LOINC,3022804,27266-6,0.007559531
+labs,cloZAPine,ng/mL,cloZAPine [Mass/volume] in Serum or Plasma,LOINC,3013751,May-96,0.007559531
+labs,Octanoylcarnitine (C8),nmol/mL,Octanoylcarnitine (C8) [Moles/volume] in Serum or Plasma,LOINC,3003480,30540-9,0.007559531
+labs,Dengue virus Ab.IgM,IV,Dengue virus IgM Ab [Units/volume] in Serum by Immunoassay,LOINC,3010414,23992-1,0.007559531
+labs,Dengue virus Ab.IgG,IV,Dengue virus IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,3012988,23991-3,0.007559531
+labs,Pyruvate kinase,U/g Hb,Pyruvate kinase [Enzymatic activity/mass] in Red Blood Cells,LOINC,3004665,32552-2,0.007559531
+labs,Tissue transglutaminase Ab.IgA,CU,Tissue transglutaminase IgA Ab [Units/volume] in Serum by Immunoassay,LOINC,3046538,46128-5,0.007559531
+labs,Auer rods,Unknown,Auer rods [Presence] in Blood by Light microscopy,LOINC,3003424,11281-3,0.007559531
+labs,BK virus DNA,LOG COPIES/ML,BK virus DNA [#/volume] (viral load) in Urine by NAA with probe detection,LOINC,3034629,41480-5,0.007559531
+labs,Coxiella burnetii phase 2 Ab.IgG,Unknown,Coxiella burnetii phase 2 IgG Ab [Titer] in Serum by Immunofluorescence,LOINC,3031479,34717-9,0.007559531
+labs,Histoplasma capsulatum yeast phase Ab,Unknown,Histoplasma capsulatum yeast phase Ab [Titer] in Serum by Complement fixation,LOINC,3016375,20574-0,0.007559531
+labs,Amylase.pancreatic,U/L,Amylase.pancreatic [Enzymatic activity/volume] in Serum or Plasma,LOINC,3016417,1805-1,0.007559531
+labs,Chlamydophila psittaci Ab.IgG,TITER,Chlamydophila psittaci IgG Ab [Titer] in Serum by Immunofluorescence,LOINC,3020962,16-Jan,0.007559531
+labs,Amylase.salivary,U/L,Amylase.salivary [Enzymatic activity/volume] in Serum or Plasma,LOINC,3005685,1809-3,0.007559531
+labs,Chlamydophila pneumoniae Ab.IgM,TITER,Chlamydophila pneumoniae IgM Ab [Titer] in Serum by Immunofluorescence,LOINC,3002303,14-Jun,0.007559531
+labs,Histoplasma capsulatum mycelial phase Ab,Unknown,Histoplasma capsulatum mycelial phase Ab [Titer] in Serum by Complement fixation,LOINC,3016133,20573-2,0.007559531
+labs,Chlamydia trachomatis Ab.IgG,TITER,Chlamydia trachomatis IgG Ab [Titer] in Serum by Immunofluorescence,LOINC,3037741,19-May,0.007559531
+labs,Chlamydophila psittaci Ab.IgM,TITER,Chlamydophila psittaci IgM Ab [Titer] in Serum by Immunofluorescence,LOINC,3036616,17-Sep,0.007559531
+labs,Chlamydophila pneumoniae Ab.IgA,TITER,Chlamydophila pneumoniae IgA Ab [Titer] in Serum by Immunofluorescence,LOINC,3004575,6912-0,0.007559531
+labs,Chlamydophila pneumoniae Ab.IgG,TITER,Chlamydophila pneumoniae IgG Ab [Titer] in Serum by Immunofluorescence,LOINC,3003471,13-Aug,0.007559531
+labs,Chlamydia trachomatis Ab.IgM,TITER,Chlamydia trachomatis IgM Ab [Titer] in Serum by Immunofluorescence,LOINC,3002731,20-Mar,0.007559531
+labs,Lipoprotein midband B,mg/dL,Lipoprotein midband B [Mass/volume] in Serum or Plasma,LOINC,3029060,51003-2,0.007559531
+labs,LDL 4,mg/dL,LDL 4 [Mass/volume] in Serum or Plasma,LOINC,3046493,43393-8,0.007559531
+labs,Annotation comment,Unknown,Annotation comment [Interpretation] Narrative,LOINC,3049878,48767-8,0.007559531
+labs,Malonylcarnitine (C3-DC),nmol/mL,Malonylcarnitine (C3-DC) [Moles/volume] in Serum or Plasma,LOINC,40759061,55940-1,0.007559531
+labs,Carnitine esters/Carnitine.free (C0),Unknown,Carnitine esters/Carnitine.free (C0) [Molar ratio] in Serum or Plasma,LOINC,3038974,40869-0,0.007559531
+labs,Heptanoylcarnitine (C7),nmol/mL,Heptanoylcarnitine (C7) [Moles/volume] in Serum or Plasma,LOINC,40758992,55871-8,0.007559531
+labs,Pelger Huet cells,Unknown,Pelger Huet cells [Presence] in Blood by Light microscopy,LOINC,3020804,18311-1,0.007559531
+labs,Tiglylcarnitine (C5:1),nmol/mL,Tiglylcarnitine (C5:1) [Moles/volume] in Serum or Plasma,LOINC,3029832,51416-6,0.007559531
+labs,Ganglioside GD1b Ab.IgG,Unknown,Ganglioside GD1b IgG Ab [Titer] in Serum,LOINC,3008618,13662-2,0.007559531
+labs,3-Hydroxytetradecanoylcarnitine (C14-OH),nmol/mL,3-Hydroxytetradecanoylcarnitine (C14-OH) [Moles/volume] in Serum or Plasma,LOINC,3036864,30238-0,0.007559531
+labs,Carnitine,umol/L,Carnitine [Moles/volume] in Serum or Plasma,LOINC,3033882,14288-5,0.007559531
+labs,Ganglioside GD1b Ab.IgM,Unknown,Ganglioside GD1b IgM Ab [Titer] in Serum,LOINC,3015334,13661-4,0.007559531
+labs,3-Hydroxydecenoylcarnitine (C10:1-OH),nmol/mL,3-Hydroxydecenoylcarnitine (C10:1-OH) [Moles/volume] in Serum or Plasma,LOINC,42528623,82478-9,0.007559531
+labs,Carnitine.free (C0),umol/L,Carnitine free (C0) [Moles/volume] in Serum or Plasma,LOINC,3000722,14286-9,0.007559531
+labs,Hexanoylcarnitine (C6),nmol/mL,Hexanoylcarnitine (C6) [Moles/volume] in Serum or Plasma,LOINC,3011508,30358-6,0.007559531
+labs,Acylcarnitine,umol/L,Acylcarnitine [Moles/volume] in Serum or Plasma,LOINC,3005050,14282-8,0.007559531
+labs,Oleoylcarnitine (C18:1),nmol/mL,Oleoylcarnitine (C18:1) [Moles/volume] in Serum or Plasma,LOINC,3002051,30542-5,0.007559531
+labs,3-Hydroxypalmitoylcarnitine (C16-OH),nmol/mL,3-Hydroxypalmitoylcarnitine (C16-OH) [Moles/volume] in Serum or Plasma,LOINC,3002212,30234-9,0.007559531
+labs,Acrylylcarnitine (C3:1),nmol/mL,Acrylylcarnitine (C3:1) [Moles/volume] in Serum or Plasma,LOINC,3047112,43235-1,0.007559531
+labs,Dodecanoylcarnitine (C12),nmol/mL,Dodecanoylcarnitine (C12) [Moles/volume] in Serum or Plasma,LOINC,3013947,30331-3,0.007559531
+labs,Propionylcarnitine (C3),nmol/mL,Propionylcarnitine (C3) [Moles/volume] in Serum or Plasma,LOINC,3038126,30551-6,0.007559531
+labs,Linoleoylcarnitine (C18:2),nmol/mL,Linoleoylcarnitine (C18:2) [Moles/volume] in Serum or Plasma,LOINC,3003816,30534-2,0.007559531
+labs,Isovalerylcarnitine+Methylbutyrylcarnitine (C5),nmol/mL,Isovalerylcarnitine+Methylbutyrylcarnitine (C5) [Moles/volume] in Serum or Plasma,LOINC,3023211,30531-8,0.007559531
+labs,Palmitoleylcarnitine (C16:1),nmol/mL,Palmitoleylcarnitine (C16:1) [Moles/volume] in Serum or Plasma,LOINC,3010966,30357-8,0.007559531
+labs,3-Hydroxystearoylcarnitine (C18-OH),nmol/mL,3-Hydroxystearoylcarnitine (C18-OH) [Moles/volume] in Serum or Plasma,LOINC,3033951,35656-8,0.007559531
+labs,3-Hydroxyhexanoylcarnitine (C6-OH),nmol/mL,3-Hydroxyhexanoylcarnitine (C6-OH) [Moles/volume] in Serum or Plasma,LOINC,3021288,30236-4,0.007559531
+labs,3-Hydroxyisovalerylcarnitine (C5-OH),nmol/mL,3-Hydroxyisovalerylcarnitine (C5-OH) [Moles/volume] in Serum or Plasma,LOINC,3041194,39001-3,0.007559531
+labs,Ganglioside GM1 Ab.IgG,Unknown,Ganglioside GM1 IgG Ab [Titer] in Serum by Immunoassay,LOINC,3046693,43240-1,0.007559531
+labs,Asialoganglioside GM1 Ab.IgG,Unknown,Asialoganglioside GM1 IgG Ab [Titer] in Serum by Immunoassay,LOINC,3049735,46969-2,0.007559531
+labs,Schistosoma sp Ab.IgG,Unknown,Schistosoma sp IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,3035588,25757-6,0.005039688
+labs,17-Hydroxyprogesterone,ng/dL,17-Hydroxyprogesterone [Mass/volume] in Serum or Plasma,LOINC,3028718,1668-3,0.005039688
+labs,Coagulation factor IX inhibitor,Unknown,Coagulation factor IX inhibitor [Presence] in Platelet poor plasma by Coagulation assay,LOINC,3019423,30086-3,0.005039688
+labs,Alpha aminobutyrate/Creatinine,umol/g CRT,Alpha aminobutyrate/Creatinine [Ratio] in Urine,LOINC,3028748,28590-8,0.005039688
+labs,Glucose^post CFst,MG/DL,Fasting glucose [Mass/volume] in Serum or Plasma,LOINC,3037110,1558-6,0.005039688
+labs,Citrulline/Creatinine,umol/g CRT,Citrulline/Creatinine [Ratio] in Urine,LOINC,3003803,30161-4,0.005039688
+labs,Mullerian inhibiting substance,ng/mL,Mullerian inhibiting substance [Mass/volume] in Serum or Plasma,LOINC,3047826,38476-8,0.005039688
+labs,Glutamate decarboxylase 65 Ab.IgG+IgM,nmol/L,Glutamate decarboxylase 65 IgG+IgM Ab [Moles/volume] in Cerebral spinal fluid by Immunoassay,LOINC,36660649,94359-7,0.005039688
+labs,Glutamine/Creatinine,umol/g CRT,Glutamine/Creatinine [Ratio] in Urine,LOINC,3010955,30056-6,0.005039688
+labs,Borrelia burgdorferi Ab.IgM,Unknown,Borrelia burgdorferi IgM Ab [Presence] in Serum or Plasma by Immunoassay,LOINC,3039288,40612-4,0.005039688
+labs,IgD,mg/dL,IgD [Mass/volume] in Serum,LOINC,3016135,Apr-60,0.005039688
+labs,Cholinesterase,U/L,Cholinesterase [Enzymatic activity/volume] in Serum or Plasma,LOINC,3010866,Feb-98,0.005039688
+labs,Acid phosphatase.non-prostatic,U/L,Non prostatic acid phosphatase [Enzymatic activity/volume] in Serum or Plasma,LOINC,3009383,12173-1,0.005039688
+labs,Francisella tularensis Ab,Unknown,Francisella tularensis Ab [Titer] in Serum by Latex agglutination,LOINC,3022070,Feb-67,0.005039688
+labs,Neisseria gonorrhoeae rRNA,Unknown,Neisseria gonorrhoeae rRNA [Presence] in Anorectal by NAA with probe detection,LOINC,21492854,80366-8,0.005039688
+labs,Chlamydia trachomatis rRNA,Unknown,Chlamydia trachomatis rRNA [Presence] in Anorectal by NAA with probe detection,LOINC,21492852,80364-3,0.005039688
+labs,21-Hydroxylase Ab,U/mL,21-Hydroxylase Ab [Units/volume] in Serum,LOINC,3016939,17781-6,0.005039688
+labs,Hepatitis B virus polymerase DNA,Unknown,Hepatitis B virus polymerase DNA [Presence] in Blood by NAA with probe detection,LOINC,3022900,16934-2,0.005039688
+labs,Indirect antiglobulin test.XXX reagent,Unknown,Indirect antiglobulin test.unspecified reagent [Titer] in Serum or Plasma,LOINC,40760005,56886-5,0.005039688
+labs,Chloride,mmol/L,Chloride [Moles/volume] in Stool,LOINC,3001260,15158-9,0.005039688
+labs,Herpes virus 6 Ab.IgM,TITER,Herpes virus 6 IgM Ab [Titer] in Serum by Immunofluorescence,LOINC,3025803,25417-7,0.005039688
+labs,Herpes virus 6 Ab.IgG,TITER,Herpes virus 6 IgG Ab [Titer] in Serum by Immunofluorescence,LOINC,3021769,25416-9,0.005039688
+labs,Phenylalanine/Creatinine,umol/g CRT,Phenylalanine/Creatinine [Ratio] in Urine,LOINC,3024713,30055-8,0.005039688
+labs,Phencyclidine,Unknown,Phencyclidine [Presence] in Urine by Confirmatory method,LOINC,3004498,18392-1,0.005039688
+labs,C peptide^30M post dose glucose,MG/DL,C peptide [Mass/volume] in Serum or Plasma --30 minutes post dose glucose,LOINC,40761610,58510-9,0.005039688
+labs,Amino acid pattern,Unknown,Amino acid pattern [Interpretation] in Urine Narrative,LOINC,3053335,49248-8,0.005039688
+labs,Glucose^3H post dose glucose,MG/DL,Glucose [Mass/volume] in Serum or Plasma --3 hours post dose glucose,LOINC,3027198,20437-0,0.005039688
+labs,Flecainide,ug/mL,Flecainide [Mass/volume] in Serum or Plasma,LOINC,3006689,Apr-38,0.005039688
+labs,Glucose^2H post dose glucose,MG/DL,Glucose [Mass/volume] in Serum or Plasma --2 hours post dose glucose,LOINC,3026300,20436-2,0.005039688
+labs,Sarcosine/Creatinine,umol/g CRT,Sarcosine/Creatinine [Ratio] in Urine,LOINC,3019215,28610-4,0.005039688
+labs,"t(15;17)(q24.1;q21.1)(PML,RARA) fusion transcript",Unknown,"t(15;17)(q24.1;q21.1)(PML,RARA) fusion transcript [Presence] in Blood or Tissue by Molecular genetics method",LOINC,3024414,21551-7,0.005039688
+labs,Cystine/Creatinine,umol/g CRT,Cystine/Creatinine [Ratio] in Urine,LOINC,3010077,30065-7,0.005039688
+labs,Norclobazam,ng/mL,Norclobazam [Mass/volume] in Serum or Plasma,LOINC,3032341,35107-2,0.005039688
+labs,Beta alanine/Creatinine,umol/g CRT,Beta alanine/Creatinine [Ratio] in Urine,LOINC,3010785,28588-2,0.005039688
+labs,Gamma aminobutyrate/Creatinine,umol/g CRT,Gamma aminobutyrate/Creatinine [Ratio] in Urine,LOINC,3010833,28593-2,0.005039688
+labs,cloBAZam,ng/mL,cloBAZam [Mass/volume] in Serum or Plasma,LOINC,3007218,Jun-87,0.005039688
+labs,IL28B gene associated variant rs12979860,Unknown,IL28B gene associated variant rs12979860 [Presence] in Blood or Tissue by Molecular genetics method,LOINC,40763334,60279-7,0.005039688
+labs,Taurine/Creatinine,umol/g CRT,Taurine/Creatinine [Ratio] in Urine,LOINC,3014009,28595-7,0.005039688
+labs,Fluconazole,ug/mL,Fluconazole [Mass/volume] in Serum or Plasma,LOINC,3009736,10987-6,0.005039688
+labs,Anserine/Creatinine,umol/g CRT,Anserine/Creatinine [Ratio] in Urine,LOINC,3022805,28596-5,0.005039688
+labs,Acetylcholine receptor blocking Ab/Acetylcholine Ab.total,%,Acetylcholine receptor blocking Ab/Acetylcholine Ab.total in Serum,LOINC,3032560,42937-3,0.005039688
+labs,Alpha aminoadipate/Creatinine,umol/g CRT,Alpha aminoadipate/Creatinine [Ratio] in Urine,LOINC,3019466,28598-1,0.005039688
+labs,Cystathionine/Creatinine,umol/g CRT,Cystathionine/Creatinine [Ratio] in Urine,LOINC,3004520,28599-9,0.005039688
+labs,Serine/Creatinine,umol/g CRT,Serine/Creatinine [Ratio] in Urine,LOINC,3012010,30058-2,0.005039688
+labs,Hydroxylysine/Creatinine,umol/g CRT,Hydroxylysine/Creatinine [Ratio] in Urine,LOINC,3007345,30050-9,0.005039688
+labs,Isoleucine/Creatinine,umol/g CRT,Isoleucine/Creatinine [Ratio] in Urine,LOINC,3027105,30052-5,0.005039688
+labs,Arginine/Creatinine,umol/g CRT,Arginine/Creatinine [Ratio] in Urine,LOINC,3012157,30062-4,0.005039688
+labs,Methionine/Creatinine,umol/g CRT,Methionine/Creatinine [Ratio] in Urine,LOINC,3026704,30063-2,0.005039688
+labs,Beta aminoisobutyrate/Creatinine,umol/g CRT,Beta aminoisobutyrate/Creatinine [Ratio] in Urine,LOINC,3021897,28602-1,0.005039688
+labs,Valine/Creatinine,umol/g CRT,Valine/Creatinine [Ratio] in Urine,LOINC,3012665,30064-0,0.005039688
+labs,Glutamate/Creatinine,umol/g CRT,Glutamate/Creatinine [Ratio] in Urine,LOINC,3009429,30059-0,0.005039688
+labs,Aspartate/Creatinine,umol/g CRT,Aspartate/Creatinine [Ratio] in Urine,LOINC,3025626,30061-6,0.005039688
+labs,Homocitrulline/Creatinine,umol/g CRT,Homocitrulline/Creatinine [Ratio] in Urine,LOINC,3027134,32248-7,0.005039688
+labs,Gonadotropin releasing hormone,pg/mL,Gonadotropin releasing hormone [Mass/volume] in Serum or Plasma,LOINC,3012070,13660-6,0.005039688
+labs,Proline/Creatinine,umol/g CRT,Proline/Creatinine [Ratio] in Urine,LOINC,3020453,30067-3,0.005039688
+labs,Carbon dioxide^post dose urea,Unknown,Helicobacter pylori [Presence] in Stomach by urea breath test,LOINC,3011630,29891-9,0.005039688
+labs,Tryptophan/Creatinine,umol/g CRT,Tryptophan/Creatinine [Ratio] in Urine,LOINC,3001544,28608-8,0.005039688
+labs,Lysine/Creatinine,umol/g CRT,Lysine/Creatinine [Ratio] in Urine,LOINC,3028430,30048-3,0.005039688
+labs,Leucine/Creatinine,umol/g CRT,Leucine/Creatinine [Ratio] in Urine,LOINC,3028481,30053-3,0.005039688
+labs,Glycine/Creatinine,umol/g CRT,Glycine/Creatinine [Ratio] in Urine,LOINC,3010616,30066-5,0.005039688
+labs,Alanine/Creatinine,umol/g CRT,Alanine/Creatinine [Ratio] in Urine,LOINC,3020451,30068-1,0.005039688
+labs,Hydroxyproline/Creatinine,umol/g CRT,Hydroxyproline/Creatinine [Ratio] in Urine,LOINC,3016498,28601-3,0.005039688
+labs,Ethanolamine/Creatinine,umol/g CRT,Ethanolamine/Creatinine [Ratio] in Urine,LOINC,3000487,28605-4,0.005039688
+labs,Tyrosine/Creatinine,umol/g CRT,Tyrosine/Creatinine [Ratio] in Urine,LOINC,3023885,30054-1,0.005039688
+labs,Asparagine/Creatinine,umol/g CRT,Asparagine/Creatinine [Ratio] in Urine,LOINC,3022905,28603-9,0.005039688
+labs,Histidine/Creatinine,umol/g CRT,Histidine/Creatinine [Ratio] in Urine,LOINC,3027591,30047-5,0.005039688
+labs,Felbamate,ug/mL,Felbamate [Mass/volume] in Serum or Plasma,LOINC,3019515,Sep-99,0.005039688
+labs,Ornithine/Creatinine,umol/g CRT,Ornithine/Creatinine [Ratio] in Urine,LOINC,3024069,30049-1,0.005039688
+labs,Threonine/Creatinine,umol/g CRT,Threonine/Creatinine [Ratio] in Urine,LOINC,3011159,30057-4,0.005039688
+labs,Argininosuccinate/Creatinine,umol/g CRT,Argininosuccinate/Creatinine [Ratio] in Urine,LOINC,3008521,32229-7,0.005039688
+labs,Methanol,MG/DL,Methanol [Mass/volume] in Blood,LOINC,3009210,Apr-34,0.005039688
+labs,Cholinesterase^dibucaine/Cholinesterase,%,Cholinesterase in Serum or Plasma --dibucaine/Cholinesterase,LOINC,3040648,39354-6,0.005039688
+labs,5'-Nucleotidase,U/L,5'-Nucleotidase [Enzymatic activity/volume] in Serum or Plasma,LOINC,3013614,1690-7,0.005039688
+labs,Fatty acids.very long chain.C24:0/C22:0,ratio,Fatty acids.very long chain C24:0 (Tetracosanoate)/C22:0 (Docosanoate) [Molar ratio] in Serum or Plasma,LOINC,3022374,30196-0,0.005039688
+labs,Organic acids,Unknown,Organic acids [Presence] in Urine,LOINC,3018363,May-76,0.005039688
+labs,Thermoactinomyces vulgaris Ab,Unknown,Thermoactinomyces vulgaris Ab [Presence] in Serum by Immune diffusion (ID),LOINC,3028256,21-Mar,0.005039688
+labs,Karyotype,Unknown,Karyotype [Identifier] in Blood or Tissue Nominal,LOINC,3025939,29770-5,0.005039688
+labs,Phytanate,nmol/mL,Phytanate (C16:0(CH3)4) [Moles/volume] in Serum or Plasma,LOINC,3021664,22671-2,0.005039688
+labs,Porphyrins,nmol/L,Porphyrins [Moles/volume] in Serum or Plasma,LOINC,3030326,33311-2,0.005039688
+labs,Saccharopolyspora rectivirgula Ab,Unknown,Saccharopolyspora rectivirgula Ab [Presence] in Serum by Immune diffusion (ID),LOINC,3014363,18-Sep,0.005039688
+labs,Albumin.serum/Albumin.Periton fld,MG/DL,Albumin in serum/Albumin in Peritoneal fluid,LOINC,40759274,56153-0,0.005039688
+labs,Magnesium,MG/TV,Magnesium [Mass/time] in 24 hour Urine,LOINC,3018601,24447-5,0.005039688
+labs,Fatty acids.very long chain.C26:0/C22:0,ratio,Fatty acids.very long chain C26:0 (Hexacosanoate)/C22:0 (Docosanoate) [Molar ratio] in Serum or Plasma,LOINC,3026306,30198-6,0.005039688
+labs,Theophylline,MCG/ML,Theophylline [Mass/volume] in Serum or Plasma,LOINC,3016072,Mar-49,0.005039688
+labs,Isopropanol,MG/DL,Isopropanol [Mass/volume] in Serum or Plasma,LOINC,3009710,Jul-69,0.005039688
+labs,Phosphatase.leukocyte,Unknown,Leukocyte phosphatase [Units/volume] in Leukocytes,LOINC,3008548,15112-6,0.005039688
+labs,Coagulation factor VIII inhibitor,Unknown,Coagulation factor VIII inhibitor [Presence] in Platelet poor plasma by Coagulation assay,LOINC,3011699,3206-0,0.005039688
+labs,Alpha 1 antitrypsin,mg/dL,Alpha 1 antitrypsin [Mass/volume] in Stool,LOINC,3014717,07-Aug,0.005039688
+labs,Vasoactive intestinal peptide,pg/mL,Vasoactive intestinal peptide [Mass/volume] in Serum or Plasma,LOINC,3028054,25-Feb,0.005039688
+labs,Pristanate,nmol/mL,Pristanate (C15:0(CH3)4) [Moles/volume] in Serum or Plasma,LOINC,3020622,22761-1,0.005039688
+labs,Fatty acids.very long chain.C26:0,nmol/mL,Fatty acids.very long chain C26:0 (Hexacosanoate) [Moles/volume] in Serum or Plasma,LOINC,3025461,30197-8,0.005039688
+labs,"Cells.t(15;17)(q24.1;q21.1)(PML,RARA)/Cells.total",Unknown,"t(15;17)(q24.1;q21.1)(PML,RARA) cells/Cells.total in Blood or Tissue by Molecular genetics method",LOINC,3022546,21785-1,0.005039688
+labs,Pristanate/Phytanate,ratio,Pristanate (C15:0(CH3)4)/Phytanate (C16:0(CH3)4) [Molar ratio] in Serum or Plasma,LOINC,3037588,30550-8,0.005039688
+labs,Glutamate decarboxylase 65 Ab,IU/mL,Glutamate decarboxylase 65 Ab [Units/volume] in Serum by Immunoassay,LOINC,40759660,56540-8,0.005039688
+labs,Mitochondria M2 Ab.IgG,Units,Mitochondria M2 IgG Ab [Units/volume] in Serum,LOINC,3007027,14251-3,0.005039688
+labs,Testosterone.free/Testosterone.total,%,Testosterone Free/Testosterone.total in Serum or Plasma,LOINC,3027401,15432-8,0.005039688
+labs,Aureobasidium pullulans Ab,Unknown,Aureobasidium pullulans Ab [Presence] in Serum by Immune diffusion (ID),LOINC,3021764,10-Jun,0.005039688
+labs,Porphyrins,Unknown,Porphyrins [Interpretation] in Serum or Plasma,LOINC,3020123,14883-3,0.005039688
+labs,Norclozapine,ng/mL,Norclozapine [Mass/volume] in Serum or Plasma,LOINC,3012984,10992-6,0.005039688
+labs,Hemoglobin,mg/dL,Hemoglobin [Mass/volume] in Urine,LOINC,3002719,726-0,0.005039688
+labs,Clozapine+Norclozapine,ng/mL,cloZAPine+Norclozapine [Mass/volume] in Serum or Plasma,LOINC,3000310,12375-2,0.005039688
+labs,Parietal cell Ab,TITER,Parietal cell Ab [Titer] in Serum by Immunofluorescence,LOINC,3010090,Feb-71,0.005039688
+labs,Aspergillus fumigatus 6 Ab,Unknown,Aspergillus fumigatus 6 Ab [Presence] in Serum by Immune diffusion (ID),LOINC,3026756,09-Aug,0.005039688
+labs,Thyroxine binding globulin,ug/mL,Thyroxine binding globulin [Mass/volume] in Serum or Plasma,LOINC,3020924,21-Mar,0.005039688
+labs,Fat,g/24 h,Fat [Mass/time] in 24 hour Stool,LOINC,3015196,16142-2,0.005039688
+labs,Protein fractions.oligoclonal bands,Unknown,Oligoclonal bands [Presence] in Cerebral spinal fluid,LOINC,3002182,32358-4,0.005039688
+labs,Fatty acids.very long chain.C22:0,nmol/mL,Fatty acids.very long chain C22:0 (Docosanoate) [Moles/volume] in Serum or Plasma,LOINC,3007480,30194-5,0.005039688
+labs,Pigeon serum Ab,Unknown,Pigeon serum Ab [Presence] in Serum by Immune diffusion (ID),LOINC,3023896,6733-0,0.005039688
+labs,Hemoglobin.gastrointestinal,Unknown,Hemoglobin.gastrointestinal [Presence] in Gastric fluid,LOINC,3010765,Jan-34,0.005039688
+labs,Leukocytes+Platelets,Unknown,Leukocytes+Platelets [Morphology] in Blood,LOINC,3048249,48705-8,0.005039688
+labs,14-3-3 Ag,NG/ML,14-3-3 Ag [Mass/volume] in Cerebral spinal fluid,LOINC,3036425,36924-9,0.005039688
+labs,Fatty acids.very long chain.C24:0,nmol/mL,Fatty acids.very long chain C24:0 (Tetracosanoate) [Moles/volume] in Serum or Plasma,LOINC,3006467,30195-2,0.005039688
+labs,Aspergillus fumigatus 1 Ab,Unknown,Aspergillus fumigatus 1 Ab [Presence] in Serum by Immune diffusion (ID),LOINC,3012161,6808-0,0.005039688
+labs,Yersinia sp Ab.IgG,Unknown,Yersinia sp IgG Ab [Presence] in Serum by Immunoblot,LOINC,3033701,41401-1,0.002519844
+labs,HLA-DQ8,Unknown,HLA-DQ8 [Presence],LOINC,3039510,41283-3,0.002519844
+labs,Sporothrix schenckii Ab,TITER,Sporothrix schenckii Ab [Presence] in Serum,LOINC,3035892,13273-8,0.002519844
+labs,Delta aminolevulinate,umol/L,Delta aminolevulinate [Moles/volume] in 24 hour Urine,LOINC,3021973,25896-2,0.002519844
+labs,Calcium carbonate crystals,/HPF,Calcium carbonate crystals [#/area] in Urine by Computer assisted method,LOINC,3040537,53312-5,0.002519844
+labs,Candida albicans DNA,Unknown,Candida albicans DNA [Presence] in Vaginal fluid by NAA with probe detection,LOINC,42870561,69562-7,0.002519844
+labs,Acid phosphatase.prostatic,ng/mL,Prostatic acid phosphatase [Mass/volume] in Serum,LOINC,3011616,20420-6,0.002519844
+labs,Ethanol,Unknown,Ethanol [Presence] in Urine by Confirmatory method,LOINC,3044017,34180-0,0.002519844
+labs,Glucose-6-Phosphate dehydrogenase,U/g Hb,Glucose-6-Phosphate dehydrogenase [Enzymatic activity/volume] in Red Blood Cells,LOINC,3037524,Feb-57,0.002519844
+labs,Blastomyces dermatitidis Ab,Unknown,Blastomyces dermatitidis Ab [Titer] in Serum by Complement fixation,LOINC,3019118,May-57,0.002519844
+labs,Eosinophils,THOUS/MCL,Eosinophils [#/volume] in Blood,LOINC,3013115,26449-9,0.002519844
+labs,Cortisol^8 PM specimen,ng/dL,Cortisol [Mass/volume] in Saliva (oral fluid) --8 PM specimen,LOINC,40761776,58676-8,0.002519844
+labs,Dehydroepiandrosterone,ng/mL,Dehydroepiandrosterone (DHEA) [Mass/volume] in Serum or Plasma,LOINC,3022000,Jan-93,0.002519844
+labs,HLA-DQ2,Unknown,Deprecated HLA-DQ2 [Presence],LOINC,3015886,10843-1,0.002519844
+labs,Androstenedione,ng/mL,Androstenedione [Mass/volume] in Serum or Plasma,LOINC,3002278,1854-9,0.002519844
+labs,Progesterone,NG/ML,Progesterone [Mass/volume] in Serum or Plasma,LOINC,3027144,Sep-39,0.002519844
+labs,Mucor racemosus Ab.IgE,KU/L,Mucor racemosus IgE Ab [Units/volume] in Serum,LOINC,3015982,6182-0,0.002519844
+labs,Aldosterone,ug/d,Aldosterone [Mass/time] in 24 hour Urine,LOINC,3019677,1765-7,0.002519844
+labs,Transferrin receptor.soluble,mg/L,Transferrin receptor.soluble [Mass/volume] in Serum or Plasma,LOINC,3015399,30248-9,0.002519844
+labs,Yersinia sp Ab.IgA,Unknown,Yersinia sp IgA Ab [Presence] in Serum by Immunoblot,LOINC,3034960,41400-3,0.002519844
+labs,Coproporphyrin,nmol/g,Coproporphyrin [Moles/mass] in Stool,LOINC,3036036,29266-4,0.002519844
+labs,Plasma cells/100 leukocytes,%,Plasma cells/100 leukocytes in Cerebral spinal fluid by Manual count,LOINC,3030791,51385-3,0.002519844
+labs,Reticulocytes/100 erythrocytes,%,Reticulocytes/100 erythrocytes in Blood,LOINC,3027945,Jul-79,0.002519844
+labs,Yersinia sp Ab.IgM,Unknown,Yersinia sp IgM Ab [Presence] in Serum by Immunoblot,LOINC,3052065,48410-5,0.002519844
+labs,Neisseria gonorrhoeae DNA,Unknown,Neisseria gonorrhoeae DNA [Presence] in Vaginal fluid by NAA with probe detection,LOINC,3046574,32705-6,0.002519844
+labs,Beta-2-Microglobulin,MG/L,Beta-2-Microglobulin [Mass/volume] in Urine,LOINC,3018081,Sep-53,0.002519844
+labs,buPROPion,ng/mL,buPROPion [Mass/volume] in Serum or Plasma,LOINC,3017776,06-Jun,0.002519844
+labs,Risperidone+9-Hydroxyrisperidone,ng/mL,risperiDONE+9-Hydroxyrisperidone [Mass/volume] in Serum or Plasma,LOINC,3002082,Aug-94,0.002519844
+labs,9-Hydroxyrisperidone,ng/mL,9-Hydroxyrisperidone [Mass/volume] in Serum or Plasma,LOINC,3023194,Jan-83,0.002519844
+labs,Hydroxybupropion,ng/mL,Hydroxybupropion [Mass/volume] in Serum or Plasma,LOINC,3004659,18-May,0.002519844
+labs,risperiDONE,ng/mL,risperiDONE [Mass/volume] in Serum or Plasma,LOINC,3003195,9393-0,0.002519844
+labs,Trypanosoma cruzi Ab,Unknown,Trypanosoma cruzi Ab [Presence] in Serum or Plasma by Immunoassay,LOINC,40760439,57320-4,0.002519844
+labs,Allergen.miscellaneous Ab.IgE.RAST class,Unknown,Deprecated Miscellaneous allergen IgE Ab RAST class [Presence] in Serum,LOINC,3028863,33536-4,0.002519844
+labs,N-methyl-D-aspartate receptor Ab.IgG,titer,NMDAR IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence,LOINC,21494812,80220-7,0.002519844
+labs,OLANZapine,ng/mL,OLANZapine [Mass/volume] in Serum or Plasma,LOINC,3021494,12389-3,0.002519844
+labs,Delta aminolevulinate,umol/d,Delta aminolevulinate [Moles/time] in 24 hour Urine,LOINC,3004149,14689-4,0.002519844
+labs,Porphyrins,Unknown,Porphyrins [Interpretation] in Stool,LOINC,3005582,14884-1,0.002519844
+labs,Haloperidol,ng/mL,Haloperidol [Mass/volume] in Serum or Plasma,LOINC,3000415,Sep-69,0.002519844
+labs,Zinc transporter 8 Ab,U/mL,Zinc transporter 8 Ab [Units/volume] in Serum or Plasma by Immunoassay,LOINC,46235190,76651-9,0.002519844
+labs,Estriol,ng/mL,Estriol (E3) [Mass/volume] in Serum or Plasma,LOINC,3025994,Jul-51,0.002519844
+labs,Atopobium vaginae DNA,SCORE,Atopobium vaginae DNA [Presence] in Vaginal fluid by NAA with probe detection,LOINC,42870564,69565-0,0.002519844
+labs,Megasphaera sp type 1 DNA,SCORE,Megasphaera sp type 1 DNA [Presence] in Vaginal fluid by NAA with probe detection,LOINC,42870566,69567-6,0.002519844
+labs,Chlamydia trachomatis DNA,Unknown,Chlamydia trachomatis DNA [Presence] in Vaginal fluid by NAA with probe detection,LOINC,3043533,45084-1,0.002519844
+labs,Antidepressants,Unknown,Antidepressants [Presence] in Urine,LOINC,3002119,32136-4,0.002519844
+labs,Ethanol,MG/DL,Ethanol [Mass/volume] in Blood,LOINC,3025643,Aug-40,0.002519844
+labs,Primidone,ug/mL,Primidone [Mass/volume] in Serum or Plasma,LOINC,3002248,Apr-78,0.002519844
+labs,Complement C2,mg/dL,Complement C2 [Mass/volume] in Serum or Plasma,LOINC,3001793,Feb-84,0.002519844
+labs,Protoporphyrin,nmol/g,Protoporphyrin [Moles/mass] in Stool,LOINC,3036550,29267-2,0.002519844
+labs,Specific gravity,Unknown,Specific gravity of Body fluid by Refractometry,LOINC,3035198,35414-2,0.002519844
+labs,Immune complex,ugE/mL,Immune complex [Units/volume] in Serum or Plasma by C1q binding assay,LOINC,3021534,27831-7,0.002519844
+labs,Aluminum,ug/L,Aluminum [Mass/volume] in Serum or Plasma,LOINC,3020180,Sep-74,0.002519844
+labs,17-Hydroxycorticosteroids/Creatinine,mg/gCR,17-Hydroxycorticosteroids/Creatinine [Mass Ratio] in 24 hour Urine,LOINC,3032873,41404-5,0.002519844
+labs,Dog dander Ab.IgE,KU/L,Dog dander IgE Ab [Units/volume] in Serum,LOINC,3014133,Aug-98,0.002519844
+labs,Candida glabrata DNA,Unknown,Candida glabrata DNA [Presence] in Vaginal fluid by NAA with probe detection,LOINC,42870562,69563-5,0.002519844
+labs,"Respiratory allergen panel, US - California central valley",Unknown,"Respiratory allergen panel, US - California central valley - Serum",LOINC,3048238,48837-9,0.002519844
+labs,Betula populifolia Ab.IgE,KU/L,White Birch IgE Ab [Units/volume] in Serum,LOINC,3034683,41874-9,0.002519844
+labs,Trichomonas vaginalis DNA,Unknown,Trichomonas vaginalis DNA [Presence] in Vaginal fluid by NAA with probe detection,LOINC,40765198,62461-9,0.002519844
+labs,Aspergillus niger Ab,Unknown,Aspergillus niger Ab [Presence] in Serum,LOINC,3009174,22086-3,0.002519844
+labs,11-Deoxycortisol,ng/dL,11-Deoxycortisol [Mass/volume] in Serum or Plasma,LOINC,3007719,1657-6,0.002519844
+labs,Platelet associated Ab.IgM,Unknown,Platelet associated IgM Ab [Presence] in Blood by Flow cytometry (FC),LOINC,3023072,29498-3,0.002519844
+labs,17-Hydroxycorticosteroids,mg/d,17-Hydroxycorticosteroids [Mass/time] in 24 hour Urine,LOINC,3000120,21036-9,0.002519844
+labs,Asialoganglioside GM1 Ab.IgG,Unknown,Asialoganglioside GM1 IgG Ab [Presence] in Serum,LOINC,3043551,44738-3,0.002519844
+labs,BRCA1+BRCA2 gene mutations tested for,Unknown,BRCA1+BRCA2 gene mutations tested for in Blood or Tissue by Molecular genetics method Nominal,LOINC,40762134,59041-4,0.002519844
+labs,Coxiella burnetii phase 1 Ab.IgG,Unknown,Coxiella burnetii phase 1 IgG Ab [Titer] in Serum by Immunofluorescence,LOINC,3032100,34716-1,0.002519844
+labs,Platelet associated Ab.IgG,Unknown,Platelet associated IgG Ab [Presence] in Blood by Flow cytometry (FC),LOINC,3036506,29497-5,0.002519844
+labs,CV2 Ab.IgG,Unknown,CV2 IgG Ab [Presence] in Cerebral spinal fluid by Immunoblot,LOINC,3038599,53707-6,0.002519844
+labs,ABO group,Unknown,ABO group [Type] in Blood,LOINC,3002529,883-9,0.002519844
+labs,Disialylganglioside GD1b Ab.IgM,Unknown,Deprecated Disialylganglioside GD1b IgM Ab [Presence] in Serum,LOINC,3045087,44743-3,0.002519844
+labs,Bordetella pertussis Ab.IgM,U/mL,Bordetella pertussis IgM Ab [Units/volume] in Serum by Immunoassay,LOINC,3037988,42329-3,0.002519844
+labs,Ehrlichia chaffeensis Ab.IgM,Unknown,Ehrlichia chaffeensis IgM Ab [Titer] in Serum,LOINC,3019963,9784-0,0.002519844
+labs,Complement C1q,MG/DL,Complement C1q [Mass/volume] in Serum or Plasma,LOINC,3002140,Apr-78,0.002519844
+labs,Aspergillus fumigatus Ab,Unknown,Aspergillus fumigatus Ab [Presence] in Serum,LOINC,3036278,Jan-32,0.002519844
+labs,clonazePAM,ng/mL,clonazePAM [Mass/volume] in Serum or Plasma,LOINC,3005769,Feb-94,0.002519844
+labs,Androstanolone,PG/ML,Androstanolone [Mass/volume] in Serum or Plasma,LOINC,3002625,1848-1,0.002519844
+labs,Urate,MG/DL,Urate [Mass/volume] in 24 hour Urine,LOINC,3012870,21587-1,0.002519844
+labs,Urate,MG/TOT VOL,Urate [Mass/time] in 24 hour Urine,LOINC,3021835,Apr-87,0.002519844
+labs,Ehrlichia chaffeensis Ab.IgG,Unknown,Ehrlichia chaffeensis IgG Ab [Titer] in Serum,LOINC,3034704,Feb-83,0.002519844
+labs,6-Thioguanine,Unknown,6-Thioguanine [Entitic substance] in Red Blood Cells,LOINC,3030951,32660-3,0.002519844
+labs,Anion gap,MMOL/L,Anion gap in Blood,LOINC,3039000,41276-7,0.002519844
+labs,Calcium.ionized,mmol/L,Calcium.ionized [Mass/volume] in Blood,LOINC,3036426,38230-9,0.002519844
+labs,Cortisol^12 AM specimen,ng/dL,Cortisol [Mass/volume] in Saliva (oral fluid) --12 AM specimen,LOINC,40761742,58642-0,0.002519844
+labs,6-Methylmercaptopurine,Unknown,6-Methylmercaptopurine [Entitic substance] in Red Blood Cells,LOINC,3029161,32654-6,0.002519844
+labs,Collagen crosslinked N-telopeptide/Creatinine,Unknown,Collagen crosslinked N-telopeptide/Creatinine [Molar ratio] in Urine,LOINC,3010391,14115-0,0.002519844
+labs,17-Hydroxypregnenolone,ng/dL,17-Hydroxypregnenolone [Mass/volume] in Serum or Plasma,LOINC,3001482,Feb-65,0.002519844
+labs,Paraneoplastic Ab,Unknown,Paraneoplastic Ab [Presence] in Cerebral spinal fluid by Immunoblot,LOINC,3051230,53715-9,0.002519844
+labs,Plantago lanceolata Ab.IgE,KU/L,English plantain IgE Ab [Units/volume] in Serum,LOINC,3014126,10-Jan,0.002519844
+labs,Bacterial vaginosis associated bacterium 2 DNA,SCORE,Bacterial vaginosis associated bacterium 2 DNA [Presence] in Vaginal fluid by NAA with probe detection,LOINC,42870565,69566-8,0.002519844
+labs,Penicillium notatum Ab.IgE,KU/L,Penicillium notatum IgE Ab [Units/volume] in Serum,LOINC,3013101,12-May,0.002519844
+labs,CV2 Ab.IgG,Unknown,CV2 IgG Ab [Presence] in Serum by Immunoblot,LOINC,3049706,47401-5,0.002519844
+labs,Barbiturates,Unknown,Barbiturates [Presence] in Urine by Confirmatory method,LOINC,3016856,16429-3,0.002519844
+labs,Disialylganglioside GD1b Ab.IgG,Unknown,Deprecated Disialylganglioside GD1b IgG Ab [Presence] in Serum,LOINC,3045314,44742-5,0.002519844
+labs,Asialoganglioside GM1 Ab.IgM,Unknown,Asialoganglioside GM1 IgM Ab [Presence] in Serum,LOINC,3007912,30200-0,0.002519844
+labs,Glucagon,ng/L,Glucagon [Mass/volume] in Serum or Plasma,LOINC,3023436,Feb-38,0.002519844
+labs,Parasite identified,Unknown,Parasite identified in Blood by Light microscopy,LOINC,3006165,17784-0,0.002519844
+labs,Cynodon dactylon Ab.IgE,KU/L,Bermuda grass IgE Ab [Units/volume] in Serum,LOINC,3015731,Aug-41,0.002519844
+labs,Dermatophagoides farinae Ab.IgE,KU/L,American house dust mite IgE Ab [Units/volume] in Serum,LOINC,3036780,Apr-95,0.002519844
+labs,Cerebroside sulfatase,U/L,Cerebroside sulfatase [Enzymatic activity/volume] in 24 hour Urine,LOINC,3029085,42726-0,0.002519844
+labs,Coagulation factor VIII inhibitor,BU,Coagulation factor VIII inhibitor [Units/volume] in Platelet poor plasma by Coagulation assay,LOINC,3024942,04-May,0.002519844
+labs,pH,Unknown,pH of Urine by Test strip,LOINC,3022621,03-Feb,0.002519844
+labs,Myocardium Ab.IgG,Unknown,Myocardium IgG Ab [Presence] in Serum,LOINC,3032053,35277-3,0.002519844
+labs,Collagen crosslinked N-telopeptide,nM BCE,Collagen crosslinked N-telopeptide [Moles/volume] in Serum,LOINC,3008440,21215-9,0.002519844
+labs,Hemosiderin,Unknown,Hemosiderin [Presence] in Urine by Light microscopy,LOINC,3007260,17783-2,0.002519844
+labs,Bordetella pertussis Ab.IgG,U/mL,Bordetella pertussis IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,3037670,42330-1,0.002519844
+labs,Other elements,Unknown,Other elements [Identifier] in Urine sediment by Light microscopy,LOINC,40761543,58442-5,0.002519844
+labs,Ambrosia elatior Ab.IgE,KU/L,Common Ragweed IgE Ab [Units/volume] in Serum,LOINC,3001247,May-85,0.002519844
+labs,Parietaria officinalis Ab.IgE,KU/L,Pellitory (Parietaria officinalis) IgE Ab [Units/volume] in Serum,LOINC,3007887,6200-0,0.002519844
+labs,Cryptomeria japonica Ab.IgE,KU/L,Japanese Cedar IgE Ab [Units/volume] in Serum,LOINC,3010875,14035-0,0.002519844
+labs,Chronic urticaria index,Unknown,Chronic urticaria index in Serum,LOINC,40766101,63369-3,0.002519844
+labs,Calcium phosphate crystals,/HPF,Calcium phosphate crystals [#/area] in Urine by Computer assisted method,LOINC,3041962,53309-1,0.002519844
+labs,Cat dander Ab.IgE,KU/L,Cat dander IgE Ab [Units/volume] in Serum,LOINC,3023430,Aug-33,0.002519844
+labs,Neutrophil Ab,Unknown,Neutrophil Ab [Presence] in Serum,LOINC,3001307,21418-9,0.002519844
+labs,Myocardium Ab.IgG,Unknown,Myocardium IgG Ab [Titer] in Serum by Immunofluorescence,LOINC,40759752,56633-1,0.002519844
+labs,Alternaria alternata Ab.IgE,KU/L,Alternaria alternata IgE Ab [Units/volume] in Serum,LOINC,3038205,20-Feb,0.002519844
+labs,Phleum pratense Ab.IgE,KU/L,Timothy IgE Ab [Units/volume] in Serum,LOINC,3003888,Mar-65,0.002519844
+labs,Cells counted.total,Unknown,Cells Counted Total [#] in Cerebral spinal fluid,LOINC,3004206,19075-1,0.002519844
+labs,Ganglioside GM1 Ab.IgG,Unknown,Ganglioside GM1 IgG Ab [Presence] in Serum,LOINC,3042919,45169-0,0.002519844
+labs,Ganglioside GM1 Ab.IgM,Unknown,Ganglioside GM1 IgM Ab [Presence] in Serum,LOINC,3044375,44750-8,0.002519844
+labs,Pancreatic polypeptide,pg/mL,Pancreatic polypeptide [Mass/volume] in Serum or Plasma,LOINC,3023589,21-Sep,0.002519844
+labs,Plasmin inhibitor actual/Normal,%,Plasmin inhibitor actual/normal in Platelet poor plasma by Chromogenic method,LOINC,3023479,27810-1,0.002519844
+labs,Aspergillus flavus Ab,Unknown,Aspergillus flavus Ab [Presence] in Serum,LOINC,3009972,Apr-90,0.002519844
+labs,Cortisol,ng/dL,Cortisol [Mass/volume] in Saliva (oral fluid),LOINC,3035845,Aug-42,0.002519844

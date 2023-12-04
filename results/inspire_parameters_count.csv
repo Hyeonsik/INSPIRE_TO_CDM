@@ -1,0 +1,121 @@
+Table,Label,Unit,Description,concept_name,vocab,concept_id,unit_concept_id,perc
+labs,creatinine,mg/dL,Creatinine,Creatinine [Mass/volume] in Serum or Plasma,LOINC,3016723,8840,99.36036036036036
+labs,hb,g/dL,Hemoglobin,Hemoglobin [Mass/volume] in Blood,LOINC,3000963,8713,94.82082082082081
+labs,hct,%,Hematocrit,Hematocrit [Volume Fraction] of Blood,LOINC,3009542,8554,94.71371371371372
+labs,wbc,/nL,White blood cell count,Leukocytes [#/volume] in Blood,LOINC,3010813,0,94.52152152152152
+labs,platelet,/nL,Platelet count,Platelets [#/volume] in Blood,LOINC,3007461,0,94.46146146146145
+labs,potassium,mmol/L,Potassium,Potassium [Moles/volume] in Serum or Plasma,LOINC,3023103,8753,94.22422422422423
+labs,sodium,mmol/L,Sodium,Sodium [Moles/volume] in Serum or Plasma,LOINC,3019550,8753,94.22222222222221
+labs,albumin,g/dL,Albumin,Albumin [Mass/volume] in Serum or Plasma,LOINC,3024561,8713,94.11611611611612
+labs,calcium,mg/dL,Calcium,Calcium [Mass/volume] in Serum or Plasma,LOINC,3006906,8840,93.94094094094095
+labs,phosphorus,mg/dL,Phosphorus,Phosphate [Mass/volume] in Serum or Plasma,LOINC,3011904,8840,93.86586586586586
+labs,ast,IU/L,Aspartate transaminase,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,LOINC,3013721,8923,93.83583583583584
+labs,alt,IU/L,Alanine transaminase,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,LOINC,3006923,8923,93.82382382382383
+labs,bun,mg/dL,Blood urea nitrogen,Urea nitrogen [Mass/volume] in Serum or Plasma,LOINC,3013682,8840,93.77877877877879
+labs,chloride,mmol/L,Chloride,Chloride [Moles/volume] in Serum or Plasma,LOINC,3014576,8753,93.73773773773773
+labs,total_protein,g/dL,Total protein,Protein [Mass/volume] in Serum or Plasma,LOINC,3020630,8713,93.63163163163163
+labs,alp,IU/L,Alkaline phosphatase,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,LOINC,3035995,8923,93.58258258258259
+labs,total_bilirubin,mg/dL,Total bilirubin,Bilirubin.total [Mass/volume] in Serum or Plasma,LOINC,3024128,8840,93.46446446446447
+labs,glucose,mg/dL,Glucose,Glucose [Mass/volume] in Serum or Plasma,LOINC,3004501,8840,92.89089089089089
+labs,ptinr,INR,Prothrombin time,Prothrombin time (PT),LOINC,3034426,44818586,92.55855855855856
+labs,aptt,sec,Activated partial thromboplastin time,aPTT in Platelet poor plasma by Coagulation assay,LOINC,3018677,8555,92.27427427427428
+labs,lymphocyte,%,Lymphocyte percentage,Lymphocytes/100 leukocytes in Blood,LOINC,3002030,8554,90.48648648648648
+labs,fibrinogen,mg/dL,Fibrinogen,Fibrinogen [Mass/volume] in Platelet poor plasma by Coagulation assay,LOINC,3016407,8840,69.26526526526527
+labs,crp,mg/dL,High-sensitive CRP,C reactive protein [Mass/volume] in Serum or Plasma,LOINC,3020460,8840,68.47347347347348
+labs,hco3,mmol/L,HCO3 in arterial blood gas analysis,Bicarbonate [Moles/volume] in Arterial blood,LOINC,3008152,8753,48.15915915915916
+labs,sao2,%,Oxygen saturation in arterial blood gas analysis,Oxygen saturation in Arterial blood,LOINC,3016502,8554,48.14114114114114
+labs,ph,,pH in arterial blood gas analysis,pH of Arterial blood,LOINC,3019977,0,44.45945945945946
+labs,paco2,mmHg,Partial pressure of carbon dioxide in arterial blood gas analysis,Carbon dioxide [Partial pressure] in Arterial blood,LOINC,3027946,8876,44.448448448448445
+labs,pao2,mmHg,Partial pressure of oxygen in arterial blood gas analysis,Oxygen [Partial pressure] in Arterial blood,LOINC,3027801,8876,44.43643643643644
+labs,lacate,mmol/L,Lactate,Lactate [Moles/volume] in Blood,LOINC,3047181,8753,39.274274274274276
+labs,be,mmol/L,Base excess in arterial blood gas analysis,Base excess standard in Arterial blood by calculation,LOINC,3021421,8753,34.27127127127127
+labs,hba1c,%,Hemoglobin A1c,Hemoglobin A1c/Hemoglobin.total in Blood,LOINC,3004410,8554,28.745745745745744
+labs,ck,IU/L,Creatine kinase,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,LOINC,3007220,8923,15.548548548548549
+labs,ckmb,ug/L,Creatine kinase-MB,Creatine kinase.MB [Mass/volume] in Serum or Plasma,LOINC,3005785,8748,14.216216216216216
+labs,troponin_i,ug/L,Troponin-I,Troponin I.cardiac [Mass/volume] in Serum or Plasma,LOINC,3021337,8748,9.256256256256258
+labs,troponin_t,ug/L,Troponin-T,Troponin T.cardiac [Mass/volume] in Serum or Plasma,LOINC,3019800,8748,0.2782782782782783
+labs,d_dimer,mg/L(FEU),D-dimer,Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma,LOINC,3051714,8751,0.22622622622622623
+labs,seg,%,Segmented neutrophil percentage,Segmented neutrophils/100 leukocytes in Blood,LOINC,3017354,8554,
+vitals,aft,ug,Infused dose of alfentanil,alfentanil,RxNorm,19059528,9655,
+vitals,air,L/min,Flow of medical air,Fresh gas.air flow Gas delivery system,LOINC,21490716,8698,
+vitals,alb20,mL,Infused volume of albumin 20%,"albumin human, USP 200 MG/ML Injection",RxNorm,35605716,8587,
+vitals,alb5,mL,Infused volume of albumin 5%,"albumin human, USP 50 MG/ML Injection",RxNorm,35605886,8587,
+vitals,art_dbp,mmHg,Arterial diastolic blood pressure,Invasive Diastolic blood pressure,LOINC,21490851,8876,
+vitals,art_mbp,mmHg,Arterial mean blood pressure,Invasive Mean blood pressure,LOINC,21490852,8876,
+vitals,art_sbp,mmHg,Arterial systolic blood pressure,Invasive Systolic blood pressure,LOINC,21490853,8876,
+vitals,bis,,Bispectral index,Bispectral index Cerebral cortex Electroencephalogram (EEG),LOINC,21490711,0,
+vitals,bt,Celsius,Body temperature,Body temperature,LOINC,3020891,586323,
+vitals,cbro2,%,cerebral regional oxygen saturation,Cerebral oxygen saturation,SNOMED,37397426,8554,
+vitals,ci,L/min/m2,Cardiac Index,Right ventricular Cardiac index by Indicator dilution,LOINC,3036194,32710,
+vitals,cryo,Unit,Transfused cryoprecipitate,CRYOPRECIPITATE,RxNorm Extension,36848862,8510,
+vitals,cvp,mmHg,Central venous pressure,Central venous pressure (CVP),LOINC,21490675,8876,
+vitals,d10w,mL,Infused volume of Dextrose 10% water,glucose 100 MG/ML Injection,RxNorm,36249710,8587,
+vitals,d50w,mL,Infused volume of Dextrose 50% water,glucose 500 MG/ML Injection,RxNorm,36249719,8587,
+vitals,d5w,mL,Infused volume of Dextrose 5% water,glucose 50 MG/ML Injection,RxNorm,36249735,8587,
+vitals,dobui,ug/kg/min,Rate of dobutamine continuous infusion,dobutamine,RxNorm,1337720,9688,
+vitals,dopai,ug/kg/min,Rate of dopamine continuous infusion,dopamine,RxNorm,1337860,9688,
+vitals,ebl,mL,Estimated blood loss,Blood loss.total intraoperative [Volume] Estimated,LOINC,3021505,8587,
+vitals,eph,mg,Injected dose of Ephedrine,ephedrine,RxNorm,1143374,8576,
+vitals,epi,ug,Injected dose of Epinephrine,epinephrine,RxNorm,1343916,9655,
+vitals,epii,ug/kg/min,Rate of epinephrine continuous infusion,epinephrine,RxNorm,1343916,9688,
+vitals,etco2,mmHg,End tidal concentration of carbon dioxide,Carbon dioxide [VFr/PPres] in Airway adaptor --at end expiration,LOINC,21490569,8876,
+vitals,etdes,%{vol},End tidal concentration of desflurane,Desflurane [VFr/PPres] Airway adaptor --at end expiration,LOINC,21490627,9234,
+vitals,etgas,%{vol},End tidal concentration of anesthetic agent,Anesthetic agent.XXX Airway adaptor --at end expiration,LOINC,21490624,9234,
+vitals,etiso,%{vol},End tidal concentration of isoflurane,Isoflurane [VFr/PPres] Airway adaptor --at end expiration,LOINC,21490631,9234,
+vitals,etsevo,%{vol},End tidal concentration of sevoflurane,Sevoflurane [VFr/PPres] Airway adaptor --at end expiration,LOINC,21490634,9234,
+vitals,ffp,Unit,Transfused fresh frozen plasma,Transfuse fresh frozen plasma units [#],LOINC,3040962,8510,
+vitals,fio2,%{vol},Fraction of inspired oxygen,Oxygen [VFr/PPres] Airway adaptor --during inspiration,LOINC,21490528,9234,
+vitals,ftn,ug,Injected dose of fentanyl,fentanyl,RxNorm,1154029,9655,
+vitals,hes,mL,Infused volume of Hydroxyethyl-starch solution,hydroxyethyl starch 130-0.4 Injection,RxNorm,1718295,8587,
+vitals,hns,mL,Infused volume of half normal saline,sodium chloride 4.5 MG/ML Injection,RxNorm,40221364,8587,
+vitals,hr,/min,Heart rate,Heart rate,LOINC,3027018,8541,
+vitals,hs,mL,Infused volume of Hartmann solution,calcium chloride / lactate / potassium chloride / sodium chloride Injectable Solution,RxNorm,40166953,8587,
+vitals,mdz,mg,Injected dose of midazolam,midazolam,RxNorm,708298,8576,
+vitals,minvol,L/min,Minute ventilation,Expired minute Volume during Mechanical ventilation,LOINC,42527120,8698,
+vitals,mlni,ug/kg/min,Rate of milrinone continuous infusion,milrinone,RxNorm,1368671,9688,
+vitals,n2o,L/min,Flow of nitrous oxide,Fresh gas.nitrous oxide flow Gas delivery system,LOINC,21490717,8698,
+vitals,nepi,ug/kg/min,Rate of norepinephrine continuous infusion,norepinephrine,RxNorm,1321341,9688,
+vitals,nibp_dbp,mmHg,Non-invasive diastolic blood pressure,Diastolic blood pressure by Noninvasive,LOINC,21492240,8876,
+vitals,nibp_mbp,mmHg,Non-invasive mean blood pressure,Mean blood pressure by Noninvasive,LOINC,21492241,8876,
+vitals,nibp_sbp,mmHg,Non-invasive systolic blood pressure,Systolic blood pressure by Noninvasive,LOINC,21492239,8876,
+vitals,ns,mL,Infused volume of normal saline,sodium chloride 9 MG/ML Injection,RxNorm,40221382,8587,
+vitals,ntgi,ug/kg/min,Rate of nitroglycerin continuous infusion,nitroglycerin,RxNorm,1361711,9688,
+vitals,o2,L/min,Flow of oxygen,Fresh gas.oxygen flow Gas delivery system,LOINC,21490718,8698,
+vitals,pap_dbp,mmHg,Pulmonary artery diastolic blood pressure,Pulmonary artery Diastolic blood pressure,LOINC,3017188,8876,
+vitals,pap_mbp,mmHg,Pulmonary artery mean blood pressure,Pulmonary artery Mean blood pressure,LOINC,3028074,8876,
+vitals,pap_sbp,mmHg,Pulmonary artery systolic blood pressure,Pulmonary artery Systolic blood pressure,LOINC,3005606,8876,
+vitals,pc,Unit,Transfused platelet concentrate,human platelets Injectable Suspension,LOINC,43712420,8510,
+vitals,peep,cmH2O,Positive end expiratory pressure,PEEP Respiratory system --on ventilator,LOINC,21490855,44777590,
+vitals,pepi,ug/kg/min,Rate of phenylephrine continuous infusion,phenylephrine,RxNorm,1135766,9688,
+vitals,phe,ug,Injected dose of phenyephrine,phenylephrine,RxNorm,1135766,9655,
+vitals,pheresis,Unit,Transfused plateletpheresis,Transfuse plateletpheresis [Volume],LOINC,3013342,8510,
+vitals,pip,cmH2O,Peak inspiratory pressure,Pressure max Respiratory system airway --during inspiration,LOINC,21490650,44777590,
+vitals,pmean,cmH2O,Mean airway pressure,Mean airway pressure,LOINC,42527086,44777590,
+vitals,ppf,mg,Injected dose of propofol,propofol,RxNorm,753626,8576,
+vitals,ppfi,ug/mL,Target concentration of propofol,propofol,RxNorm,753626,8859,
+vitals,pplat,cmH2O,Plateau pressure,Pressure.plateau Respiratory system airway,LOINC,36304439,44777590,
+vitals,psa,mL,Infused volume of plasma solution,Transfuse plasma [Volume],LOINC,3009665,8587,
+vitals,rbc,Unit,Transfused red blood cell,Transfuse packed erythrocytes units [#],LOINC,3040494,8510,
+vitals,rfti,ng/mL,Target concentration of remifentanil,remifentanil,RxNorm,19016749,8842,
+vitals,rr,/min,Respiration rate,Respiratory rate,LOINC,3024171,8541,
+vitals,sft,ug,Injected dose of sufentanil,sufentanil,RxNorm,19078219,9655,
+vitals,spo2,%,Peripheral oxygen saturation,Oxygen saturation in Blood,LOINC,3013502,8554,
+vitals,sti,mV,ST segment elevation in lead I,ST amplitude.lead I,LOINC,21490798,720843,
+vitals,stii,mV,ST segment elevation in lead II,ST amplitude.lead II,LOINC,21490799,720843,
+vitals,stiii,mV,ST segment elevation in lead III,ST amplitude.lead III,LOINC,21490800,720843,
+vitals,stv5,mV,ST segment elevation in lead V5,ST amplitude.lead V5,LOINC,21490796,720843,
+vitals,svi,mL/m2,Stroke volume index,Right ventricular Stroke volume index by Indicator dilution,LOINC,3011189,32739,
+vitals,uo,mL,Urine output,Urine output,LOINC,3014315,8587,
+vitals,vaso,Unit,Injected dose of vasopressin,vasopressin (USP),RxNorm,1507835,8510,
+vitals,vt,mL,Tidal volume,Tidal volume expired Respiratory system airway --on ventilator,LOINC,21490789,8587,
+ward_vitals,bt,Celsius,Body Temperature,Body temperature,LOINC,3020891,586323,
+ward_vitals,crrt,0/1,Use of hemodialysis or continuous renal replacement therapy,Continuous renal replacement therapy panel,LOINC,1989465,0,
+ward_vitals,ecmo,0/1,Use of extracorporeal membrane oxygenator,Extracorporeal life support (ECLS)/Extracorporeal membrane oxygenation (ECMO),LOINC,21498858,0,
+ward_vitals,hr,/min,Heart rate,Heart rate,LOINC,3027018,8541,
+ward_vitals,iabp,0/1,Existence of any parameter related to use of Intra-aortic baloon pump,Intra-aortic balloon pump (IABP),LOINC,36309243,0,
+ward_vitals,nibp_dbp,mmHg,Non-invasive diastolic blood pressure,Diastolic blood pressure by Noninvasive,LOINC,21492240,8876,
+ward_vitals,nibp_mbp,mmHg,Non-invasive mean blood pressure,Mean blood pressure by Noninvasive,LOINC,21492241,8876,
+ward_vitals,nibp_sbp,mmHg,Non-invasive systolic blood pressure,Systolic blood pressure by Noninvasive,LOINC,21492239,8876,
+ward_vitals,rr,/min,Respiration rate,Respiratory rate,LOINC,3024171,8541,
+ward_vitals,spo2,%,Peripheral oxygen saturation,Oxygen saturation in Blood,LOINC,3013502,8554,
+ward_vitals,vent,0/1,Use of mechanical ventilation,Respiratory assistance with manual or mechanical ventilation,LOINC,36308817,0,
